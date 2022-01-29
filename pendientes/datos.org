@@ -1,0 +1,7 @@
+* Pendientes en datos de reelección 1920s
+- [ ] Busca fuentes en Godoy (como el libro de Rod Camp) para verificar nombres
+- [ ] Busca fuentes en página web de la Cámara
+- [ ] Investiga dónde se puede reconstruir el mapa de los distritos (suponiendo que los distritos agrgaban municipios)
+- [ ] Verificar status de Baja California: era territorio que (creo) se dividió en dos territorios (N y S) en en periodo como preparación para que BCN se convirtiera en estado en ~1931. 
+* Mail
+
