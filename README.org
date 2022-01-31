@@ -1,0 +1,59 @@
+#+TITLE: Data on congressional reelection in 1920s Mexico
+#+AUTHOR: Eric Magar
+Last revision: 2021-06-29
+
+
+----------
+
+Work in progress
+
+----------
+
+# Export to md: M-x org-md-export-to-markdown
+
+* Description of /Recent Mexican Election Vote Returns/ repository
+- Author: Eric Magar
+- Email: emagar at itam dot mx
+
+# The repository contains voting data for recent Mexican elections for certain offices at different levels of aggregation. Data has been compiled from many sources. More recent years tend to be coded from official vote returns. Earlier elections tend to be from secondary sources (see Souces section). Data inludes district-level federal deputy vote returns since 1979 and district-level presidential vote returns since 2006; and municipality-level municipal president vote returns (except in the state of Nayarit, votes cast for municipal president also elect a municipal council in a fused ballot). 
+# * Files in the repository and how to cite them
+# You are free to download and modify the data (see the LICENSE document for details) provided you give proper credit to this source. Unless otherwise noted next to the file descriptor, the cite is Eric Magar (2018) Recent Mexican election vote returns repository, [[https://github.com/emagar/reeleccion-1920s]].
+* Codebook
+# Most variables are included in every file, some appear in selected files only.  
+# - /edon/ = state number 1:32.
+# - /edo/ = state abbreviation (may differ from the 'official' abbreviations so that sorting them alphabetically preserves the order set by /edon/).
+# - /disn/ = district number.
+# - /emm/ = municipal indentifying code (/edo/-electionCycle./munn/). 
+# - /mun/ = municipality.
+# - /munn/, /inegi/, /ife/ = municipal identifier, reporting the number and the codes used by INEGI and IFE, respectively.
+# - /yr/, /mo/, /dy/ = year, month, day of the election. 
+# - /cab/ = cabecera, district's administrative center.
+# - /circ/ = PR district (circunscripcion electoral, 2nd tier).
+# - /v01/, /v02/, ... = raw vote for candidate 1, 2, etc.
+# - /l01/, /l02/, ... = label of candidate 1's, 2's, ... party or coalition.
+# - /c01/, /c02/, ... = candidate 1's, 2's, ... name.
+# - /s01/, /s02/, ... = suplente (substitute) for candidate 1, 2, etc.
+# - /efec/ = effective votes, equal the total raw votes minus votes for write-in candidates and invalid ballots. 
+# - /nr/ = votes for write-in candidates.
+# - /nul/ = invalid ballots.
+# - /tot/ = total raw votes.
+# - /lisnom/ = eligible voters (/lista nominal/).
+# - /nota/ = notes.
+# - /fuente/ = source.
+# - /ncand/ = number of candidates running.
+# - /dcoal/ = dummy equal 1 if at least one candidate ran on a multi-party pre-electoral coalition, 0 otherwise.
+# - /ncoal/ = number of candidates who ran on multi-party pre-electoral coalitions. 
+# - /coalpan/, /coalpri/, /coalprd/ = members of major-party coalitions ('no' indidates no coalition).
+# - /imputacion/, /distpan/, /distpri/, /distprd/ = when some parties coelesced in such way that only their pooled vote was reported, an attempt is made to infer how many votes each coalition member contributed to team. Variable /imputacion/ lists what earlier election was used for this purpose ('no' if none carried); /dist/ variables report the share of the coalition total attributable to PAN, PRI, and PRD, respectively. See [[https://github.com/emagar/replicationMaterial/blob/master/gubCoat/onlineAppendix.pdf][this]] for details.
+# - /seyr/, /semo/ = year of the previous/concurrent senatorial election.
+# - /sepan/, /sepri/, /seprd/ = votes won by major parties in previous/concurrent senatorial election.
+# - /seefec/ = effective votes in previous/concurrent senatorial election.
+# - /fake/ = indicates fake data for hegemonic era elections, made up of best guesses about what happened in the state's race for the purpose of computing vote lags. Will normally be dropped from analysis.
+# - /win/ = winner's party or coalition.
+# - /incumbent/ = winning candidate's name. 
+# - /race.after/ = incumbent's status in the subsequent race. See [[status-rules][this]] for categories and coding procedure ([[status-rules-esp][aquí]] la versión en español del procedimiento codificador). 
+# - /dcarta/ = dummy equal 1 if member filed a letter of intent with the chamber's Junta to run for office again; 0 otherwise. Inapplicable before 2018. See [[http://eleccionconsecutiva.diputados.gob.mx/contendientes][this]]. 
+* Sources
+* Acknowledgements
+Eric Magar acknowledges financial support from the Asociación Mexicana de Cultura A.C. He is responsible for mistakes and shortcomings in the data. 
+
