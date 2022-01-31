@@ -1,9 +1,9 @@
-- [Description of *Recent Mexican Election Vote Returns* repository](#org0a0e46b)
-- [Codebook](#org02f6e11)
-- [Sources](#orgda16769)
-- [Acknowledgements](#orge92539c)
+- [Description of *Recent Mexican Election Vote Returns* repository](#org37251fc)
+- [Codebook](#org6a4483a)
+- [Sources](#orgbab64c4)
+- [Acknowledgements](#orgdd3921a)
 
-Last revision: 2021-06-29
+Last revision: 2022-01-30
 
 ---
 
@@ -12,7 +12,7 @@ Work in progress
 ---
 
 
-<a id="org0a0e46b"></a>
+<a id="org37251fc"></a>
 
 # Description of *Recent Mexican Election Vote Returns* repository
 
@@ -20,17 +20,17 @@ Work in progress
 -   Email: emagar at itam dot mx
 
 
-<a id="org02f6e11"></a>
+<a id="org6a4483a"></a>
 
 # Codebook
 
 
-<a id="orgda16769"></a>
+<a id="orgbab64c4"></a>
 
 # Sources
 
 
-<a id="orge92539c"></a>
+<a id="orgdd3921a"></a>
 
 # Acknowledgements
 

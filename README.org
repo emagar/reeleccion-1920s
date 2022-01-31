@@ -1,6 +1,6 @@
 #+TITLE: Data on congressional reelection in 1920s Mexico
 #+AUTHOR: Eric Magar
-Last revision: 2021-06-29
+Last revision: 2022-01-30
 
 
 ----------
