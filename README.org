@@ -11,13 +11,7 @@ Work in progress
 
 # Export to md: M-x org-md-export-to-markdown
 
-* Description of /Recent Mexican Election Vote Returns/ repository
-- Author: Eric Magar
-- Email: emagar at itam dot mx
-
-# The repository contains voting data for recent Mexican elections for certain offices at different levels of aggregation. Data has been compiled from many sources. More recent years tend to be coded from official vote returns. Earlier elections tend to be from secondary sources (see Souces section). Data inludes district-level federal deputy vote returns since 1979 and district-level presidential vote returns since 2006; and municipality-level municipal president vote returns (except in the state of Nayarit, votes cast for municipal president also elect a municipal council in a fused ballot). 
-# * Files in the repository and how to cite them
-# You are free to download and modify the data (see the LICENSE document for details) provided you give proper credit to this source. Unless otherwise noted next to the file descriptor, the cite is Eric Magar (2018) Recent Mexican election vote returns repository, [[https://github.com/emagar/reeleccion-1920s]].
+* Description
 * Codebook
 # Most variables are included in every file, some appear in selected files only.  
 # - /edon/ = state number 1:32.
