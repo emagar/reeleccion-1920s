@@ -3,5 +3,9 @@
 - [ ] Busca fuentes en página web de la Cámara
 - [ ] Investiga dónde se puede reconstruir el mapa de los distritos (suponiendo que los distritos agrgaban municipios)
 - [ ] Verificar status de Baja California: era territorio que (creo) se dividió en dos territorios (N y S) en en periodo como preparación para que BCN se convirtiera en estado en ~1931. 
+* Diario de los debates
+- [ ] Sesiones de instalación legislaturas XXVII a XXXVI, listado de diputados
 * Mail
+
+
 
