@@ -1,32 +1,32 @@
 ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
-1671,ABARCA PEREZ--JUAN ,mic,19,32,1926-1928,FLORES--VICTORINO,Mayoría,,,Michoacán ,Abarca Pérez--Juan 
-1948,ABARCA PEREZ--JUAN    ,mic,19,33,1928-1930,ZARAGOZA--JUVENTINO,UPS Mayoría,,,Michoacán,Abarca Pérez--Juan    
-1313,ABASCAL--JUAN G. ,gua,6,31,1924-1926,SILVA RUIZ--JESUS,Mayoría,,,Guanajuato,Abascal--Juan G. 
-2002,ABITIA--LIBRADO    ,qui,0,33,1928-1930,OROZCO--ALFONSO,Mayoría,,,Quintana Roo,Abitia--Librado    
-891,ACEVEDO--JOAQUIN,oax,7,29,1920-1922,OSORIO--ARTURO,Mayoría,7320,,Oaxaca,Acevedo--Joaquín
-1930,ACEVES--ALBERTO    ,mic,1,33,1928-1930,RAMOS--SALVADOR,Mayoría,,,Michoacán,Aceves--Alberto    
-611,ACEVES--ALEJANDRO R.,mic,13,28,1918-1920,AMEZOLA--ANDRES,Mayoría,,,Michoacán,Aceves--Alejandro R.
-1403,ACEVES--ERNESTO ,mic,18,31,1924-1926,PADILLA RAMIREZ--RAFAEL,Mayoría,4798,,Michoacán,Aceves--Ernesto 
-1670,ACEVES--ERNESTO ,mic,18,32,1926-1928,PADILLA RAMIREZ--RAFAEL,Mayoría,,,Michoacán ,Aceves--Ernesto 
-1931,ACEVES--ERNESTO    ,mic,2,33,1928-1930,ARROYO DE ANDA--FRANCISCO,Mayoría,,,Michoacán,Aceves--Ernesto    
+1671,ABARCA PEREZ--JUAN ,mic,19,32,1926-1928,FLORES--VICTORINO,Mayoría,,Revisado,Michoacán ,Abarca Pérez--Juan 
+1948,ABARCA PEREZ--JUAN    ,mic,19,33,1928-1930,ZARAGOZA--FLORENTINO,UPS Mayoría,,Cambio Suplente,Michoacán,Abarca Pérez--Juan    
+1313,ABASCAL--JUAN G. ,gua,6,31,1924-1926,SILVA RUIZ--JESUS,Mayoría,,Revisado,Guanajuato,Abascal--Juan G. 
+2002,ABITIA--LIBRADO    ,qui,0,33,1928-1930,OROZCO--ALFONSO,Mayoría,,Revisado,Quintana Roo,Abitia--Librado    
+891,ACEVEDO--JOAQUIN,oax,7,29,1920-1922,OSORIO--ARTURO,Mayoría,7320,Revisado,Oaxaca,Acevedo--Joaquín
+1930,ACEVES--ALBERTO    ,mic,1,33,1928-1930,RAMOS--SALVADOR,Mayoría,,Revisado,Michoacán,Aceves--Alberto    
+611,ACEVES--ALEJANDRO R.,mic,13,28,1918-1920,AMEZOLA--ANDRES,Mayoría,,Revisado,Michoacán,Aceves--Alejandro R.
+1403,ACEVES--ERNESTO ,mic,18,31,1924-1926,PADILLA RAMIREZ--RAFAEL,Mayoría,4798,Revisado,Michoacán,Aceves--Ernesto 
+1670,ACEVES--ERNESTO ,mic,18,32,1926-1928,PADILLA RAMIREZ--RAFAEL,Mayoría,,Revisado,Michoacán ,Aceves--Ernesto 
+1931,ACEVES--ERNESTO    ,mic,2,33,1928-1930,ARROYO DE ANDA--FRANCISCO,Mayoría,,Suplente: Arroyo de Ando (Ai Camp),Michoacán,Aceves--Ernesto    
 2459,ACEVES--NARCISO D. ,jal,,36,1934-1937,,PNR,,,Jalisco,Aceves--Narciso D. 
-1534,ACOSTA--DOMINGO P. ,coa,6,32,1926-1928,GUEDEA--LAZARA,Mayoría,,,Coahuila,Acosta--Domingo P. 
-249,ACUÑA--JESUS,df,8,27,1917-1918,OSORNIO--ENRIQUE C,Mayoría,,,Distrito Federal,Acuña--Jesús
-213,ADAME--JULIAN ,zac,0,26,1916-1917,,,,congreso constituyente,Zacatecas,Adame--Julián 
-1236,AGUADO--JOSE ISMAEL,ver,11,30,1922-1924,GARCIA--RUPERTO,Mayoría,,,Veracruz,Aguado--José Ismael
-1647,AGUAYO--MANUEL ,mex,12,32,1926-1928,ROMO FLORES--ALBERTO,Mayoría,5368,,México,Aguayo--Manuel 
-1482,AGUILAR FICACHI--JUAN ,tab,3,31,1924-1926,RUIZ--ALEJANDRO,Mayoría,5262,,Tabasco,Aguilar Ficachi--Juan 
+1534,ACOSTA--DOMINGO P. ,coa,6,32,1926-1928,GUEDEA--LAZARO,Mayoría,,Suplente: L�zaro (Ai Camp),Coahuila,Acosta--Domingo P. 
+249,ACUÑA--JESUS,df,8,27,1917-1918,OSORNIO--ENRIQUE C,Mayoría,,Revisado,Distrito Federal,Acuña--Jesús
+213,ADAME--JULIAN ,zac,0,26,1916-1917,MU�OZ--RODOLFO,,,congreso constituyente (Cambio Suplente),Zacatecas,Adame--Julián 
+1236,AGUADO--JOSE ISMAEL,ver,11,30,1922-1924,GARCIA--RUPERTO S.,Mayoría,,Cambio Suplente,Veracruz,Aguado--José Ismael
+1647,AGUAYO--MANUEL ,mex,12,32,1926-1928,ROMO FLORES--ALBERTO,Mayoría,5368,Revisado,México,Aguayo--Manuel 
+1482,AGUILAR FICACHI--JUAN ,tab,3,31,1924-1926,RUIZ--ALEJANDRO,Mayoría,5262,Revisado,Tabasco,Aguilar Ficachi--Juan 
 2415,AGUILAR G.--JULIAN ,cua,,36,1934-1937,,PNR,,,Chihuahua,Aguilar G.--Julián 
-189,AGUILAR VARGAS--CANDIDO ,ver,0,26,1916-1917,,,,congreso constituyente,Veracruz,Aguilar Vargas--Cándido 
-1586,AGUILAR Y MAYA--JOSE,gua,12,32,1926-1928,ROCHA--SEBASTIAN,Mayoría,,,Guanajuato,Aguilar y Maya--José
-1869,AGUILAR Y MAYA--JOSE   ,gua,21,33,1928-1930,ALBARRAN--SALVADOR,PRG Mayoría,,,Guanajuato,Aguilar y Maya--José   
-92,AGUILAR--ANTONIO,mex,0,26,1916-1917,,,,congreso constituyente,México,Aguilar--Antonio
-592,AGUILAR--ANTONIO,mex,11,28,1918-1920,AGUILAR--JOSE D.,Mayoría,2446,,México,Aguilar--Antonio
-1760,AGUILAR--INES ,tla,3,32,1926-1928,SOLIS--ALEJANDRO,Mayoría,479,,Tlaxcala,Aguilar--Inés 
-1654,AGUILAR--JOSE ,mic,1,32,1926-1928,MACIEL--DEMETRIO,Mayoría,,,Michoacán ,Aguilar--José 
-1795,AGUILAR--JUAN ZENON ,zac,8,32,1926-1928,JUAREZ--LUIS,Mayoría,,,Zacatecas,Aguilar--Juan Zenón 
-2073,AGUILAR--JUAN ZENON     ,zac,8,33,1928-1930,SERRANO--FRANCISCO,Mayoría,,,Zacatecas,Aguilar--Juan Zenón     
-550,AGUILAR--PABLO,hgo,3,28,1918-1920,HOYO--CARLOS,Mayoría,2753,,Hidalgo ,Aguilar--Pablo
+189,AGUILAR VARGAS--CANDIDO ,ver,0,26,1916-1917,GRACIDAS--CARLOS L.,,,congreso constituyente (Cambio Suplente),Veracruz,Aguilar Vargas--Cándido 
+1586,AGUILAR Y MAYA--JOSE,gua,12,32,1926-1928,ROCHA--SEBASTIAN,Mayoría,,Revisado,Guanajuato,Aguilar y Maya--José
+1869,AGUILAR Y MAYA--JOSE   ,gua,21,33,1928-1930,ALBARRAN--SALVADOR,PRG Mayoría,,Revisado,Guanajuato,Aguilar y Maya--José   
+92,AGUILAR--ANTONIO,mex,0,26,1916-1917,AGUILAR--JOSE D.,,,congreso constituyente (Cambio Suplente),México,Aguilar--Antonio
+592,AGUILAR--ANTONIO,mex,11,28,1918-1920,AGUILAR--JOSE D.,Mayoría,2446,Revisado,México,Aguilar--Antonio
+1760,AGUILAR--INES ,tla,3,32,1926-1928,SOLIS--ALEJANDRO,Mayoría,479,Revisado,Tlaxcala,Aguilar--Inés 
+1654,AGUILAR--JOSE ,mic,1,32,1926-1928,MACIEL--DEMETRIO,Mayoría,,Revisado,Michoacán ,Aguilar--José 
+1795,AGUILAR--JUAN ZENON ,zac,8,32,1926-1928,JUAREZ--LUIS,Mayoría,,Revisado,Zacatecas,Aguilar--Juan Zenón 
+2073,AGUILAR--JUAN ZENON     ,zac,8,33,1928-1930,SERRANO--FRANCISCO,Mayoría,,Revisado,Zacatecas,Aguilar--Juan Zenón     
+550,AGUILAR--PABLO,hgo,3,28,1918-1920,HOYO--CARLOS,Mayoría,2753,Revisado,Hidalgo ,Aguilar--Pablo
 437,AGUILAR--SILVESTRE,ver,1,27,1917-1918,CASAS RODRIGUEZ--JOSE,Derechista Mayoría,1944,,Veracruz,Aguilar--Silvestre
 190,AGUILAR--SILVESTRE ,ver,0,26,1916-1917,,,,congreso constituyente,Veracruz,Aguilar--Silvestre 
 1731,AGUILAR--VALENTIN ,san,6,32,1926-1928,ALONSO--J. GUADALUPE,Mayoría,,,San Luis Potosí,Aguilar--Valentín 
@@ -45,7 +45,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 316,AGUIRRE BERLANGA--JOAQUIN,jal,16,27,1917-1918,GOMEZ SALCEDO--ENRIQUE,Izquierdista Mayoría,,,Jalisco,Aguirre Berlanga--Joaquín
 576,AGUIRRE BERLANGA--JOAQUIN,jal,16,28,1918-1920,PEREZ ARCE--SALVADOR,Mayoría,,,Jalisco,Aguirre Berlanga--Joaquín
 71,AGUIRRE BERLANGA--JOAQUIN ,jal,0,26,1916-1917,,,,congreso constituyente,Jalisco,Aguirre Berlanga--Joaquín 
-6,AGUIRRE BERLANGA--MANUEL ,coa,0,26,1916-1917,,,,congreso constituyente,Coahuila,Aguirre Berlanga--Manuel 
+6,AGUIRRE BERLANGA--MANUEL ,coa,0,26,1916-1917,RODRIGUEZ GONZALEZ--JOSE,,,congreso constituyente,Coahuila,Aguirre Berlanga--Manuel 
 246,AGUIRRE COLORADO--ERNESTO,df,5,27,1917-1918,RODRIGUEZ M--IGNACIO,Mayoría,,,Distrito Federal,Aguirre Colorado--Ernesto
 760,AGUIRRE COLORADO--ERNESTO,df,7,29,1920-1922,LUNA--PEDRO,Mayoría,1295,,Distrito Federal,Aguirre Colorado--Erne
 954,AGUIRRE COLORADO--FERNANDO,tab,3,29,1920-1922,CASTILLO--DANIEL J.,Mayoría,2526,,Tabasco ,Aguirre Colorado--Fernando
@@ -57,11 +57,11 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 72,AGUIRRE SANTIAGO--AMADO,jal,0,26,1916-1917,,,,congreso constituyente,Jalisco,Aguirre Santiago--Amado
 2373,AGUIRRE SILLER--JESUS,tam,3,35,1932-1934,PERALTA--ANTONIO,PNR Mayoría,,,Tamaulipas,Aguirre Siller--Jesús
 1320,AGUIRRE Y MAYA--JOSE ,gua,13,31,1924-1926,ALCANTAR--LEOPOLDO,Mayoría,,,Guanajuato,Aguirre y Maya--José 
-61,AGUIRRE--CRISOFORO,hgo,0,26,1916-1917,,,,congreso constituyente,Hidalgo,Aguirre--Crisóforo
 297,AGUIRRE--CRISOFORO,hgo,8,27,1917-1918,JASO--ANTONIO,Izquierdista Mayoría,2757,,Hidalgo,Aguirre--Crisóforo
+61,AGUIRRE--CRISOFORO,hgo,0,26,1916-1917,,,,congreso constituyente,Hidalgo,Aguirre--Crisóforo
 314,AGUIRRE--EFREN,jal,14,27,1917-1918,SAN JUAN--MIGUEL,Mayoría,,,Jalisco,Aguirre--Efrén
-2460,AGUIRRE--JESUS M. ,jal,,36,1934-1937,,,,,Jalisco,Aguirre--Jesús M. 
 1479,AGUIRRE--JESUS M. ,son,5,31,1924-1926,MORALES--ROBERTO A.,PUPBJ Mayoría,3294,,Sonora,Aguirre--Jesús M. 
+2460,AGUIRRE--JESUS M. ,jal,,36,1934-1937,,,,,Jalisco,Aguirre--Jesús M. 
 225,AGUIRRE--SERAPIO,coa,1,27,1917-1918,FIGUEROA--GUSTAVO,Mayoría,,,Coahuila,Aguirre--Serapio
 830,AILLAND--AUGUSTO,jal,15,29,1920-1922,BLANCO--GABRIEL,Mayoría,,,Jalisco,Ailland--Augusto
 1638,AILLAND--AUGUSTO ,mex,3,32,1926-1928,GARDUÑO--HIRAM,PSOC Mayoría,,,México,Ailland--Augusto 
@@ -79,8 +79,8 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 2322,ALBARRAN--AGAPITO M.,mor,1,35,1932-1934,LEYVA--JACINTO,PNR Mayoría,,,Morelos,Albarrán--Agapito M.
 2261,ALBIZTEVI--JOSE ALEJANDRO,dgo,1,35,1932-1934,ARELLANO--GUILLERMO,PNR Mayoría,,,Durango,Albiztevi--José Alejandro
 1610,ALBURQUERQUE--LAURO ,hgo,8,32,1926-1928,CRUZ--JUAN,Mayoría,,,Hidalgo,Alburquerque--Lauro 
-104,ALCARAZ ROMERO--SALVADOR,mic,0,26,1916-1917,,,,congreso constituyente,Michoacán,Alcaraz Romero--Salvador
 1129,ALCARAZ ROMERO--SALVADOR,mic,7,30,1922-1924,LUVIANO--CELERINO,Mayoría,,,Michoacán ,Alcaraz Romero--Salvador
+104,ALCARAZ ROMERO--SALVADOR,mic,0,26,1916-1917,,,,congreso constituyente,Michoacán,Alcaraz Romero--Salvador
 120,ALCAZAR--ALVARO L. ,mor,0,26,1916-1917,,,,congreso constituyente,Morelos,Alcázar--Álvaro L. 
 538,ALCOCER--ERNESTO,gua,17,28,1918-1920,DELGADO--PANTALEON,PLN Mayoría,,,Guanajuato,Alcocer--Ernesto
 39,ALCOCER--LUIS M.,gua,0,26,1916-1917,,,,congreso constituyente,Guanajuato,Alcocer--Luis M.
@@ -219,16 +219,16 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 338,AVELLANEDA--JUAN DE DIOS,mic,1,27,1917-1918,RUIZ--JOSE P,Mayoría,1154,,Michoacán,Avellaneda--Juan de Dios
 607,AVELLANEDA--JUAN DE DIOS,mic,10,28,1918-1920,VILLASEÑOR--NICANDRO,Mayoría,,,Michoacán,Avellaneda--Juan de Dios
 370,AVENDAÑO--SEVERIANO,oax,8,27,1917-1918,CASTELLANOS AGUILAR--FRANCISCO,Mayoría,,,Oaxaca,Avendaño--Severiano
+2292,AVIÑA LOPEZ--JUAN,jal,5,35,1932-1934,SAHAGUN--JERONIMO,PNR Mayoría,15455,,Jalisco,Aviña López--Juan
 2513,AVILA CAMACHO--RAFAEL ,pue,,36,1934-1937,,,,,Puebla,Avila Camacho--Rafael 
 171,AVILES ISUNZA--CANDIDO ,sin,0,26,1916-1917,,,,congreso constituyente,Sinaloa,Avilés Isunza--Cándido 
 1204,AVILES--CANDIDO,sin,2,30,1922-1924,VALDEZ--MANUEL,Mayoría,,,Sinaloa,Avilés--Cándido
 2154,AVILES--MANUEL ,mic,8,34,1930-1932,LANDA Y PIÑA--ANDRES,Mayoría,,,Michoacán ,Avilés--Manuel 
 1934,AVILES--MANUEL   ,mic,6,33,1928-1930,VAZQUEZ--ONOFRE,Mayoría,,,Michoacán,Avilés--Manuel   
-108,AVILES--URIEL,mic,0,26,1916-1917,,,,congreso constituyente,Michoacán,Avilés--Uriel
 342,AVILES--URIEL,mic,4,27,1917-1918,PATIÑO BORJA--FRANCISCO,Izquierdista Mayoría,,,Michoacán,Avilés--Uriel
 599,AVILES--URIEL,mic,2,28,1918-1920,SAENZ--JOSE ALFONSO,Mayoría,,,Michoacán,Avilés--Uriel
 858,AVILES--URIEL,mic,1,29,1920-1922,RUIZ--JOSE P.,PLC Mayoría,,,Michoacán,Avilés--Uriel
-2292,AVIÑA LOPEZ--JUAN,jal,5,35,1932-1934,SAHAGUN--JERONIMO,PNR Mayoría,15455,,Jalisco,Aviña López--Juan
+108,AVILES--URIEL,mic,0,26,1916-1917,,,,congreso constituyente,Michoacán,Avilés--Uriel
 2272,AYALA--DAVID,gua,8,35,1932-1934,ESQUIVEL--SATURNINO,PNR Mayoría,8173,,Guanajuato,Ayala--David
 2112,AYALA--DAVID ,gua,7,34,1930-1932,ALBARRAN--SALVADOR,PNR Mayoría,,,Guanajuato,Ayala--David 
 1861,AYALA--DAVID   ,gua,13,33,1928-1930,CORRAL--ADOLFO O.,PRG Mayoría,,,Guanajuato,Ayala--David   
@@ -240,6 +240,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1736,AZUARA--JUAN ENRIQUE ,san,11,32,1926-1928,ORTIZ--MIGUEL,Mayoría,,,San Luis Potosí,Azuara--Juan Enrique 
 2013,AZUARA--JUAN ENRIQUE   ,san,11,33,1928-1930,ZARATE--ANDRES,Mayoría,,,San Luis Potosí,Azuara--Juan Enrique   
 1225,AZUETA--ADOLFO,ver,1,30,1922-1924,ALEXANDER--JUAN L.,Mayoría,,,Veracruz,Azueta--Adolfo
+2224,BAÑUELOS--FRANCISCO ,zac,3,34,1930-1932,CERVANTES--CONSTANTINO,PRZ Mayoría,,,Zacatecas,Bañuelos--Francisco 
 74,BACA CALDERON--ESTEBAN,jal,0,26,1916-1917,,,,congreso constituyente,Jalisco,Baca Calderón--Esteban
 2203,BALBOA JR.--PRAXEDIS ,tam,3,34,1930-1932,RAZO--SALVADOR,PNR Mayoría,,,Tamaulipas,Balboa Jr.--Práxedis 
 2031,BALBOA JR.--PRAXEDIS   ,tam,1,33,1928-1930,GARZA--JR. LORETO,PSF Mayoría,,,Tamaulipas,Balboa Jr.--Práxedis   
@@ -259,7 +260,6 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 545,BANDERA Y MATA--GABINO,gue,6,28,1918-1920,VICARIO--JUAN N.,Mayoría,4588,,Guerrero,Bandera y Mata--Gabino
 395,BANDERA Y MATA--GABINO,pue,13,27,1917-1918,PERDOMO LEAL,Izquierdista Mayoría,,,Puebla,Bandera y Mata--Gabino
 144,BANDERA Y MATA--GABINO ,pue,0,26,1916-1917,,,,congreso constituyente,Puebla,Bandera y Mata--Gabino 
-2224,BAÑUELOS--FRANCISCO ,zac,3,34,1930-1932,CERVANTES--CONSTANTINO,PRZ Mayoría,,,Zacatecas,Bañuelos--Francisco 
 1689,BARANDA--PABLO ,oax,5,32,1926-1928,ARADILLAS--MANUEL,Mayoría,,,Oaxaca,Baranda--Pablo 
 914,BARBOSA JR.--FRANCISCO,pue,10,29,1920-1922,TEJEDA--GABRIEL,Mayoría,3593,,Puebla,Barbosa--Francisco Jr.
 1988,BARBOSA M.--MIGUEL,pue,12,33,1928-1930,GOMEZ--EVERARDO,Mayoría,,,Puebla,Barbosa M.--Miguel
@@ -287,10 +287,10 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 2452,BARRON--BRIGIDO  ,hgo,,36,1934-1937,,PNR,,,Hidalgo,Barrón--Brígido  
 1713,BARROS--HUMBERTO,pue,12,32,1926-1928,GALICIA--HILARIO,Mayoría,,,Puebla,Barros--Humberto
 886,BARROSO--CARLOS,oax,2,29,1920-1922,MARTINEZ--GUADALUPE F.,Mayoría,3719,,Oaxaca,Barroso--Carlos
-928,BASALDUA--FILEMON,que,4,29,1920-1922,MONTES--REYNALDO,Mayoría,,,Querétaro,Basaldúa--Filemón
 451,BASAÑEZ--RUBEN,ver,14,27,1917-1918,CORREA--JOAQUIN,Mayoría,731,,Veracruz,Basañez--Rubén
 707,BASAÑEZ--RUBEN,ver,15,28,1918-1920,GRACIDAS--CARLOS L.,Mayoría,1789,,Veracruz,Basañez--Rubén
 1240,BASAÑEZ--RUBEN,ver,15,30,1922-1924,MELENDEZ--JORGE,Mayoría,,,Veracruz,Basañez--Rubén
+928,BASALDUA--FILEMON,que,4,29,1920-1922,MONTES--REYNALDO,Mayoría,,,Querétaro,Basaldúa--Filemón
 2134,BASULTO LIMON--FERNANDO ,jal,8,34,1930-1932,SANTANA--AURELIO,Mayoría,,,Jalisco,Basulto Limón--Fernando 
 1339,BASURTO--ARTEMIO,hgo,5,31,1924-1926,PEÑA JR.--FRANCISCO DE LA,Mayoría,,,Hidalgo,Basurto--Artemio
 590,BASURTO--DANIEL,mex,10,28,1918-1920,MARTINEZ--RICARDO,Mayoría,1573,,México,Basurto--Daniel
@@ -326,10 +326,10 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 948,BOJORQUEZ--JUAN DE DIOS,son,2,29,1920-1922,CASTILLO NAJERA--ANGEL,Mayoría,1464,,Sonora,Bojórquez--Juan de Dios
 175,BOJORQUEZ--JUAN DE DIOS ,son,0,26,1916-1917,,,,congreso constituyente,Sonora,Bojórquez--Juan de Dios 
 1969,BOLAÑOS CACHO--DEMETRIO   ,oax,10,33,1928-1930,DIAZ CHAVEZ--MANUEL,Mayoría,,,Oaxaca,Bolaños Cacho--Demetrio   
-2501,BOLAÑOS ESPINOZA--DEMETRIO ,oax,,36,1934-1937,,PNR,,,Oaxaca,Bolaños Espinoza--Demetrio 
 2119,BOLAÑOS OCAMPO--N. ,gue,5,34,1930-1932,OJEDA--NABOR A.,Mayoría,,,Guerrero,Bolaños Ocampo--N. 
 75,BOLAÑOS V.--GASPAR,jal,0,26,1916-1917,,,,congreso constituyente,Jalisco,Bolaños V.--Gaspar
 1164,BOLAÑOS--LEOVIGILDO,oax,11,30,1922-1924,LOPEZ--ABRAHAM,Mayoría,,,Oaxaca,Bolaños--Leovigildo
+2501,BOLAÑOS ESPINOZA--DEMETRIO ,oax,,36,1934-1937,,PNR,,,Oaxaca,Bolaños Espinoza--Demetrio 
 717,BOLIO--EDMUNDO,yuc,6,28,1918-1920,QUINTAL--ANTONIO L.,Mayoría,7231,,Yucatán,Bolio--Edmundo
 986,BOLIO--EDMUNDO,yuc,4,29,1920-1922,CARRILLO--FEDERICO,Mayoría,,,Yucatán ,Bolio--Edmundo
 2364,BON BUSTAMANTE--CRISTOBAL,sin,3,35,1932-1934,BRINGAS--LUIS G.,PNR Mayoría,,,Sinaloa,Bon Bustamante--Cristóbal
@@ -355,8 +355,8 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 868,BRAVO BETANCOURT--JOSE,mic,13,29,1920-1922,SANCHEZ ARRIOLA--RAMON,Mayoría,1309,,Michoacán,Bravo Betancourt--José
 336,BRAVO IZQUIERDO--DONATO,mex,15,27,1917-1918,ROMERO VALENCIA,Izquierdista Mayoría,,,México,Bravo Izquierdo--Donato
 596,BRAVO IZQUIERDO--DONATO,mex,15,28,1918-1920,SOTRES OLACA--JESUS,Mayoría,2187,,México,Bravo Izquierdo--Donato
-93,BRAVO IZQUIERDO--DONATO ,mex,0,26,1916-1917,,,,congreso constituyente,México,Bravo Izquierdo--Donato 
 1650,BRAVO IZQUIERDO--DONATO ,mex,15,32,1926-1928,SOTRES Y OLACO--JESUS,Mayoría,2187,,México,Bravo Izquierdo--Donato 
+93,BRAVO IZQUIERDO--DONATO ,mex,0,26,1916-1917,,,,congreso constituyente,México,Bravo Izquierdo--Donato 
 1987,BRAVO IZQUIERDO--JOSE    ,pue,11,33,1928-1930,MONTES DE OCA--ENRIQUE,PNA Mayoría,4916,,Puebla,Bravo Izquierdo--José    
 825,BRAVO Y JUAREZ--JUAN,jal,10,29,1920-1922,ENCISO--JAVIER,Mayoría,3353,,Jalisco,Bravo y Juárez--Juan
 633,BRAVO--CARLOS,oax,10,28,1918-1920,JUAREZ--MARCOS,PCUP Mayoría,2386,,Oaxaca,Bravo--Carlos
@@ -365,12 +365,12 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1578,BRAVO--JUAN B. ,gua,4,32,1926-1928,SANCHEZ--JAVIER,Mayoría,,,Guanajuato,Bravo--Juan B. 
 616,BRAVO--LUCAS,nay,2,28,1918-1920,PARTIDA--AURELIO,Mayoría,1966,,Nayarit,Bravo--Lucas
 877,BRAVO--LUCAS,nay,2,29,1920-1922,PARTIDA--AURELIO,Mayoría,1309,,Nayarit,Bravo--Lucas
+598,BREÑA--LUIS,mic,1,28,1918-1920,LUNA PEDRO A.,PDBJ Mayoría,693,,Michoacán,Breña--Luis
 259,BRECEDA--ALFONSO,dgo,4,27,1917-1918,ECHEVERRIA--ALBERTO,Mayoría,,,Durango,Breceda--Alfonso
 518,BRECEDA--ALFONSO,dgo,4,28,1918-1920,ECHEVERRIA--ALBERTO,Mayoría,2700,,Durango,Breceda--Alfonso
 482,BRECEDA--ALFREDO,coa,3,28,1918-1920,FLORES--MANUEL H.,Mayoría,6905,,Coahuila,Breceda--Alfredo
 1007,BRECEDA--ENRIQUE,coa,4,30,1922-1924,CEPEDA--REGINALDO,Mayoría,3719,,Coahuila,Breceda--Enrique
 2313,BREMAUNTZ MARTINEZ--ALBERTO,mic,3,35,1932-1934,CASTILLO--FEDERICO,PNR Mayoría,,,Michoacán,Bremauntz--Alberto
-598,BREÑA--LUIS,mic,1,28,1918-1920,LUNA PEDRO A.,PDBJ Mayoría,693,,Michoacán,Breña--Luis
 1722,BRIONES--AURELIO ,que,2,32,1926-1928,AMIREZ--INOCENCIO,Mayoría,,,Querétaro,Briones--Aurelio 
 1865,BRIONES--FRANCISCO     ,gua,17,33,1928-1930,CORDERO--RAUL,PRG Mayoría,4071,,Guanajuato,Briones--Francisco     
 1862,BUENO--ESTEBAN   ,gua,14,33,1928-1930,LUNA--DOMINGO,PRG Mayoría,,,Guanajuato,Bueno--Estebán   
@@ -378,6 +378,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 2323,BUSTAMANTE--JOSE REFUGIO,mor,2,35,1932-1934,GUTIERREZ--JESUS,PNR Mayoría,,,Morelos,Bustamante--José Refugio
 2332,BUSTILLOS--JULIO,oax,3,35,1932-1934,CHAVEZ--ENRIQUE D.,PNR Mayoría,,,Oaxaca,Bustillos--Julio
 2169,BUSTILLOS--JULIO ,oax,7,34,1930-1932,CASTILLO B.--ANTONIO,Mayoría,18850,,Oaxaca,Bustillos--Julio 
+146,CAÑETA--RAFAEL ,pue,0,26,1916-1917,,,,congreso constituyente,Puebla,Cañeta--Rafael 
 1577,CABALLERO--GUSTAVO,gua,3,32,1926-1928,MANRIQUE--LUIS A.,Mayoría,,,Guanajuato,Caballero--Gustavo
 145,CABRERA--ALFONSO,pue,0,26,1916-1917,,,,congreso constituyente,Puebla,Cabrera--Alfonso
 657,CABRERA--FEDERICO,pue,17,28,1918-1920,PEREZ FERNANDEZ--FEDERICO,Mayoría,5603,,Puebla,Cabrera--Federico
@@ -417,7 +418,6 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 2239,CANCINO--ALVARO,cps,1,35,1932-1934,OCHOA--ENRIQUE,PNR Mayoría,15793,,Chiapas,Cancino--Alvaro
 2086,CANCINO--ALVARO ,cps,1,34,1930-1932,MALDONADO--CARLOS,PNR Mayoría,,,Chiapas,Cancino--Alvaro 
 488,CANCINO--HERMINIO,cps,3,28,1918-1920,PINTO--ARTIDORO,Mayoría,4375,,Chiapas,Cancino--Herminio
-146,CAÑETA--RAFAEL ,pue,0,26,1916-1917,,,,congreso constituyente,Puebla,Cañeta--Rafael 
 1080,CANO--J. TRINIDAD,hgo,6,30,1922-1924,AUSTRIA--FRANCISCO M.,Mayoría,,,Hidalgo,Cano--J. Trinidad
 774,CANO--NICOLAS,gua,2,29,1920-1922,MORALES--HERIBERTO,Mayoría,492,,Guanajuato,Cano--Nicolás
 41,CANO--NICOLAS ,gua,0,26,1916-1917,,,,congreso constituyente,Guanajuato,Cano--Nicolás 
@@ -512,8 +512,8 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1162,CASTILLO--ISRAEL DEL,oax,9,30,1922-1924,VASCONCELOS--EDUARDO,Mayoría,6342,,Oaxaca,Castillo--Israel del
 2526,CASTILLO--JOSE  ,san,,36,1934-1937,,PNR,,,San Luis Potosí,Castillo--José  
 811,CASTREJON--FRANCISCO,hgo,7,29,1920-1922,ELIAS--ELIAS,Mayoría,2569,,Hidalgo,Castrejón--Francisco
-110,CASTREJON--MARTIN,mic,0,26,1916-1917,,,,congreso constituyente,Michoacán,Castrejón--Martín
 605,CASTREJON--MARTIN,mic,8,28,1918-1920,MOTA--JULIO,PLN Mayoría,244,,Michoacán,Castrejón--Martín
+110,CASTREJON--MARTIN,mic,0,26,1916-1917,,,,congreso constituyente,Michoacán,Castrejón--Martín
 934,CASTRO Y LOPEZ--LUIS,san,4,29,1920-1922,DAVILA--COSME,Mayoría,2434,,San Luis Potosí,Castro y López--Luis
 709,CASTRO--ALFONSO,ver,17,28,1918-1920,HOYO--RAFAEL,Mayoría,2041,,Veracruz,Castro--Alfonso
 1522,CASTRO--CELESTINO ,zac,8,31,1924-1926,VELOZ J.--CRUZ N.,PLZ Mayoría,6045,,Zacatecas,Castro--Celestino 
@@ -525,16 +525,16 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 123,CEDANO--MARCELINO ,nay,0,26,1916-1917,,,,congreso constituyente,Nayarit,Cedano--Marcelino 
 345,CELERINO--LUVIANO,mic,7,27,1917-1918,SANCHEZ--SIDRONIO,Mayoría,,,Michoacán,Celerino--Luviano
 226,CEPEDA MEDRANO--MANUEL,coa,1,27,1917-1918,GIL FARIAS--PEDRO,Derechista Mayoría,,,Coahuila,Cepeda Medrano--Manuel
-7,CEPEDA MEDRANO--MANUEL ,coa,0,26,1916-1917,,,,congreso constituyente,Coahuila,Cepeda Medrano--Manuel 
+7,CEPEDA MEDRANO--MANUEL ,coa,0,26,1916-1917,SANTOS--JOSE N.,,,congreso constituyente,Coahuila,Cepeda Medrano--Manuel 
 2404,CEPEDA--DELFIN  ,coa,,36,1934-1937,,PNR,,,Coahuila,Cepeda--Delfín  
 1078,CERECEDO ESTRADA--DANIEL,hgo,4,30,1922-1924,MENDOZA--FAUSTINO R.,Mayoría,,,Hidalgo,Cerecedo Estrada--Daniel
 1505,CERISOLA--ALEJANDRO ,ver,16,31,1924-1926,CANO CARRERA--ALVARO,Mayoría,,,Veracruz,Cerisola--Alejandro 
 1766,CERISOLA--ALEJANDRO ,ver,6,32,1926-1928,CRUZ--GONZALO M.,Mayoría,,,Veracruz,Cerisola--Alejandro 
 2208,CERISOLA--ALEJANDRO ,ver,3,34,1930-1932,ALDANA--EUSTORGIO,PNR Mayoría,,,Veracruz,Cerisola--Alejandro 
 2550,CERISOLA--ALEJANDRO  ,ver,,36,1934-1937,,PNR,,,Veracruz,Cerisola--Alejandro  
-2044,CERISOLA--ALEJANDRO    ,ver,6,33,1928-1930,,PSVOC Mayoría,,,Veracruz,Cerisola--Alejandro    
+2044,CERISOLA--ALEJANDRO    ,ver,6,33,1928-1930,,PSVOC Mayoría,,Suplente: Victor Gudini (Ai Camp),Veracruz,Cerisola--Alejandro    
 1816,CERISOLA--PEDRO   ,cps,6,33,1928-1930,ESPONDA--EMILIO,Mayoría,,,Chiapas,Cerisola--Pedro   
-1,CERVANTES HERNANDEZ--DANIEL,ags,0,26,1916-1917,,,,congreso constituyente,Aguascalientes,Cervantes Hernández--Daniel
+1,CERVANTES HERNANDEZ--DANIEL,ags,0,26,1916-1917,ORTEGA--GONZALO,,,congreso constituyente (Cambio Suplente),Aguascalientes,Cervantes Hernández--Daniel
 217,CERVANTES ROQUE--ANTONIO ,zac,0,26,1916-1917,,,,congreso constituyente,Zacatecas,Cervantes Roque--Antonio 
 1826,CERVANTES--ANIBAL M.    ,df,1,33,1928-1930,MALLEN JR.--RAFAEL,CI Mayoría,,,Distrito Federal,Cervantes--Anibal M.    
 1070,CERVANTES--J. REFUGIO,gue,4,30,1922-1924,ANDRACA CARVAJAL--IGNACIO,Mayoría,4963,,Guerrero,Cervantes--J. Refugio
@@ -659,12 +659,12 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1625,DE LA CRUZ J.--ASCENCION,jal,12,32,1926-1928,OCHOA--JUAN,Mayoría,,,Jalisco,Cruz J.--Ascención de la 
 148,DE LA FUENTE--GILBERTO ,pue,0,26,1916-1917,,,,congreso constituyente,Puebla,De la Fuente--Gilberto 
 465,DE LA PARRA--GONZALO,zac,3,27,1917-1918,MORENO--DONATO,Mayoría,1101,,Zacatecas,Parra--Gonzalo de la
-808,DE LA PENA--FRANCISCO,hgo,5,29,1920-1922,HERRERA--JOSE ROJO,Mayoría,,,Hidalgo,Pena--Francisco de la
 809,DE LA PEÑA--FRANCISCO,hgo,5,29,1920-1922,GUERRERO--JESUS J.,Mayoría,,,Hidalgo,Peña--Francisco de la
 1454,DE LA PEÑA--ILDEFONSO,que,4,31,1924-1926,URBIOLA REYNA--IGNACIO,Mayoría,,,Querétaro,Peña--Ildefonso de la 
 1724,DE LA PEÑA--ILDEFONSO,que,4,32,1926-1928,RUBIO--PORFIRIO,Mayoría,,,Querétaro,Peña--Ildefonso de la 
 941,DE LA PEÑA--ILDEFONSO,san,10,29,1920-1922,ALTAMIRANO--PEDRO,Mayoría,1161,,San Luis Potosí,Peña--Ildefonso de la 
 1410,DE LA PEÑA--JOSE,nay,3,31,1924-1926,LOPEZ S.--PEDRO,Mayoría,,,Nayarit,Peña--José de la 
+808,DE LA PENA--FRANCISCO,hgo,5,29,1920-1922,HERRERA--JOSE ROJO,Mayoría,,,Hidalgo,Pena--Francisco de la
 2458,DE LA PEÑA--RICARDO,hgo,,36,1934-1937,,PNR,,,Hidalgo,Peña--Ricardo de la  
 875,DE LA TORRE--FRANCISCO,mor,3,29,1920-1922,MAGAÑA--RODOLFO,Mayoría,,,Morelos,Torre--Francisco de la
 262,DE LA TORRE--JESUS,dgo,7,27,1917-1918,SILVA--JESUS,Izquierdista Mayoría,403,,Durango,Torre--Jesús de la
@@ -737,14 +737,14 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 2085,DUEÑAS--BLAS,col,2,34,1930-1932,GUDIÑO--PEDRO,Mayoría,,,Colima,Dueñas--Blas
 20,DUPLAN--CARLOS ,df,0,26,1916-1917,,,,congreso constituyente,Distrito Federal,Duplán--Carlos 
 1289,DURON GONZALEZ--GUSTAVO,df,4,31,1924-1926,PRIETO--RAUL,Mayoría,,,Distrito Federal,Durón González--Gustavo
-218,DYER CASTAÑEDA--JAIRO R. ,zac,0,26,1916-1917,,,,congreso constituyente,Zacatecas,Dyer Castañeda--Jairo R. 
 464,DYER CASTAÑEDA--JAIRO R. ,zac,3,27,1917-1918,CARRANZA--FEDERICO,Izquierdista Mayoría,989,,Zacatecas,Dyer--Jairo R.
+218,DYER CASTAÑEDA--JAIRO R. ,zac,0,26,1916-1917,,,,congreso constituyente,Zacatecas,Dyer Castañeda--Jairo R. 
 459,ECHEVERRIA--JOSE CLEOFAS,yuc,4,27,1917-1918,GUAL GARCIA--ANTONIO,Mayoría,7772,,Yucatán,Echeverría--José Cleofas
 2160,ELIAS CALLES JR.--PLUTARCO ,nl,1,34,1930-1932,TREVIÑO--JESUS C.,PNR Mayoría,,,Nuevo León,Elías Calles Jr.--Plutarco 
 2497,ELIAS CALLES JR.--PLUTARCO ,nl,,36,1934-1937,,PNR,,,Nuevo León,Elías Calles Jr.--
 1789,ELIAS--LAMBERTO ,zac,2,32,1926-1928,CASTRO--CELESTINO,Mayoría,,,Zacatecas,Elías--Lamberto 
 2222,ELIAS--LAMBERTO ,zac,1,34,1930-1932,FUENTE--LUIS DE LA,PRZ Mayoría,,,Zacatecas,Elías--Lamberto 
-2,ELOY PEDROZA--ARCHIBALDO,ags,0,26,1916-1917,,,,congreso constituyente,Aguascalientes,Eloy Pedroza--Archibaldo
+2,ELOY PEDROZA--ARCHIBALDO,ags,0,26,1916-1917,,,,congreso constituyente (No en Ai Camp),Aguascalientes,Eloy Pedroza--Archibaldo
 1749,ENCINAS--ADALBERTO ,son,5,32,1926-1928,ROMO--GUILLERMO E.,Mayoría,,,Sonora,Encinas--Adalberto 
 1833,ENCINAS--ADALBERTO      ,df,8,33,1928-1930,AGUILAR G.--ALFONSO,PO Mayoría,7421,,Distrito Federal,Encinas--Adalberto      
 1788,ENCISO--ENRIQUE ,zac,1,32,1926-1928,ARELLANO--MANUEL,Mayoría,,,Zacatecas,Enciso--Enrique 
@@ -837,8 +837,8 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 332,FLORES GARZA--VALENTIN,mex,11,27,1917-1918,AGUILAR--JOSE D.,Mayoría,,,México,Flores Garza--Valentín
 1711,FLORES LOPEZ--ARTURO ,pue,10,32,1926-1928,HERRERA ALVARADO--RAFAEL,Mayoría,,,Puebla,Flores López--Arturo 
 846,FLORES MIRAFUENTES--ALFONSO,mex,9,29,1920-1922,LOPEZ--EMILIO,Mayoría,1432,,México,Flores Mirafuentes--Alfonso
-2527,FLORES MUÑOZ--GILBERTO ,san,,36,1934-1937,,PNR,,,San Luis Potosí,Flores Muñoz--Gilberto 
 2324,FLORES MUÑOZ--GUILLERMO,nay,1,35,1932-1934,ROJAS CARDIEL--TOMAS,PNR Mayoría,,,Nayarit,Flores Muñoz--Guillermo
+2527,FLORES MUÑOZ--GILBERTO ,san,,36,1934-1937,,PNR,,,San Luis Potosí,Flores Muñoz--Gilberto 
 1169,FLORES OLVERA--CAMILO,oax,16,30,1922-1924,GARCIA--RUFINO,Mayoría,,,Oaxaca,Flores Olvera--Camilo
 1374,FLORES PEÑA--TELESFORO ,mex,6,31,1924-1926,SAMANO--EFREN,Mayoría,,,México,Flores Peña--Telésforo 
 1539,FLORES TOVILLA--CARLOS ,cps,2,32,1926-1928,SUAREZ--ADOLFO,Mayoría,,,Chiapas,Flores Tovilla--Carlos 
@@ -1047,7 +1047,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1910,GONZALEZ--ALBERTO    ,jal,21,33,1928-1930,GUZMAN--PONCIANO,PRJ Mayoría,,,Jalisco,González--Alberto    
 292,GONZALEZ--ALBERTO M.,hgo,3,27,1917-1918,PEÑAFIEL--ANTON,Izquierdista Mayoría,,,Hidalgo,González--Alberto M.
 63,GONZALEZ--ALBERTO M. ,hgo,0,26,1916-1917,,,,congreso constituyente,Hidalgo,González--Alberto M. 
-3,GONZALEZ--AURELIO L. ,ags,0,26,1916-1917,,,,congreso constituyente,Aguascalientes,González--Aurelio L. 
+3,GONZALEZ--AURELIO L. ,ags,0,26,1916-1917,PEDROZA--ARCHIBALDO E.,,,congreso constituyente (Cambio Suplente),Aguascalientes,González--Aurelio L. 
 2176,GONZALEZ--FERNANDO R. ,pue,4,34,1930-1932,IBARRA--SALVADOR FIDEL,PNR Mayoría,,,Puebla,González--Fernando R. 
 328,GONZALEZ--FRANCISCO,mex,7,27,1917-1918,GARZA PEREZ--ERNESTO,Mayoría,,,México,González--Francisco
 2382,GONZALEZ--FRANCISCO J.,ver,7,35,1932-1934,LEON--JUAN S.,PNR Mayoría,,,Veracruz,González--Francisco J.
@@ -1268,6 +1268,8 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1076,LAZCANO CARRASCO--ADALBERTO,hgo,2,30,1922-1924,LAZCANO--MANUEL MARIA,Mayoría,,,Hidalgo,Lazcano Carrasco--Adalberto
 631,LAZCANO CARRASCO--ADALBERTO,oax,8,28,1918-1920,TAPIA--JOSE,Mayoría,3135,,Oaxaca,Lazcano Carrasco--Adalberto
 892,LAZCANO CARRASCO--ADALBERTO,oax,8,29,1920-1922,SILVA Y CASTILLO--OTILIO,Mayoría,,,Oaxaca,Lazcano Carrasco--Adalberto
+2316,LEÑERO RUIZ--AGUSTIN,mic,6,35,1932-1934,HERNANDEZ--FRANCISCO,PNR Mayoría,,,Michoacán,Leñero Ruiz--Agustín
+2150,LEÑERO RUIZ--ALFONSO ,mic,4,34,1930-1932,PRADO--ERNESTO,PNR Mayoría,,,Michoacán,Leñero Ruíz--Alfonso 
 527,LEAL--MARIANO,gua,7,28,1918-1920,NUÑEZ J.--GUADALUPE,Mayoría,2741,,Guanajuato,Leal--Mariano
 391,LECHUGA VAL--GONZALO,pue,10,27,1917-1918,MUÑOZ--RUBEN F.,Mayoría,,,Puebla,Lechuga Val--Gonzalo
 924,LECHUGA--LEOBARDO L.,pue,18,29,1920-1922,TELLEZ--JESUS L.,Mayoría,,,Puebla,Lechuga--Leobardo L.
@@ -1275,8 +1277,6 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 2145,LEGORRETA--RAFAEL M. ,mex,7,34,1930-1932,GOMEZ--BERNARDO,Mayoría,,,México,Legorreta--Rafael M. 
 1921,LEGORRETA--RAFAEL M.  ,mex,9,33,1928-1930,CHACON--JUAN,PST Mayoría,,,México,Legorreta--Rafael M.  
 1139,LEMUS--TORCUATO,mic,17,30,1922-1924,RAMIREZ--LAZARO V.,Mayoría,,,Michoacán ,Lémus--Torcuato
-2316,LEÑERO RUIZ--AGUSTIN,mic,6,35,1932-1934,HERNANDEZ--FRANCISCO,PNR Mayoría,,,Michoacán,Leñero Ruiz--Agustín
-2150,LEÑERO RUIZ--ALFONSO ,mic,4,34,1930-1932,PRADO--ERNESTO,PNR Mayoría,,,Michoacán,Leñero Ruíz--Alfonso 
 2434,LEON TOSTADO--MIGUEL ,dgo,,36,1934-1937,,PNR,,,Durango,León Tostado--Miguel 
 2243,LEON--ANTONIO,cps,5,35,1932-1934,CRUZ--GLUSTEIN,PNR Mayoría,,,Chiapas,León--Antonio
 2089,LEON--ANTONIO ,cps,4,34,1930-1932,ACEITUNO--CONSTANCIO,PNR Mayoría,,,Chiapas,León--Antonio 
@@ -1399,14 +1399,14 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1367,MADRIGAL--JUAN ,jal,22,31,1924-1926,CHAVEZ--FERNANDO,Mayoría,4943,,Jalisco,Madrigal--Juan 
 1634,MADRIGAL--JUAN ,jal,22,32,1926-1928,CHAVEZ--FERNANDO,Mayoría,,,Jalisco,Madrigal--Juan 
 1901,MADRIGAL--RAMON    ,jal,12,33,1928-1930,NOVOA--ELISEO,Mayoría,,,Jalisco,Madrigal--Ramón    
-418,MAGALLON--ANDRES,sin,2,27,1917-1918,FRANCO ROJO--ARMANDO M.,Izquierdista Mayoría,,,Sinaloa,Magallón--Andrés
-174,MAGALLON--ANDRES ,sin,0,26,1916-1917,,,,congreso constituyente,Sinaloa,Magallón--Andrés 
 1131,MAGAÑA SOTO--JESUS,mic,9,30,1922-1924,MUÑOZ--JOAQUIN,Mayoría,,,Michoacán ,Magaña Soto--Jesús
 1673,MAGAÑA--GILDARDO ,mor,2,32,1926-1928,MAGAÑA--MANUEL,Mayoría,,,Morelos,Magaña--Gildardo 
 1950,MAGAÑA--MANUEL     ,mor,2,33,1928-1930,PALACIOS--PORFIRIO,Mayoría,,,Morelos,Magaña--Manuel     
 1400,MAGAÑA--OCTAVIO ,mic,15,31,1924-1926,PEREZ--PEDRO,PA Mayoría,4144,,Michoacán,Magaña--Octavio 
 1667,MAGAÑA--OCTAVIO ,mic,15,32,1926-1928,CORIA--RAFAEL,Mayoría,,,Michoacán ,Magaña--Octavio 
 1944,MAGAÑA--OCTAVIO    ,mic,15,33,1928-1930,TORRES--LUIS G.,Mayoría,,,Michoacán,Magaña--Octavio    
+418,MAGALLON--ANDRES,sin,2,27,1917-1918,FRANCO ROJO--ARMANDO M.,Izquierdista Mayoría,,,Sinaloa,Magallón--Andrés
+174,MAGALLON--ANDRES ,sin,0,26,1916-1917,,,,congreso constituyente,Sinaloa,Magallón--Andrés 
 435,MALDONADO--ANASTASIO H.,tla,2,27,1917-1918,DOMINGUEZ--MIGUEL,Mayoría,3377,,Tlaxcala,Maldonado--Anastasio H.
 783,MALDONADO--ANTONIO D.,gua,10,29,1920-1922,MENDOZA OLIVAREZ--VICENTE,Mayoría,5393,,Guanajuato,Maldonado--Antonio D.
 2229,MALDONADO--BRAULIO,bcs,0,35,1932-1934,CASTRO--JESUS,PNR Mayoría,,,Baja California Sur,Maldonado--Braulio
@@ -1464,8 +1464,8 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 243,MARTINEZ DE ESCOBAR--RAFAEL,df,2,27,1917-1918,MARTINEZ--JOAQUIN,Mayoría,,,Distrito Federal,Martínez de Escobar--Rafael
 755,MARTINEZ DE ESCOBAR--RAFAEL,df,2,29,1920-1922,GONZALEZ--ABRAHAM,Mayoría,,,Distrito Federal,Martínez de Escobar--Rafael
 429,MARTINEZ DE ESCOBAR--RAFAEL,tam,1,27,1917-1918,CASANOVA--FULGENCIO,Mayoría,608,,Tamaulipas,Martínez de Escobar--Rafael
-1290,MARTINEZ DE ESCOBAR--RAFAEL ,df,5,31,1924-1926,SILVA--ARNULFO,Mayoría,,,Distrito Federal,Martínez de Escobar--Rafael 
 179,MARTINEZ DE ESCOBAR--RAFAEL ,tab,0,26,1916-1917,,,,congreso constituyente,Tabasco,Martínez de Escobar--Rafael 
+1290,MARTINEZ DE ESCOBAR--RAFAEL ,df,5,31,1924-1926,SILVA--ARNULFO,Mayoría,,,Distrito Federal,Martínez de Escobar--Rafael 
 533,MARTINEZ DEL RIO--RAMON,gua,12,28,1918-1920,LIRA--AGUSTIN,PLN Mayoría,4310,,Guanajuato,Martínez del Río--Ramón
 2270,MARTINEZ MACIAS--ERNESTO,gua,6,35,1932-1934,ORTEGA--JOSE ALFREDO,PNR Mayoría,15658,,Guanajuato,Martínez Macías--Ernesto
 1728,MARTINEZ MACIAS--ERNESTO ,san,3,32,1926-1928,ORTEGA--BASILISO,Mayoría,,,San Luis Potosí,Martínez Macías--Ernesto 
@@ -1504,7 +1504,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1963,MAYORAL PARDO--LORENZO  ,oax,3,33,1928-1930,ALVAREZ--GUSTAVO,PSO Mayoría,,,Oaxaca,Mayoral Pardo--Lorenzo  
 65,MAYORGA--ALFONSO ,hgo,0,26,1916-1917,,,,congreso constituyente,Hidalgo,Mayorga--Alfonso 
 2455,MAYORGA--SALVADOR  ,hgo,,36,1934-1937,,PNR,,,Hidalgo,Mayorga--Salvador  
-8,MEADE FIERRO--ERNESTO,coa,0,26,1916-1917,,,,congreso constituyente,Coahuila,Meade Fierro--Ernesto
+8,MEADE FIERRO--ERNESTO,coa,0,26,1916-1917,DE LOS SANTOS--TORIBIO,,,congreso constituyente,Coahuila,Meade Fierro--Ernesto
 480,MEADE FIERRO--ERNESTO,coa,1,28,1918-1920,VALDES--JOSE DE LA LUZ,Mayoría,,,Coahuila,Meade Fierro--Ernesto
 1606,MEDECIGO ROJAS--ENRIQUE ,hgo,4,32,1926-1928,RIVERA CARETA--JOSE,Mayoría,,,Hidalgo,Medecigo Rojas--Enrique 
 1883,MEDECIGO ROSAS--JESUS  ,hgo,4,33,1928-1930,VARGAS--EMILIO,Mayoría,,,Hidalgo,Medecigo Rosas--Jesús  
@@ -1665,13 +1665,13 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1297,MORONES--LUIS N. ,df,12,31,1924-1926,TREVIÑO--RICARDO,Mayoría,,,Distrito Federal,Morones--Luis N. 
 2118,MOYADO B.--ANTONIO ,gue,4,34,1930-1932,RAMIREZ RAYON--GONZALO,Mayoría,,,Guerrero,Moyado B.--Antonio 
 2310,MOZO--JOSE,mex,14,35,1932-1934,GONZALEZ--DAVID,PNR Mayoría,14013,,México,Mozo--José
-353,MUGICA--FRANCISCO J.,mic,16,27,1917-1918,MERCADO--FRANCISCO,Izquierdista Mayoría,,,Michoacán,Múgica--Francisco J.
-115,MUGICA--FRANCISCO J. ,mic,0,26,1916-1917,,,,congreso constituyente,Michoacán,Múgica--Francisco J. 
-905,MUNGUIA--CLEMENTE DE J.,pue,2,29,1920-1922,MACEDA--GONZALO,Mayoría,1250,,Puebla,Munguía--Clemente de J.
 855,MUÑIZ--FRANCISCO JOSE,mex,16,29,1920-1922,ROJAS--EDUARDO,Mayoría,,,México,Muñiz--Francisco José
 221,MUÑOZ--ENRIQUE,ags,2,27,1917-1918,CRUZ--ABRAHAM,Mayoría,1332,,Aguascalientes ,Muñoz--Enrique
 1312,MUÑOZ--FELIPE ,gua,5,31,1924-1926,REA J.--JESUS,Mayoría,,,Guanajuato,Muñóz--Felipe 
+353,MUGICA--FRANCISCO J.,mic,16,27,1917-1918,MERCADO--FRANCISCO,Izquierdista Mayoría,,,Michoacán,Múgica--Francisco J.
+115,MUGICA--FRANCISCO J. ,mic,0,26,1916-1917,,,,congreso constituyente,Michoacán,Múgica--Francisco J. 
 2553,MUÑOZ--JOAQUIN  ,ver,,36,1934-1937,,PNR,,,Veracruz,Muñoz--Joaquín  
+905,MUNGUIA--CLEMENTE DE J.,pue,2,29,1920-1922,MACEDA--GONZALO,Mayoría,1250,,Puebla,Munguía--Clemente de J.
 1665,MURATALLA TORRES--AUSTREBERTO ,mic,13,32,1926-1928,DUARTE C.--ILDEFONSO,Mayoría,,,Michoacán,Muratalla Torres--Austreberto 
 1942,MURATALLA TORRES--AUSTREBERTO  ,mic,13,33,1928-1930,ALCALA PULIDO--IGNACIO,Mayoría,,,Michoacán,Muratalla Torres--Austreberto  
 1138,MURGUIA--SALVADOR,mic,16,30,1922-1924,MURGUIA--SALVADOR,Mayoría,,,Michoacán ,Murguía--Salvador
@@ -1719,7 +1719,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 2555,OCHOA ZAMUDIO--FRANCISCO ,ver,,36,1934-1937,,,,,Veracruz,Ochoa Zamudio--Francisco 
 2294,OCHOA--MANUEL F.,jal,7,35,1932-1934,VALENCIA--J. FELIX,PNR Mayoría,,,Jalisco,Ochoa--Manuel F.
 85,OCHOA--RAFAEL,jal,0,26,1916-1917,,,,congreso constituyente,Jalisco,Ochoa--Rafael
-897,OGARRIO MEIXUEIRO--JOAQUIN,oax,12,29,1920-1922,,Mayoría,,,Oaxaca,Ogarrio Meixueiro--Joaquín
+897,OGARRIO MEIXUEIRO--JOAQUIN,oax,12,29,1920-1922,,Mayoría,,Sin Suplente (Ai Camp),Oaxaca,Ogarrio Meixueiro--Joaquín
 1158,OGARRIO MEIXUEIRO--JOAQUIN,oax,5,30,1922-1924,MARQUEZ--CENOBIO ANTONIO,Mayoría,,,Oaxaca,Ogarrio Meixueiro--Joaquín
 2386,OJEDA--CARLOS DARIO,ver,11,35,1932-1934,BELMONTE G.--JUAN,PNR Mayoría,,,Veracruz,Ojeda--Carlos Darío
 2214,OJEDA--CARLOS DARIO ,ver,9,34,1930-1932,USCANGA--AURELIO,PNR Mayoría,13577,,Veracruz,Ojeda--Carlos Darío 
@@ -1833,15 +1833,15 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 139,PAYAN--LEOPOLDO ,oax,0,26,1916-1917,,,,congreso constituyente,Oaxaca,Payán--Leopoldo 
 552,PAZ--NARCISO,hgo,5,28,1918-1920,ROJO HERRERA--JOSE,Mayoría,1481,,Hidalgo ,Paz--Narciso
 763,PAZ--OCTAVIO,df,10,29,1920-1922,ARAGON--CARLOS,Mayoría,2825,,Distrito Federal,Paz--Octavio
-408,PEDROZA--JOSE S.,san,3,27,1917-1918,SEGURA--LAURO S.,Mayoría,,,San Luis Potosí,Pedroza--José S.
 369,PEÑA--AURELIO M.,oax,6,27,1917-1918,CAMACHO--PEDRO,Mayoría,5217,,Oaxaca,Peña--Aurelio M.
 1224,PEÑA--AURELIO M.,tla,3,30,1922-1924,CORTES--ADALBERTO,Mayoría,,,Tlaxcala ,Peña--Aurelio M.
 603,PEÑA--ESTANISLAO,mic,6,28,1918-1920,PATIÑO JR.--MAURO,Mayoría,2829,,Michoacán,Peña--Estanislao
 1554,PEÑA--JOAQUIN DE LA ,df,2,32,1926-1928,BONILLA--ENRIQUE M.,Mayoría,,,Distrito Federal,Peña--Joaquín de la 
 2384,PEÑA--JUAN C.,ver,9,35,1932-1934,TRUJILLO--NEFTALI,PNR Mayoría,,,Veracruz,Peña--Juan C.
 54,PEÑAFLOR--DAVID,gua,0,26,1916-1917,,,,congreso constituyente,Guanajuato,Peñaflor--David
-1061,PERALTA--ALBERTO,gua,13,30,1922-1924,RIVERA--ISAURO,Mayoría,,,Guanajuato,Peralta--Alberto
+408,PEDROZA--JOSE S.,san,3,27,1917-1918,SEGURA--LAURO S.,Mayoría,,,San Luis Potosí,Pedroza--José S.
 116,PERALTA--ALBERTO,mic,0,26,1916-1917,,,,congreso constituyente,Michoacán,Peralta--Alberto
+1061,PERALTA--ALBERTO,gua,13,30,1922-1924,RIVERA--ISAURO,Mayoría,,,Guanajuato,Peralta--Alberto
 2367,PERALTA--ANDRES H.,son,2,35,1932-1934,NAVARRETE--BRIGIDO,PNR Mayoría,,,Sonora,Peralta--Andres H.
 2520,PERALTA--CARLOS M. ,pue,,36,1934-1937,,PNR,,,Puebla,Peralta--Carlos M. 
 255,PERALTA--MIGUEL A.,df,12,27,1917-1918,MANZANOS--RAMIRO,Mayoría,447,,Distrito Federal,Peralta--Miguel A.
@@ -1849,7 +1849,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 898,PEREA RUIZ--DANIEL,oax,12,29,1920-1922,AGUILAR SALAZAR--MANUEL,Mayoría,2482,,Oaxaca,Peréa Ruíz--Daniel
 452,PEREYRA CARBONELL--JOSE,ver,15,27,1917-1918,ARRAZOLA--AGUSTIN S.,Mayoría,,,Veracruz,Pereyra Carbonell--José
 202,PEREYRA--FERNANDO A. ,ver,0,26,1916-1917,,,,congreso constituyente,Veracruz,Pereyra--Fernando A. 
-5,PEREZ ABREU--HERMINIO,cam,0,26,1916-1917,,,,congreso constituyente,Campeche,Pérez Abreu--Herminio
+5,PEREZ ABREU--HERMINIO,cam,0,26,1916-1917,ARIAS SOLIS--ENRIQUE,,,congreso constituyente (Cambio Suplente),Campeche,Pérez Abreu--Herminio
 730,PEREZ ABREU--HERMINIO,cam,2,29,1920-1922,BUENO--FELIPE,Mayoría,1374,,Campeche,Pérez Abreu--Herminio
 754,PEREZ ABREU--HERMINIO,df,1,29,1920-1922,MARTINEZ--GUSTAVO S.,PLC Mayoría,2371,,Distrito Federal,Pérez Abreu--Herminio
 1161,PEREZ ACEVEDO--JOSE,oax,8,30,1922-1924,TORRES--GILBERTO,PLCE Mayoría,5962,,Oaxaca,Pérez Acevedo--José
@@ -2047,8 +2047,8 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 2015,RIVERA--FRANCISCO A.  ,sin,1,33,1928-1930,TERRAZAS JR.--IGNACIO,Mayoría,,,Sinaloa,Rivera--Francisco A.  
 2283,RIVERA--JOSE,hgo,3,35,1932-1934,MENDOZA--FRANCISCO,PNR Mayoría,,,Hidalgo,Rivera--José
 389,RIVERA--JOSE,pue,8,27,1917-1918,TAPIA--JOSE ALBERTO,Izquierdista Mayoría,,,Puebla,Rivera--José
-2121,RIVERA--JOSE ,hgo,1,34,1930-1932,GUERRERO--J. REFUGIO,Mayoría,,,Hidalgo,Rivera--José 
 156,RIVERA--JOSE ,pue,0,26,1916-1917,,,,congreso constituyente,Puebla,Rivera--José 
+2121,RIVERA--JOSE ,hgo,1,34,1930-1932,GUERRERO--J. REFUGIO,Mayoría,,,Hidalgo,Rivera--José 
 1168,RIVERO--ROBERTO,oax,15,30,1922-1924,MARQUEZ GALAN--ABELARDO,Mayoría,,,Oaxaca,Rivero--Roberto
 2338,RIVERO--ROBERTO,oax,9,35,1932-1934,MONTESINOS LOPEZ--ISIDRO,PNR Mayoría,,,Oaxaca,Rivero--Roberto
 1470,RIVEROS--MANUEL ,sin,2,31,1924-1926,MORA Y OCHOA--FILIBERTO,Mayoría,1618,,Sinaloa,Riveros--Manuel 
@@ -2069,11 +2069,11 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1977,ROCHIN--CONRADO C.    ,pue,1,33,1928-1930,MUÑOZ--MIGUEL G.,PSP Mayoría,,,Puebla,Rochín--Conrado C.    
 204,RODILES--SAUL ,ver,0,26,1916-1917,,,,congreso constituyente,Veracruz,Rodiles--Saúl 
 483,RODRIGUEZ DE LA FUENTE--JESUS,coa,4,28,1918-1920,VILLARREAL--ALBERTO,Mayoría,3506,,Coahuila,Rodríguez de la Fuente--Jesús
-1856,RODRIGUEZ G.--JOSE     ,gua,8,33,1928-1930,HERNANDEZ ALCALA--JESUS,PRG Mayoría,,,Guanajuato,Rodríguez G.--José     
-9,RODRIGUEZ GONZALEZ--JOSE ,coa,0,26,1916-1917,,,,congreso constituyente,Coahuila,Rodríguez González--José 
+1856,RODRIGUEZ G.--JOSE,gua,8,33,1928-1930,HERNANDEZ ALCALA--JESUS,PRG Mayoría,,RODRIGUEZ C.--JOSE (Diario de debates),Guanajuato,Rodríguez G.--José     
+9,RODRIGUEZ GONZALEZ--JOSE ,coa,0,26,1916-1917,,,,congreso constituyente (No en Ai Camp),Coahuila,Rodríguez González--José 
 812,RODRIGUEZ LOPEZ--SANTIAGO,hgo,8,29,1920-1922,OVIEDO--JOSE TRINIDAD,Mayoría,2789,,Hidalgo,Rodríguez López--Santiago
 401,RODRIGUEZ SARO--BERNARDO,que,2,27,1917-1918,UGALDE URIBE--ALBERTO,Mayoría,1568,,Querétaro,Rodríguez Saro--Bernardo
-10,RODRIGUEZ Y RODRIGUEZ--JOSE MARIA ,coa,0,26,1916-1917,,,,congreso constituyente,Coahuila,Rodríguez y Rodríguez--José María 
+10,RODRIGUEZ Y RODRIGUEZ--JOSE MARIA ,coa,0,26,1916-1917,GUERRA--EDUARDO,,,congreso constituyente (Cambio Suplente),Coahuila,Rodríguez y Rodríguez--José María 
 1476,RODRIGUEZ--AGUSTIN ,son,2,31,1924-1926,CELAYA--FRANCISCO,Mayoría,2029,,Sonora,Rodríguez--Agustín 
 506,RODRIGUEZ--ALFREDO,df,5,28,1918-1920,BLANCARTE--RAMON,PLN Mayoría,1420,,Distrito Federal,Rodríguez--Alfredo
 1675,RODRIGUEZ--ANTIOCO ,nay,1,32,1926-1928,NARVAEZ--JOSE RAMON,Mayoría,,,Nayarit,Rodríguez--Antioco 
@@ -2090,7 +2090,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 2048,RODRIGUEZ--GUILLERMO  ,ver,10,33,1928-1930,ALARCON--JOAQUIN,Mayoría,,,Veracruz,Rodríguez--Guillermo  
 685,RODRIGUEZ--HERMINIO S.,tam,1,28,1918-1920,FLORES SANTOS--FRANCISCO,Mayoría,5172,,Tamaulipas,Rodríguez--Herminio S.
 955,RODRIGUEZ--HERMINIO S.,tam,1,29,1920-1922,ECHEVERRIA--DONACIANO,Mayoría,,,Tamaulipas,Rodríguez--Herminio S.
-2400,RODRIGUEZ--JOSE MARIA ,bcn,,36,1934-1937,,PNR,,,Baja California Norte,Rodríguez--José María 
+2400,RODRIGUEZ--JOSE MARIA ,bcn,,36,1934-1937,,PNR,,Puede ser el mismo que RODRIGUEZ Y RODRIGUEZ. ,Baja California Norte,Rodríguez--José María 
 2401,RODRIGUEZ--LUIS I. ,bcs,,36,1934-1937,,,,,Baja California Sur,Rodríguez--Luis I. 
 68,RODRIGUEZ--MATIAS,hgo,0,26,1916-1917,,,,congreso constituyente,Hidalgo,Rodríguez--Matías
 555,RODRIGUEZ--MATIAS,hgo,8,28,1918-1920,GONZALEZ--ENRIQUE,Mayoría,4061,,Hidalgo ,Rodríguez--Matías
@@ -2104,7 +2104,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 658,RODRIGUEZ--SABINO,pue,18,28,1918-1920,LAZCANO--ANTONIO,PLP Mayoría,789,,Puebla,Rodríguez--Sabino
 280,RODRIGUEZ--SALVADOR,gua,16,27,1917-1918,VELAZQUEZ,Mayoría,,,Guanajuato,Rodríguez--Salvador
 1152,ROEL--CARLOS,nl,5,30,1922-1924,MARTINEZ--JUAN I.,Mayoría,,,Nuevo León,Roel--Carlos
-4,ROEL--IGNACIO,bc,0,26,1916-1917,,,,congreso constituyente,"Baja California, Terr. de",Roel--Ignacio
+4,ROEL--IGNACIO,bc,0,26,1916-1917,GOMEZ--MATIAS,,,congreso constituyente (Cambio Suplente),"Baja California, Terr. de",Roel--Ignacio
 620,ROEL--SANTIAGO,nl,2,28,1918-1920,ELIZONDO--LUIS F.,Mayoría,,,Nuevo León ,Roel--Santiago
 1679,ROEL--SANTIAGO ,nl,1,32,1926-1928,ARANGUA--MARIANO,Mayoría,,,Nuevo León,Roel--Santiago 
 157,ROJANO PALACIOS--GABRIEL ,pue,0,26,1916-1917,,,,congreso constituyente,Puebla,Rojano Palacios--Gabriel 
@@ -2121,8 +2121,8 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 205,ROMAN--ALBERTO ,ver,0,26,1916-1917,,,,congreso constituyente,Veracruz,Román--Alberto 
 1832,ROMANDIA FERREIRA--ALFONSO     ,df,7,33,1928-1930,NORIEGA HOPE--CARLOS,PO Mayoría,4955,,Distrito Federal,Romandía Ferreira--Alfonso     
 713,ROMERO CEPEDA--MANUEL,yuc,2,28,1918-1920,RODRIGUEZ--FRANCISCO,PS Mayoría,8444,,Yucatán,Romero Cepeda--Manuel
-2110,ROMERO COURTADE--ENRIQUE ,gua,5,34,1930-1932,RICO--JUAN,Mayoría,,,Guanajuato,Romero Courtade--Enrique 
 2443,ROMERO COURTADE--ENRIQUE ,gua,,36,1934-1937,,,,,Guanajuato,Romero Courtade--Enrique 
+2110,ROMERO COURTADE--ENRIQUE ,gua,5,34,1930-1932,RICO--JUAN,Mayoría,,,Guanajuato,Romero Courtade--Enrique 
 1853,ROMERO COURTADE--ENRIQUE     ,gua,5,33,1928-1930,NEGRETE--NAPOLEON,PRG Mayoría,9602,,Guanajuato,Romero Courtade--Enrique     
 117,ROMERO FLORES--JESUS,mic,0,26,1916-1917,,,,congreso constituyente,Michoacán,Romero Flores--Jesús
 1402,ROMERO FLORES--JESUS,mic,17,31,1924-1926,MORENO R.--MELESIO,Mayoría,5405,,Michoacán,Romero Flores--Jesús
@@ -2191,8 +2191,8 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1027,SALCEDO--EZEQUIEL,df,1,30,1922-1924,LOPEZ OLIVARES--SALVADOR,Mayoría,,,Distrito Federal,Salcedo--Ezequiel
 622,SALDAÑA--JOSE P.,nl,4,28,1918-1920,SALINAS--SANTIAGO,Mayoría,3619,,Nuevo León ,Saldaña--José P.
 1685,SALDAÑA--JUAN A. ,nl,6,32,1926-1928,SALINAS--SANTIAGO,Mayoría,,,Nuevo León,Saldaña--Juan A. 
-2115,SALGADO R.--RUFINO ,gue,1,34,1930-1932,GOMEZ--ADRIAN,PNR Mayoría,,,Guerrero,Salgado R.--Rufino 
 2451,SALGADO R.--RUFINO ,gue,,36,1934-1937,,PNR,,,Guerrero,Salgado R.--Rufino 
+2115,SALGADO R.--RUFINO ,gue,1,34,1930-1932,GOMEZ--ADRIAN,PNR Mayoría,,,Guerrero,Salgado R.--Rufino 
 799,SALGADO--FLORENCIO M.,gue,7,29,1920-1922,BUSTAMANTE--LUIS,Mayoría,4319,,Guerrero ,Salgado--Florencio M.
 851,SALGADO--TRANQUILINO,mex,13,29,1920-1922,FERNANDEZ--EDUARDO,Mayoría,4319,,México,Salgado--Tranquilino
 1958,SALINAS--SANTIAGO   ,nl,4,33,1928-1930,ESPINOZA--CONRADO C.,Mayoría,,,Nuevo León,Salinas--Santíago   
@@ -2246,9 +2246,9 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1735,SANTOS--GONZALO N. ,san,10,32,1926-1928,ORTIZ--LEOPOLDINO J.,Mayoría,,,San Luis Potosí,Santos--Gonzalo N. 
 2188,SANTOS--GONZALO N. ,san,3,34,1930-1932,AZUARA--JUAN ENRIQUE,PNR Mayoría,,,San Luis Potosí,Santos--Gonzalo N. 
 2012,SANTOS--GONZALO N.  ,san,10,33,1928-1930,ROMERO--BRAULIO M.,Mayoría,,,San Luis Potosí,Santos--Gonzalo N.  
+2444,SANTOYO--RAMON V. ,gua,,36,1934-1937,,PNR,,,Guanajuato,Santoyo--Ramón V. 
 1851,SANTOYO--RAMON V. ,gua,3,33,1928-1930,BAILLERES--ARTURO,PRG Mayoría,,,Guanajuato,Santoyo--Ramón V. 
 2114,SANTOYO--RAMON V. ,gua,9,34,1930-1932,MENDEZ JR.--BENJAMIN,PNR Mayoría,,,Guanajuato,Santoyo--Ramón V. 
-2444,SANTOYO--RAMON V. ,gua,,36,1934-1937,,PNR,,,Guanajuato,Santoyo--Ramón V. 
 2235,SARACHO--FRANCISCO,coa,3,35,1932-1934,CARRANZA--MOISES,PNR Mayoría,,,Coahuila ,Saracho--Francisco
 2560,SARIEL--JUAN B. ,ver,,36,1934-1937,,PNR,,,Veracruz,Sariel--Juan B. 
 1500,SARIOL--JUAN B. ,ver,11,31,1924-1926,ANDRADE--JENARO,PLC Mayoría,3976,,Veracruz,Sariol--Juan B. 
@@ -2418,9 +2418,9 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 2027,TRUJILLO GURRIA--FRANCISCO   ,tab,1,33,1928-1930,MALPICA H.--TRINIDAD,PO Mayoría,8642,,Tabasco,Trujillo Gurría--Francisco   
 31,UGARTE--GERZAYN ,df,0,26,1916-1917,,,,congreso constituyente,Distrito Federal,Ugarte--Gerzayn 
 509,URDANIVIA--MARIANO D.,df,8,28,1918-1920,LADRON DE GUEVARA--ALBERTO,PLN Mayoría,2814,,Distrito Federal,Urdanivia--Mariano D.
+284,URUÑUELA--PEDRO,gue,2,27,1917-1918,MENDEZ--LUIS,Mayoría,2372,,Guerrero,Uruñuela--Pedro
 1840,URUCHURTU--GUSTAVO A.     ,df,15,33,1928-1930,LOZANO--ISMAEL M.,PO Mayoría,3861,,Distrito Federal,Uruchurtu--Gustavo A.     
 245,URUETA--JESUS,df,4,27,1917-1918,MARIN--BENJAMIN,Mayoría,1325,,Distrito Federal,Urueta--Jesús
-284,URUÑUELA--PEDRO,gue,2,27,1917-1918,MENDEZ--LUIS,Mayoría,2372,,Guerrero,Uruñuela--Pedro
 665,UZETA--HORACIO,san,2,28,1918-1920,BANDALA--BERNARDO L.,Mayoría,6556,,San Luis Potosí,Uzeta--Horacio
 318,VADILLO--BASILIO,jal,18,27,1917-1918,ORTEGA--JUAN JOSE,Mayoría,2145,,Jalisco,Vadillo--Basilio
 578,VADILLO--BASILIO,jal,18,28,1918-1920,ORTEGA,Mayoría,,,Jalisco,Vadillo--Basilio
@@ -2488,15 +2488,15 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1254,VELAZQUEZ--J. JESUS,zac,5,30,1922-1924,GARCIA ROJAS--MANUEL,Mayoría,,,Zacatecas,Velázquez--J. Jesús
 287,VENTURA--SIMON PARTIDO,gue,5,27,1917-1918,SILVA--FORTUNATO,Mayoría,1706,,Guerrero,Ventura--Simón Partido
 669,VERASTEGUI--FRANCO,san,7,28,1918-1920,CERVANTES--JUAN B.,Mayoría,1861,,San Luis Potosí,Verástegui--Franco
-160,VERASTEGUI--JOSE,pue,0,26,1916-1917,,,,congreso constituyente,Puebla,Verástegui--José
+160,VERASTEGUI--JOSE,pue,0,26,1916-1917,NIETO--CANDIDO,,,congreso constituyente (Cambio Suplente),Puebla,Verástegui--José
 659,VERASTEGUI--JOSE,que,1,28,1918-1920,DIAZ--FELIPE B.,Mayoría,,,Querétaro,Verástegui--José
 1451,VERAZA Y RUBIO--JOSE ,que,1,31,1924-1926,MARTINEZ--ANTONIO,Mayoría,,,Querétaro,Veraza y Rubio--José 
 1721,VERAZA Y RUBIO--JOSE ,que,1,32,1926-1928,ROMO RUIZ--ANTONIO,Mayoría,,,Querétaro,Veraza y Rubio--José 
 1827,VERDUGO--ERNESTO  ,df,2,33,1928-1930,SANTANA--IGNACIO H.,CI Mayoría,,,Distrito Federal,Verdugo--Ernesto  
 921,VERGARA J.--MELQUIADES,pue,16,29,1920-1922,CABRERA--LUIS,Mayoría,5353,,Puebla,Vergara J.--Melquiades
 2445,VERTIZ--MARIANO M. ,gua,,36,1934-1937,,,,,Guanajuato,Vértiz--Mariano M. 
-857,VICENCIO--LEOPOLDO,mex,17,29,1920-1922,VICENCIO--MARIANO,Mayoría,2945,,México,Vicencio--Leopoldo
-1113,VICENCIO--MARIANO,mex,7,30,1922-1924,MONROY--IGNACIO M.,Mayoría,,,México,Vicencio--Mariano
+857,VICENCIO--LEOPOLDO,mex,17,29,1920-1922,VICENCIO--MARIANO,Mayoría,2945,Revisado,México,Vicencio--Leopoldo
+1113,VICENCIO--MARIANO,mex,7,30,1922-1924,MONROY--IGNACIO M.,Mayoría,,Revisado,México,Vicencio--Mariano
 212,VICTORIA AGUILAR--HECTOR ,yuc,0,26,1916-1917,,,,congreso constituyente,Yucatán,Victoria Aguilar--Héctor 
 16,VIDAL--J. AMILCAR ,cps,0,26,1916-1917,,,,congreso constituyente,Chiapas,Vidal--J. Amilcar 
 1545,VIDAL--ULISES ,cps,7,32,1926-1928,RUEDA--POLICARPO,Mayoría,,,Chiapas,Vidal--Ulises 
@@ -2509,26 +2509,26 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 2431,VILLALOBOS--ANTONIO  ,df,,36,1934-1937,,PNR,,,Distrito Federal,Villalobos--Antonio  
 821,VILLALOBOS--GUMARO,jal,6,29,1920-1922,MORENO--FRANCISCO Z.,Mayoría,1445,,Jalisco,Villalobos--Gumaro
 1241,VILLANUEVA GARCIA--JOSE,ver,16,30,1922-1924,JIMENEZ--MARTIN C.,Mayoría,,,Veracruz,Villanueva García--José
-2255,VILLARREAL H. JR.--SAMUEL,df,7,35,1932-1934,GALLARDO--JOSE,PNR Mayoría,8960,,Distrito Federal,Villarreal Jr.--Samuel
+2255,VILLARREAL JR.--SAMUEL,df,7,35,1932-1934,GALLARDO--JOSE,PNR Mayoría,8960,Cambio en nombre,Distrito Federal,Villarreal Jr.--Samuel
 2094,VILLARREAL JR.--SAMUEL ,df,1,34,1930-1932,NERI--SALVADOR,PNR Mayoría,12314,,Distrito Federal,Villarreal Jr.--Samuel 
 1681,VILLARREAL--FELIZARDO C. ,nl,3,32,1926-1928,CONTRERAS MOLINA--HILARIO,Mayoría,,,Nuevo León,Villarreal--Felizardo C. 
 420,VILLARREAL--FILIBERTO C.,sin,4,27,1917-1918,SANCHEZ--JOSE L.,Mayoría,972,,Sinaloa,Villarreal--Filiberto C.
 261,VILLARREAL--JESUS F.,dgo,6,27,1917-1918,ACEVEDO--JOSE,Mayoría,230,,Durango,Villarreal--Jesús F.
 57,VILLASEÑOR LOMELI--JOSE ,gua,0,26,1916-1917,,,,congreso constituyente,Guanajuato,Villaseñor Lomelí--José 
 1364,VILLASEÑOR MEJIA--JULIAN ,jal,19,31,1924-1926,CASTILLO--CASIMIRO,CPRJ Mayoría,2250,,Jalisco,Villaseñor Mejía--Julián 
-219,VILLASEÑOR NORMAN--GUSTAVO ADOLFO ,zac,0,26,1916-1917,,,,congreso constituyente,Zacatecas,Villaseñor Norman--Gustavo Adolfo 
+219,VILLASEÑOR NORMAN--GUSTAVO ADOLFO ,zac,0,26,1916-1917,SIMONI CASTELVI--RAFAEL,,,congreso constituyente (Cambio Suplente),Zacatecas,Villaseñor Norman--Gustavo Adolfo 
 103,VILLASEÑOR--ALDEGUNDO,mex,0,26,1916-1917,,,,congreso constituyente,México,Villaseñor--Aldegundo
-90,VILLASEÑOR--CARLOS,jal,0,26,1916-1917,,,,congreso constituyente,Jalisco,Villaseñor--Carlos
-91,VILLASEÑOR--JORGE,jal,0,26,1916-1917,,,,congreso constituyente,Jalisco,Villaseñor--Jorge
-268,VILLASEÑOR--JOSE,gua,6,27,1917-1918,SOTO--FRANCISCO,Mayoría,,,Guanajuato,Villaseñor--José
-526,VILLASEÑOR--JOSE,gua,6,28,1918-1920,VILLASEÑOR--SALVADOR,PLN Mayoría,2693,,Guanajuato,Villaseñor--José
-573,VILLASEÑOR--SALVADOR,jal,13,28,1918-1920,CORONA--LUIS,Mayoría,1125,,Jalisco,Villaseñor--Salvador
-1580,VILLASEÑOR--SALVADOR ,gua,6,32,1926-1928,COSS--MANUEL,Mayoría,,,Guanajuato,Villaseñor--Salvador 
+90,VILLASEÑOR--CARLOS,jal,0,26,1916-1917,,,,congreso constituyente (No en Ai Camp),Jalisco,Villaseñor--Carlos
+91,VILLASEÑOR--JORGE,jal,0,26,1916-1917,FARIAS--JOSE JORGE,,,congreso constituyente (Cambio Suplente),Jalisco,Villaseñor--Jorge
+268,VILLASEÑOR--JOSE,gua,6,27,1917-1918,SOTO--FRANCISCO,Mayoría,,Revisado,Guanajuato,Villaseñor--José
+526,VILLASEÑOR--JOSE,gua,6,28,1918-1920,VILLASEÑOR--SALVADOR,PLN Mayoría,2693,Revisado,Guanajuato,Villaseñor--José
+573,VILLASEÑOR MEJIA--JULIAN ,jal,13,28,1918-1920,CORONA--LUIS,Mayoría,1125,Cambio en nombre,Jalisco,Villaseñor--Salvador
+1580,VILLASEÑOR--SALVADOR ,gua,6,32,1926-1928,COSS--MANUEL,Mayoría,,Revisado,Guanajuato,Villaseñor--Salvador 
 1445,VILLAVICENCIO TOSCANO--MANUEL ,pue,13,31,1924-1926,VIVEROS--ARTURO,Mayoría,,,Puebla,Villavicencio Toscano--Manuel 
 1385,VILLAVICENCIO--ROMULO A. ,mex,17,31,1924-1926,MADRIGAL--RAMON,Mayoría,,,México,Villavicencio--Rómulo A. 
-866,VILLEGAS C.--IGNACIO,mic,10,29,1920-1922,CANO--RAFAEL,Mayoría,2809,,Michoacán,Villegas C.--Ignacio
 1127,VILLEGAS--FEDERICO,mic,5,30,1922-1924,YAÑEZ--MACLOVIO,Mayoría,,,Michoacán,Villegas--Federico
-1132,VILLEGAS--IGNACIO C.,mic,10,30,1922-1924,AVILA--GABRIEL,Mayoría,863,,MIchoacán,Villegas--Ignacio C.
+866,VILLEGAS--IGNACIO C.,mic,10,29,1920-1922,CANO--RAFAEL,Mayoría,2809,Cambio en nombre,Michoacán,Villegas C.--Ignacio
+1132,VILLEGAS--IGNACIO C.,mic,10,30,1922-1924,AVILA--GABRIEL,Mayoría,863,Revisado,MIchoacán,Villegas--Ignacio C.
 2525,VILLEGAS--JULIO T. ,que,,36,1934-1937,,,,,Querétaro,Villegas--Julio T. 
 2286,VILLEGAS--OTILIO,hgo,6,35,1932-1934,MORALES--PASCUAL,PNR Mayoría,,,Hidalgo,Villegas--Otilio
 2126,VILLEGAS--OTILIO ,hgo,6,34,1930-1932,BELTRAN HERNANDEZ--HOMERO,PNR Mayoría,,,Hidalgo,Villegas--Otilio 
@@ -2537,15 +2537,15 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 2053,VILLEGAS--TEODORO E. ,ver,15,33,1928-1930,AGUILA--JOSE,PSVOC Mayoría,,,Veracruz,Villegas--Teodoro E. 
 604,VILLELA--HUMBERTO,mic,7,28,1918-1920,SANTIBAÑEZ--RAFAEL,Mayoría,,,Michoacán,Villela--Humberto
 2124,VIVEROS--ERNESTO ,hgo,4,34,1930-1932,OSORIO--WILFRIDO,Mayoría,,,Hidalgo,Viveros--Ernesto 
-1474,VIZCARRA JR.--SALOME ,sin,6,31,1924-1926,OSUNA--MARTINIANO H.,Mayoría,,,Sinaloa,Vizcarra Jr.--Salomé 
+1474,VIZCARRA JR.--SALOME ,sin,6,31,1924-1926,OSUNA--MARTINIANO H.,Mayoría,,Revisado,Sinaloa,Vizcarra Jr.--Salomé 
 1617,VIZCARRA--IGNACIO ,jal,4,32,1926-1928,GONZALEZ YAÑEZ--GREGORIO,Mayoría,,,Jalisco,Vizcarra--Ignacio 
-1039,VIZCARRA--RUBEN,df,13,30,1922-1924,JUAREZ--ISAIAS,Mayoría,,,Distrito Federal,Vizcarra--Rubén
-1205,VIZCARRA--SALOME,sin,3,30,1922-1924,BOUTTIER--CARLOS,Mayoría,,,Sinaloa,Vizcarra--Salomé
-1012,VIZCARRA--SALVADOR,col,2,30,1922-1924,GUDIÑO--MANUEL,Mayoría,,,Colima,Vizcarra--Salvador
+1039,VIZCARRA--RUBEN,df,13,30,1922-1924,JUAREZ--ISAIAS,Mayoría,,Revisado,Distrito Federal,Vizcarra--Rubén
+1205,VIZCARRA--SALOME,sin,3,30,1922-1924,BOUTTIER--CARLOS,Mayoría,,Revisado,Sinaloa,Vizcarra--Salomé
+1012,VIZCARRA--SALVADOR,col,2,30,1922-1924,GUDIÑO--MANUEL,Mayoría,,Revisado,Colima,Vizcarra--Salvador
 1000,VON BORSTEL M.--ENRIQUE,bcn,0,30,1922-1924,ALVARADO H.--M. ALBERTO,Mayoría,,,Baja California Norte,Von Borstel M.--Enrique
 1261,VON BORSTEL M.--ENRIQUE,bcn,2,31,1924-1926,GOMEZ JIMENEZ--MANUEL,Mayoría,2379,,Baja California Norte,Von Borstel M.--Enrique
 729,VON BORSTEL M.--ENRIQUE,bcs,0,29,1920-1922,MENDOZA--JUAN H.,Mayoría,2686,,Baja California Sur,Von Borstel M.--Enrique
-11,VON VERSEN--JORGE ,coa,0,26,1916-1917,,,,congreso constituyente,Coahuila,Von Versen--Jorge 
+11,VON VERSEN--JORGE ,coa,0,26,1916-1917,PRUNEDA--SILVIANO,,,congreso constituyente (Cambio Suplente),Coahuila,Von Versen--Jorge 
 1858,YAÑEZ MAYA--J. JESUS,gua,10,33,1928-1930,ESQUIVEL--PROCORO,PRG Mayoría,,,Guanajuato,Yáñez Maya--J. Jesús
 2269,YAÑEZ MAYA--J. JESUS,gua,5,35,1932-1934,RUIZ--J. MELQUIADES,PNR Mayoría,,,Guanajuato,Yáñez Maya--J. Jesús
 1820,YAÑEZ--MIGUEL E.   ,cua,2,33,1928-1930,SANTANA--SALVADOR,Mayoría,,,Chihuahua,Yañez--Miguel E.   
