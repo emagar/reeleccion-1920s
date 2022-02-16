@@ -1,7 +1,7 @@
 * Pendientes en datos de reelección 1920s
 - [ ] Repasa fuentes secundarias en Godoy (como el libro de Rod Camp) para verificar nombres
-		Notas: Roderic Ai Camp marca la legislatura 26 de 1913–1914, en la base de datos la legislatura 26 se marca de 1916-1917. El periodo de 1916-1917 Ai Camp lo señala como "Convención Constitucional" y no asiga número a esa legislatura, por lo que la legislatura 27 incia, para Ai Camp hasta 1917–1918. La base de datos coincide en la legislatura 27.
-		El registro de diputados del Congreso Constituyente registra como diputados a suplentes, y en algunos estados faltan diputados. En Campeche falta el Diputado  Juan Zubarán.
+	- [ ] Notas: Roderic Ai Camp marca la legislatura 26 de 1913–1914, en la base de datos la legislatura 26 se marca de 1916-1917. El periodo de 1916-1917 Ai Camp lo señala como "Convención Constitucional" y no asiga número a esa legislatura, por lo que la legislatura 27 incia, para Ai Camp hasta 1917–1918. La base de datos coincide en la legislatura 27.
+	- [ ] El registro de diputados del Congreso Constituyente registra como diputados a suplentes, y en algunos estados faltan diputados. En Campeche falta el Diputado  Juan Zubarán.
 - [ ] Fuentes primarias en página web de la Cámara
 - [ ] Investiga dónde se puede reconstruir el mapa de los distritos (suponiendo que los distritos agrgaban municipios)
 - [ ] Verificar status de Baja California: era territorio que (creo) se dividió en dos territorios (N y S) en en periodo como preparación para que BCN se convirtiera en estado en ~1931. 
