@@ -114,7 +114,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 113,MARQUEZ ALVAREZ--RAFAEL,mic,0,26,1916-1917,,,,congreso constituyente,Michoacan,Márquez сlvarez--Rafael
 114,MARTINEZ SOLORZANO--MANUEL,mic,0,26,1916-1917,,,,congreso constituyente,Michoacan,Martínez Solórzano--Manuel
 115,MUGICA--FRANCISCO J.,mic,0,26,1916-1917,,,,congreso constituyente,Michoacan,Múgica--Francisco J. 
-116,PERALTA--ALBERTO,mic,0,26,1916-1917,,,,congreso constituyente (PERALTA RODR�GUEZ; Ai Camp),Michoacan,Peralta--Alberto
+116,PERALTA--ALBERTO,mic,0,26,1916-1917,,,,congreso constituyente (PERALTA RODRIGUEZ Camp),Michoacan,Peralta--Alberto
 117,ROMERO FLORES--JESUS,mic,0,26,1916-1917,,,,congreso constituyente,Michoacan,Romero Flores--Jesús
 118,RUIZ--JOSE P.,mic,0,26,1916-1917,,,,congreso constituyente,Michoacan,Ruiz--José P.
 119,SILVA HERRERA--JOSE,mic,0,26,1916-1917,,,,congreso constituyente,Michoacan,Silva Herrera--José
@@ -338,7 +338,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 337,RUIZ--JUAN A.,mex,16,27,1917-1918,ORTEGA--ALFONSO,Mayoria,2295,,Mexico,Ruíz--Juan A.
 338,AVELLANEDA--JUAN DE DIOS,mic,1,27,1917-1918,RUIZ--JOSE P,Mayoria,1154,,Michoacan,Avellaneda--Juan de Dios
 339,GARCIA DE LEON--PORFIRIO,mic,1,27,1917-1918,RUIZ--JOSE P.,Mayoria,,,Michoacan,García de León--Porfirio
-340,ANDRADE--CAYETANO,mic,2,27,1917-1918,DIAZ BARRIGA--JESUS,Izquierdista Mayoria,1323,Revisado (Ai Camp; Wikipedia),Michoacan,Andrade--Cayetano
+340,ANDRADE--CAYETANO,mic,2,27,1917-1918,DIAZ BARRIGA--JESUS,Izquierdista Mayoria,1323,Revisado (Ai Camp wikipedia),Michoacan,Andrade--Cayetano
 341,BARRAGAN--MARTIN,mic,3,27,1917-1918,OCHOA--ENRIQUE,Mayoria,,,Michoacan,Barragán--Martín
 342,AVILES--URIEL,mic,4,27,1917-1918,PATIÑO BORJA--FRANCISCO,Izquierdista Mayoria,,,Michoacan,Avilés--Uriel
 343,PARRA--ENRIQUE,mic,5,27,1917-1918,TELLEZ--FEDERICO,Mayoria,4622,,Michoacan,Parra--Enrique
@@ -625,7 +625,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 624,GONZALEZ--MARCIANO,nl,6,28,1918-1920,GARZA LEAL--LEANDRO,Mayoria,2014,,Nuevo Leon,González--Marciano
 625,GARCIA VIGIL--MANUEL,oax,1,28,1918-1920,ALLENDE--PABLO,Mayoria,3099,Revisado (Ai Camp),Oaxaca,García Vigil--Manuel
 626,SCHULZ Y ALVAREZ--MIGUEL E.,oax,2,28,1918-1920,MARTINEZ--GUADALUPE F.,Mayoria,4604,,Oaxaca,Schulz y Alvarez--Miguel E.
-627,VAZQUEZ--GENARO V.,oax,3,28,1918-1920,PALACIOS TORO--RAMON,Mayoria,4046,Revisado (Wikipedia: Genaro Vicente V�squez Quiroz),Oaxaca,Vázquez--Genaro V. 
+627,VAZQUEZ--GENARO V.,oax,3,28,1918-1920,PALACIOS TORO--RAMON,Mayoria,4046,Revisado (Wikipedia: Genaro Vicente Vásquez Quiroz),Oaxaca,Vázquez--Genaro V. 
 628,VILLALOBOS--ANTONIO,oax,4,28,1918-1920,CAMACHO--PEDRO,Mayoria,5474,Revisado,Oaxaca,Villalobos--Antonio
 629,PASTOR--PORFIRIO,oax,5,28,1918-1920,ALTAMIRANO--ALFREDO A.,Mayoria,4854,,Oaxaca,Pastor--Porfirio
 630,VALLADARES--FRANCISCO,oax,6,28,1918-1920,VELASCO--ISAAC,Mayoria,,,Oaxaca,Valladares--Francisco
@@ -971,7 +971,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 970,ALTAMIRANO--MANLIO FABIO,ver,8,29,1920-1922,MORALES--LUIS G.,Mayoria,,,Veracruz,Altamirano--Manlio Fabio
 971,CONTRERAS--ADOLFO,ver,9,29,1920-1922,GALVAN--FLAVIO,Mayoria,4761,,Veracruz,Contreras--Adolfo
 972,FERNANDEZ--MIGUEL B.,ver,10,29,1920-1922,CRUZ MUÑOZ--CASIMIRO,Mayoria,1052,,Veracruz,Fernández--Miguel B.
-973,CAMPILLO SEYDE--ARTURO,ver,11,29,1920-1922,SARIOL--JUAN B.,Mayoria,4597,Revisado (Ai Camp; Wikipedia),Veracruz,Campillo Seyde--Arturo
+973,CAMPILLO SEYDE--ARTURO,ver,11,29,1920-1922,SARIOL--JUAN B.,Mayoria,4597,Revisado (Ai Camp wikipedia),Veracruz,Campillo Seyde--Arturo
 974,MEZA--ENRIQUE,ver,12,29,1920-1922,HERRERA--SAMUEL,Mayoria,2328,,Veracruz,Meza--Enrique
 975,RODRIGUEZ--GUILLERMO,ver,13,29,1920-1922,MENDEZ--SEVERINO,Mayoria,3847,Revisado,Veracruz,Rodríguez--Guillermo
 976,MORENO--JESUS Z.,ver,14,29,1920-1922,RODRIGUEZ--LUIS,Mayoria,,,Veracruz,Moreno--Jesús Z.
@@ -1059,7 +1059,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1058,ARROYO CH.--AGUSTIN,gua,10,30,1922-1924,SEPULVEDA--ROBERTO,Mayoria,4014,,Guanajuato,Arroyo Ch.--Agustín
 1059,HERNANDEZ GALVAN--MANUEL,gua,11,30,1922-1924,QUINTANA--JOAQUIN,Mayoria,,,Guanajuato,Hernández Galván--Manuel
 1060,LIRA--LUCAS,gua,12,30,1922-1924,VILLALOBOS--MAXIMILIANO,Mayoria,,,Guanajuato,Lira--Lucas
-1061,PERALTA--ALBERTO,gua,13,30,1922-1924,RIVERA--ISAURO,Mayoria,,Revisado (PERALTA RODR�GUEZ; Ai Camp),Guanajuato,Peralta--Alberto
+1061,PERALTA--ALBERTO,gua,13,30,1922-1924,RIVERA--ISAURO,Mayoria,,Revisado (PERALTA RODRIGUEZ Camp),Guanajuato,Peralta--Alberto
 1062,GUTIERREZ--JOSE M.,gua,14,30,1922-1924,GIL LAMBARRI--JOSE,Mayoria,,,Guanajuato,Gutiérrez--José M.
 1063,AGUILERA--JOSE ASCENCION,gua,15,30,1922-1924,SOTO--EVERARDO,Mayoria,,,Guanajuato,Aguilera--José Ascención
 1064,HERNANDEZ ALVAREZ--ENRIQUE,gua,16,30,1922-1924,AGUIÑAGA--MONICO,Mayoria,,,Guanajuato,Hernández Alvarez--Enrique
@@ -1154,7 +1154,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1153,SULLIVAN--EDUARDO,nl,6,30,1922-1924,MARTINEZ AYALA--EPIFANIO,Mayoria,,,Nuevo Leon,Sullivan--Eduardo
 1154,VASCONCELOS--EDUARDO,oax,1,30,1922-1924,MUCIÑO--MARCELINO,PLC Mayoria,3372,,Oaxaca,Vasconcelos--Eduardo
 1155,LLAVE--MIGUEL DE LA,oax,2,30,1922-1924,CORRES--JOAQUIN,Mayoria,,,Oaxaca,Llave--Miguel de la
-1156,VAZQUEZ--GENARO V.,oax,3,30,1922-1924,MADRIGAL--OTILIO J.,Mayoria,,Revisado (Wikipedia: Genaro Vicente V�squez Quiroz),Oaxaca,Vázquez--Genaro V.
+1156,VAZQUEZ--GENARO V.,oax,3,30,1922-1924,MADRIGAL--OTILIO J.,Mayoria,,Revisado (Wikipedia: Genaro Vicente Vásquez Quiroz),Oaxaca,Vázquez--Genaro V.
 1157,REYES SAN GERMAN--JOSE,oax,4,30,1922-1924,RAMIREZ--ALFONSO FRANCISCO,Mayoria,,,Oaxaca,Reyes San Germán--José
 1158,OGARRIO MEIXUEIRO--JOAQUIN,oax,5,30,1922-1924,MARQUEZ--CENOBIO ANTONIO,Mayoria,,,Oaxaca,Ogarrio Meixueiro--Joaquín
 1159,GONZALEZ--ONESIMO,oax,6,30,1922-1924,HERNANDEZ--PEDRO,Mayoria,,,Oaxaca,González--Onésimo
@@ -1237,7 +1237,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1236,AGUADO--JOSE ISMAEL,ver,11,30,1922-1924,GARCIA--RUPERTO S.,Mayoria,,Cambio Suplente,Veracruz,Aguado--José Ismael
 1237,PUIG Y CASAURANC--CARLOS,ver,12,30,1922-1924,HUERTA--ENRIQUE C.,Mayoria,,Revisado,Veracruz,Puig y Casauranc--Carlos
 1238,FERNANDEZ--GUILLERMO,ver,13,30,1922-1924,GALICIA--JUAN,Mayoria,4008,,Veracruz,Fernández--Guillermo
-1239,CAMPILLO SEYDE--ARTURO,ver,14,30,1922-1924,HERNANDEZ--ARCADIO,Mayoria,,Revisado (Ai Camp; Wikipedia),Veracruz,Campillo Seyde--Arturo
+1239,CAMPILLO SEYDE--ARTURO,ver,14,30,1922-1924,HERNANDEZ--ARCADIO,Mayoria,,Revisado (Ai Camp wikipedia),Veracruz,Campillo Seyde--Arturo
 1240,BASAÑEZ--RUBEN,ver,15,30,1922-1924,MELENDEZ--JORGE,Mayoria,,,Veracruz,Basañez--Rubén
 1241,VILLANUEVA GARCIA--JOSE,ver,16,30,1922-1924,JIMENEZ--MARTIN C.,Mayoria,,,Veracruz,Villanueva García--José
 1242,JOACHIN--JUAN,ver,17,30,1922-1924,VIVES RUIZ--MIGUEL,Mayoria,,,Veracruz,Joachín--Juan
@@ -1317,7 +1317,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1316,MEDRANO V.--FEDERICO,gua,9,31,1924-1926,PEREZ PRADO--PULCHERIO,Mayoria,,,Guanajuato,Medrano V.--Federico
 1317,ARAGON--ANGEL,gua,10,31,1924-1926,TAMAYO--MANUEL,Mayoria,,,Guanajuato,Aragón--Angel 
 1318,ARROYO CH.--AGUSTIN,gua,11,31,1924-1926,MONTENEGRO--FERMIN,Mayoria,3935,,Guanajuato,Arroyo Ch.--Agustín 
-1319,ANDRADE--CAYETANO,gua,12,31,1924-1926,DIAZ BARRIGA--FRANCISCO,Mayoria,,Revisado (Ai Camp; Wikipedia),Guanajuato,Andrade--Cayetano 
+1319,ANDRADE--CAYETANO,gua,12,31,1924-1926,DIAZ BARRIGA--FRANCISCO,Mayoria,,Revisado (Ai Camp wikipedia),Guanajuato,Andrade--Cayetano 
 1320,AGUIRRE Y MAYA--JOSE,gua,13,31,1924-1926,ALCANTAR--LEOPOLDO,Mayoria,,,Guanajuato,Aguirre y Maya--José 
 1321,GUTIERREZ--JOSE M.,gua,14,31,1924-1926,BUENO--ESTEBAN,Mayoria,,,Guanajuato,Gutiérrez--José M. 
 1322,MENDEZ JR.--BENJAMIN,gua,15,31,1924-1926,OBREGON--ADOLFO,Mayoria,,,Guanajuato,Méndez Jr.--Benjamín 
@@ -1416,7 +1416,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1415,MARTINEZ--JUAN I.,nl,5,31,1924-1926,GARZA GONZALEZ--AURELIO,Mayoria,,,Nuevo Leon,Martínez--Juan I. 
 1416,MARTINEZ CAMPOS--JOSE,nl,6,31,1924-1926,GARZA GONZALEZ--CRESCENCIO DE LA,Mayoria,,,Nuevo Leon,Martínez Campos--José 
 1417,HERNANDEZ PIMENTEL--RAFAEL,oax,1,31,1924-1926,ALVAREZ--EMILIO,Mayoria,,,Oaxaca,Hernández Pimentel--Rafael 
-1418,VAZQUEZ--GENARO V.,oax,3,31,1924-1926,JIMENEZ MADRIGAL--OTILIO,Mayoria,,Revisado (Wikipedia: Genaro Vicente V�squez Quiroz),Oaxaca,Vázquez--Genaro V. 
+1418,VAZQUEZ--GENARO V.,oax,3,31,1924-1926,JIMENEZ MADRIGAL--OTILIO,Mayoria,,Revisado (Wikipedia: Genaro Vicente Vásquez Quiroz),Oaxaca,Vázquez--Genaro V. 
 1419,RUEDA MAGRO--MANUEL,oax,5,31,1924-1926,FRANCO CERQUEDA--MANUEL,Mayoria,,,Oaxaca,Rueda Magro--Manuel 
 1420,GARCIA RAMOS--JOSE,oax,6,31,1924-1926,CRUZ PALACIOS--CECILIO,Mayoria,,,Oaxaca,García Ramos--José 
 1421,LOPEZ--LIBRADO S.,oax,7,31,1924-1926,PEREZ--ROSENDO,Mayoria,11023,,Oaxaca,López--Librado S. 
@@ -1501,7 +1501,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1500,SARIOL--JUAN B.,ver,11,31,1924-1926,ANDRADE--JENARO,PLC Mayoria,3976,,Veracruz,Sariol--Juan B. 
 1501,MARTINEZ--EULALIO,ver,12,31,1924-1926,LOPEZ--PEDRO,Mayoria,,,Veracruz,Martínez--Eulalio 
 1502,TORRES--MARTIN,ver,13,31,1924-1926,ANDRADE--CARLOS,Mayoria,,,Veracruz,Torres--Martín 
-1503,CAMPILLO SEYDE--ARTURO,ver,14,31,1924-1926,VILLEGAS--TEODORO,Mayoria,5222,Revisado (Ai Camp; Wikipedia),Veracruz,Campillo Seyde--Arturo 
+1503,CAMPILLO SEYDE--ARTURO,ver,14,31,1924-1926,VILLEGAS--TEODORO,Mayoria,5222,Revisado (Ai Camp wikipedia),Veracruz,Campillo Seyde--Arturo 
 1504,MANCISIDOR--ANSELMO,ver,15,31,1924-1926,GALAN--FRANCISCO,PLROC Mayoria,2192,,Veracruz,Mancisidor--Anselmo 
 1505,CERISOLA--ALEJANDRO,ver,16,31,1924-1926,CANO CARRERA--ALVARO,Mayoria,,,Veracruz,Cerisola--Alejandro 
 1506,RODRIGUEZ--PEDRO C.,ver,17,31,1924-1926,PEREZ MORTEO--TOMAS,Mayoria,,,Veracruz,Rodríguez--Pedro C. 
@@ -1532,7 +1532,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1531,MIJARES V.--MANUEL,coa,3,32,1926-1928,VALDES LLANO--DOMINGO,PLN Mayoria,6240,,Coahuila,Mijares V.--Manuel 
 1532,BARRERA--ELPIDIO,coa,4,32,1926-1928,SOLIS--LAZARO,PNR Mayoria,23019,,Coahuila,Barrera--Elpidio 
 1533,GARZA CASTRO--ANTONIO,coa,5,32,1926-1928,SALINAS--GUSTAVO,Mayoria,,,Coahuila,Garza Castro--Antonio 
-1534,ACOSTA--DOMINGO P.,coa,6,32,1926-1928,GUEDEA--LAZARO,Mayoria,,Suplente: L�zaro (Ai Camp),Coahuila,Acosta--Domingo P. 
+1534,ACOSTA--DOMINGO P.,coa,6,32,1926-1928,GUEDEA--LAZARO,Mayoria,,Suplente: Lázaro (Ai Camp),Coahuila,Acosta--Domingo P. 
 1535,VALLE--FRANCISCO DE,coa,7,32,1926-1928,MONDRAGON--ADOLFO,Mayoria,,,Coahuila,Valle--Francisco de 
 1536,LLERENAS--JOSE,col,1,32,1926-1928,RAMOS SALIDO--NAPOLEON,Mayoria,,,Colima,LLerenas--José 
 1537,SILVA--FRANCISCO J.,col,2,32,1926-1928,GONZALEZ--SALVADOR,Mayoria,3498,,Colima,Silva--Francisco J.
@@ -1554,10 +1554,10 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1553,MARTINEZ--EULALIO,df,1,32,1926-1928,OLIN--SEVERINO A.,Mayoria,,,Distrito Federal,Martínez--Eulalio 
 1554,PEÑA--JOAQUIN DE LA,df,2,32,1926-1928,BONILLA--ENRIQUE M.,Mayoria,,,Distrito Federal,Peña--Joaquín de la 
 1555,BALDERAS--MANUEL,df,3,32,1926-1928,ESPINOZA Y RODRIGUEZ--ANTONIO,Mayoria,,Dudas,Distrito Federal,Balderas--Manuel 
-1556,CAMPILLO SEYDE--ARTURO,df,4,32,1926-1928,ALDAMA--SATURNINO,Mayoria,,Revisado (Ai Camp; Wikipedia),Distrito Federal,Campillo Seyde--Arturo 
+1556,CAMPILLO SEYDE--ARTURO,df,4,32,1926-1928,ALDAMA--SATURNINO,Mayoria,,Revisado (Ai Camp wikipedia),Distrito Federal,Campillo Seyde--Arturo 
 1557,YUDICO--SAMUEL O.,df,5,32,1926-1928,RAMOS--ANTONIO,Mayoria,,,Distrito Federal,Yudico--Samuel O. 
 1558,GONZALEZ--GONZALO,df,6,32,1926-1928,HURTADO--ELIAS F.,Mayoria,,,Distrito Federal,González--Gonzalo 
-1559,VAZQUEZ--GENARO V.,df,7,32,1926-1928,CRUZ VELASCO--INDALECIO,Mayoria,,Revisado (Wikipedia: Genaro Vicente V�squez Quiroz),Distrito Federal,Vázquez--Genaro V. 
+1559,VAZQUEZ--GENARO V.,df,7,32,1926-1928,CRUZ VELASCO--INDALECIO,Mayoria,,Revisado (Wikipedia: Genaro Vicente Vásquez Quiroz),Distrito Federal,Vázquez--Genaro V. 
 1560,SANTOS--GONZALO N.,df,8,32,1926-1928,QUEVEDO--PEDRO,Mayoria,,Dudas,Distrito Federal,Santos--Gonzalo N. 
 1561,LOZANO--JUAN,df,9,32,1926-1928,VILLANUEVA--RAFAEL,Mayoria,,,Distrito Federal,Lozano--Juan 
 1562,GUTIERREZ--JOSE F.,df,10,32,1926-1928,HERNANDEZ--HONORATO,Mayoria,,,Distrito Federal,Gutiérrez--José F. 
@@ -2547,7 +2547,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 2546,SANCHEZ PEREA--ENRIQUE,tla,,36,1934-1937,,PNR,,,Tlaxcala,Saínchez Perea--Enrique 
 2547,AILLAUD--AUGUSTO,ver,,36,1934-1937,,PNR,,Dudas,Veracruz,Aillaud--Augusto  
 2548,ALTAMIRANO--MANLIO FABIO,ver,,36,1934-1937,,PNR,,,Veracruz,Altamirano--Manlio Fabio 
-2549,CAMPILLO SEYDE--ARTURO,ver,,36,1934-1937,,PNR,,Revisado (Ai Camp; Wikipedia),Veracruz,Campillo Seyde--Arturo 
+2549,CAMPILLO SEYDE--ARTURO,ver,,36,1934-1937,,PNR,,Revisado (Ai Camp wikipedia),Veracruz,Campillo Seyde--Arturo 
 2550,CERISOLA--ALEJANDRO,ver,,36,1934-1937,,PNR,,,Veracruz,Cerisola--Alejandro  
 2551,FANO VINIEGRA--OSCAR,ver,,36,1934-1937,,PNR,,,Veracruz,Fano Viniegra--Oscar 
 2552,MERINO--ARTURO,ver,,36,1934-1937,,PVT,,,Veracruz,Merino--Arturo  
