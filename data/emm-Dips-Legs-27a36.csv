@@ -1,8 +1,8 @@
 ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
-1,CERVANTES HERNANDEZ--DANIEL,ags,0,26,1916-1917,ORTEGA--GONZALO,,,cconst (Cambio Suplente),Aguascalientes,Cervantes Hernández--Daniel
-2,ELOY PEDROZA--ARCHIBALDO,ags,0,26,1916-1917,,,,cconst (No en Ai Camp),Aguascalientes,Eloy Pedroza--Archibaldo
-3,GONZALEZ--AURELIO L.,ags,0,26,1916-1917,PEDROZA--ARCHIBALDO E.,,,cconst (Cambio Suplente),Aguascalientes,González--Aurelio L. 
-4,ROEL--IGNACIO,bc,0,26,1916-1917,GOMEZ--MATIAS,,,cconst (Cambio Suplente),"Baja California, Terr. de",Roel--Ignacio
+1,CERVANTES HERNANDEZ--DANIEL,ags,0,26,1916-1917,ORTEGA--GONZALO,,,cconst,Aguascalientes,Cervantes Hernández--Daniel
+2,ELOY PEDROZA--ARCHIBALDO,ags,0,26,1916-1917,,,,cconst (No dip en Ai Camp),Aguascalientes,Eloy Pedroza--Archibaldo
+3,GONZALEZ--AURELIO L.,ags,0,26,1916-1917,PEDROZA--ARCHIBALDO E.,,,cconst,Aguascalientes,González--Aurelio L. 
+4,ROEL--IGNACIO,bc,0,26,1916-1917,GOMEZ--MATIAS,,,cconst,"Baja California, Terr. de",Roel--Ignacio
 5,PEREZ ABREU--HERMINIO,cam,0,26,1916-1917,ARIAS SOLIS--ENRIQUE,,,cconst (caso confirmado = dip fed campeche luego df),Campeche,Pérez Abreu--Herminio
 6,AGUIRRE BERLANGA--MANUEL,coa,0,26,1916-1917,RODRIGUEZ GONZALEZ--JOSE,  ,,cconst,Coahuila,Aguirre Berlanga--Manuel 
 7,CEPEDA MEDRANO--MANUEL,coa,0,26,1916-1917,SANTOS--JOSE N.,,,cconst,Coahuila,Cepeda Medrano--Manuel 
@@ -26,7 +26,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 25,MARTINEZ--RAFAEL,df,0,26,1916-1917,,,,cconst,Distrito Federal,Martínez--Rafael 
 26,NORZAGARAY--ANTONIO,df,0,26,1916-1917,,,,cconst,Distrito Federal,Norzagaray--Antonio
 27,PALAVICINI--FELIX F.,df,0,26,1916-1917,,,,cconst,Distrito Federal,Palavicini--Félix F. 
-28,PESQUEIRA--IGNACIO L.,df,0,26,1916-1917,,,,cconst (Revisado),Distrito Federal,Pesqueira--Ignacio L. 
+28,PESQUEIRA--IGNACIO L.,df,0,26,1916-1917,,,,cconst (revisado en Ai Camp),Distrito Federal,Pesqueira--Ignacio L. 
 29,ROSAS Y REYES--ROMAN,df,0,26,1916-1917,,,,cconst,Distrito Federal,Rosas y Reyes--Román 
 30,SILVA--ARNULFO,df,0,26,1916-1917,,,,cconst,Distrito Federal,Silva--Arnulfo
 31,UGARTE--GERZAYN,df,0,26,1916-1917,,,,cconst,Distrito Federal,Ugarte--Gerzayn 
@@ -59,7 +59,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 58,FIGUEROA--FRANCISCO,gue,0,26,1916-1917,,,,cconst,Guerrero,Figueroa--Francisco
 59,GUILLEN--FIDEL R.,gue,0,26,1916-1917,,,,cconst fidal = fidel r?,Guerrero,Guillén--Fidel R. 
 60,JIMENEZ--FIDEL,gue,0,26,1916-1917,,,,cconst,Guerrero,Jiménez--Fidel
-61,AGUIRRE--CRISOFORO,hgo,0,26,1916-1917,,,,cconst (Suplente luego dip.),Hidalgo,Aguirre--Crisóforo
+61,AGUIRRE--CRISOFORO,hgo,0,26,1916-1917,,,,cconst (suplente luego dip.),Hidalgo,Aguirre--Crisóforo
 62,CRAVIOTO--ALFONSO,hgo,0,26,1916-1917,,,,cconst,Hidalgo,Cravioto--Alfonso 
 63,GONZALEZ--ALBERTO M.,hgo,0,26,1916-1917,,,,cconst,Hidalgo,González--Alberto M. 
 64,GUERRERO--ANTONIO,hgo,0,26,1916-1917,,,,cconst,Hidalgo,Guerrero--Antonio
@@ -94,27 +94,27 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 93,BRAVO IZQUIERDO--DONATO,mex,0,26,1916-1917,,,,cconst,Mexico,Bravo Izquierdo--Donato 
 94,ENRIQUEZ--ENRIQUE A.,mex,0,26,1916-1917,,,,cconst,Mexico,Enríquez--Enrique A. 
 95,FRANCO--JOSE,mex,0,26,1916-1917,,,,cconst,Mexico,Franco--José
-96,GIFFARD--JUAN MANUEL,mex,0,26,1916-1917,,,,cconst (dudas),Mexico,Giffard--Juan Manuel 
+96,GIFFARD--JUAN MANUEL,mex,0,26,1916-1917,,,,cconst mismo que giffard de ver?,Mexico,Giffard--Juan Manuel 
 97,HERNANDEZ--MANUEL A.,mex,0,26,1916-1917,,,,cconst,Mexico,Hernández--Manuel A.
 98,MARTI--RUBEN,mex,0,26,1916-1917,,,,cconst,Mexico,Martí--Rubén
 99,MORENO--FERNANDO,mex,0,26,1916-1917,,,,cconst,Mexico,Moreno--Fernando
-100,O'FARRIL--ENRIQUE,mex,0,26,1916-1917,,,,cconst (dudas),Mexico,O'Farril--Enrique
+100,O'FARRIL--ENRIQUE,mex,0,26,1916-1917,,,,cconst dudas,Mexico,O'Farril--Enrique
 101,ORDORICA--GUILLERMO,mex,0,26,1916-1917,,,,cconst,Mexico,Ordorica--Guillermo
 102,REYNOSO--JOSE J.,mex,0,26,1916-1917,,,,cconst,Mexico,Reynoso--José J. 
 103,VILLASEÑOR--ALDEGUNDO,mex,0,26,1916-1917,,,,cconst,Mexico,Villaseñor--Aldegundo
 104,ALCARAZ ROMERO--SALVADOR,mic,0,26,1916-1917,,,,cconst,Michoacan,Alcaraz Romero--Salvador
 105,ALVARADO--ALBERTO,mic,0,26,1916-1917,,,,cconst,Michoacan,Alvarado--Alberto
-106,ALVAREZ Y ALVAREZ--JOSE,mic,0,26,1916-1917,,,,cconst (jose = rafael?),Michoacan,сlvarez y сlvarez--José
+106,ALVAREZ Y ALVAREZ--JOSE,mic,0,26,1916-1917,,,,cconst jose = rafael?,Michoacan,сlvarez y сlvarez--José
 107,ANDRADE LOPEZ--CAYETANO,mic,0,26,1916-1917,,,,cconst,Michoacan,Andrade López--Cayetano
 108,AVILES--URIEL,mic,0,26,1916-1917,,,,cconst,Michoacan,Avilés--Uriel
 109,BETANCOURT--AMADO,mic,0,26,1916-1917,,,,cconst amadeo = amado?,Michoacan,Betancourt--Amado
 110,CASTREJON--MARTIN,mic,0,26,1916-1917,,,,cconst,Michoacan,Castrejón--Martín
 111,CERVERA RIZA--GABRIEL,mic,0,26,1916-1917,,,,cconst,Michoacan,Cervera Riza--Gabriel
-112,LOPEZ COUTO--ENESIMO,mic,0,26,1916-1917,,,,cconst onesimo?,Michoacan,López Couto--Enésimo
+112,LOPEZ COUTO--ENESIMO,mic,0,26,1916-1917,,,,cconst onesimo? O enesimo?,Michoacan,López Couto--Enésimo
 113,MARQUEZ ALVAREZ--RAFAEL,mic,0,26,1916-1917,,,,cconst,Michoacan,Márquez сlvarez--Rafael
 114,MARTINEZ SOLORZANO--MANUEL,mic,0,26,1916-1917,,,,cconst,Michoacan,Martínez Solórzano--Manuel
 115,MUGICA--FRANCISCO J.,mic,0,26,1916-1917,,,,cconst,Michoacan,Múgica--Francisco J. 
-116,PERALTA--ALBERTO,mic,0,26,1916-1917,,,,cconst (PERALTA RODRIGUEZ Camp),Michoacan,Peralta--Alberto
+116,PERALTA--ALBERTO,mic,0,26,1916-1917,,,,cconst (PERALTA RODRIGUEZ seg�n Ai Camp),Michoacan,Peralta--Alberto
 117,ROMERO FLORES--JESUS,mic,0,26,1916-1917,,,,cconst,Michoacan,Romero Flores--Jesús
 118,RUIZ--JOSE P.,mic,0,26,1916-1917,,,,cconst,Michoacan,Ruiz--José P.
 119,SILVA HERRERA--JOSE,mic,0,26,1916-1917,,,,cconst,Michoacan,Silva Herrera--José
@@ -132,17 +132,17 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 131,ILIZALITURRI--LUIS,nl,0,26,1916-1917,,,,cconst,Nuevo Leon,Ilizaliturri--Luis 
 132,SEPULVEDA--JOSE LORENZO,nl,0,26,1916-1917,,,,cconst,Nuevo Leon,Sepúlveda--José Lorenzo 
 133,ZAMBRANO--NICEFORO,nl,0,26,1916-1917,,,,cconst,Nuevo Leon,Zambrano--Nicéforo
-134,ESPINOSA--LUIS,oax,0,26,1916-1917,,,,cconst (dudas),Oaxaca,Espinosa--Luis
-135,GARCIA VIGIL--MANUEL,oax,0,26,1916-1917,,,,cconst (Revisado: Ai Camp),Oaxaca,García Vigil--Manuel 
+134,ESPINOSA--LUIS,oax,0,26,1916-1917,,,,cconst mismo que el de cps?,Oaxaca,Espinosa--Luis
+135,GARCIA VIGIL--MANUEL,oax,0,26,1916-1917,,,,cconst,Oaxaca,García Vigil--Manuel 
 136,GOMEZ BUSTAMANTE--JOSE F.,oax,0,26,1916-1917,,,,cconst,Oaxaca,Gómez Bustamante--José F. 
-137,GONZALEZ TORRES--SALVADOR,oax,0,26,1916-1917,,,,cconst (caso confirmado son el mismo),Oaxaca,González Torres--Salvador 
+137,GONZALEZ TORRES--SALVADOR,oax,0,26,1916-1917,,,,cconst (mismo que CONZALEZ TORRES de mic),Oaxaca,González Torres--Salvador 
 138,HERRERA--MANUEL,oax,0,26,1916-1917,,,,cconst,Oaxaca,Herrera--Manuel
 139,PAYAN--LEOPOLDO,oax,0,26,1916-1917,,,,cconst,Oaxaca,Payán--Leopoldo 
 140,PEREZ--CELESTINO,oax,0,26,1916-1917,,,,cconst,Oaxaca,Pérez--Celestino 
 141,RIVERA CABRERA--CRISOFORO,oax,0,26,1916-1917,,,,cconst,Oaxaca,Rivera Cabrera--Crisóforo 
 142,SANCHEZ--JUAN,oax,0,26,1916-1917,,,,cconst,Oaxaca,Sánchez--Juan 
 143,SOSA--PORFIRIO,oax,0,26,1916-1917,,,,cconst,Oaxaca,Sosa--Porfirio 
-144,BANDERA Y MATA--GABINO,pue,0,26,1916-1917,,,,cconst (Wikipedia),Puebla,Bandera y Mata--Gabino 
+144,BANDERA Y MATA--GABINO,pue,0,26,1916-1917,,,,cconst (via pasa por gue y pue Wikipedia),Puebla,Bandera y Mata--Gabino 
 145,CABRERA--ALFONSO,pue,0,26,1916-1917,,,,cconst,Puebla,Cabrera--Alfonso
 146,CAÑETA--RAFAEL,pue,0,26,1916-1917,,,,cconst,Puebla,Cañeta--Rafael 
 147,DE LA BARRERA--ANTONIO,pue,0,26,1916-1917,,,,cconst,Puebla,De la Barrera--Antonio 
@@ -152,13 +152,13 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 151,GUZMAN--SALVADOR R.,pue,0,26,1916-1917,,,,cconst,Puebla,Guzmán--Salvador R. 
 152,MANJARREZ--FROILAN C.,pue,0,26,1916-1917,,,,cconst Froylan? Vida pasa por pue son y df,Puebla,Manjarréz--Froilán C. 
 153,MARTINEZ--EPIGMENIO A.,pue,0,26,1916-1917,,,,cconst,Puebla,Martínez--Epigmenio A. 
-154,NAVARRO--LUIS T.,pue,0,26,1916-1917,,,,cconst dudas revisar,Puebla,Navarro--Luis T. 
+154,NAVARRO--LUIS T.,pue,0,26,1916-1917,,,,cconst dudas si luis t es el mismo que solo luis,Puebla,Navarro--Luis T. 
 155,PASTRANA JAIMES--DAVID,pue,0,26,1916-1917,,,,cconst (caso confirmado = vida pasa por pue y gue),Puebla,Pastrana Jaimes--David 
 156,RIVERA--JOSE,pue,0,26,1916-1917,,,,cconst,Puebla,Rivera--José 
 157,ROJANO PALACIOS--GABRIEL,pue,0,26,1916-1917,,,,cconst,Puebla,Rojano Palacios--Gabriel 
 158,ROSALES--MIGUEL,pue,0,26,1916-1917,,,,cconst,Puebla,Rosales--Miguel 
 159,ROUAIX--PASTOR,pue,0,26,1916-1917,,,,cconst,Puebla,Rouaix--Pastor 
-160,VERASTEGUI--JOSE,pue,0,26,1916-1917,NIETO--CANDIDO,,,cconst caso confirmado,Puebla,Verástegui--José
+160,VERASTEGUI--JOSE,pue,0,26,1916-1917,NIETO--CANDIDO,,,cconst caso confirmado = dip por pue y que,Puebla,Verástegui--José
 161,FRIAS--JUAN N.,que,0,26,1916-1917,,,,cconst,Queretaro,Frías--Juan N. 
 162,PERRUSQUIA--ERNESTO,que,0,26,1916-1917,,,,cconst,Queretaro,Perrusquía--Ernesto 
 163,TRUCHUELO--JOSE MARIA,que,0,26,1916-1917,,,,cconst,Queretaro,Truchuelo--José María 
@@ -174,13 +174,13 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 173,GARCIA--EMILIANO C.,sin,0,26,1916-1917,,,,cconst emiliano c. = emiliano?,Sinaloa,García--Emiliano C. 
 174,MAGALLON--ANDRES,sin,0,26,1916-1917,,,,cconst,Sinaloa,Magallón--Andrés 
 175,BOJORQUEZ--JUAN DE DIOS,son,0,26,1916-1917,,,,cconst,Sonora,Bojórquez--Juan de Dios 
-176,BORQUEZ--FLAVIO A.,son,0,26,1916-1917,,,,cconst flavio a = favio j=,Sonora,Bórquez--Flavio A. 
+176,BORQUEZ--FLAVIO A.,son,0,26,1916-1917,,,,cconst flavio a = favio j?,Sonora,Bórquez--Flavio A. 
 177,MONZON--LUIS G.,son,0,26,1916-1917,,,,cconst,Sonora,Monzón--Luis G. 
 178,ROSS--RAMON,son,0,26,1916-1917,,,,cconst,Sonora,Ross--Ramón 
 179,MARTINEZ DE ESCOBAR--RAFAEL,tab,0,26,1916-1917,,,,cconst vida pasa por tab y df,Tabasco,Martínez de Escobar--Rafael 
 180,OCAMPO--SANTIAGO,tab,0,26,1916-1917,,,,cconst,Tabasco,Ocampo--Santiago 
 181,SANCHEZ MAGALLANES--CARMEN,tab,0,26,1916-1917,,,,cconst,Tabasco,Sánchez Magallanes--Carmen
-182,CHAPA--PEDRO A.,tam,0,26,1916-1917,,,,cconst (Revisado: Ai Camp),Tamaulipas,Chapa--Pedro A. 
+182,CHAPA--PEDRO A.,tam,0,26,1916-1917,,,,dip por tam y nl (Ai Camp),Tamaulipas,Chapa--Pedro A. 
 183,DE LEIJA--FORTUNATO,tam,0,26,1916-1917,,,,cconst,Tamaulipas,De Leija--Fortunato 
 184,FAJARDO--ZEFERINO,tam,0,26,1916-1917,,,,cconst,Tamaulipas,Fajardo--Zeferino 
 185,NAFARRATE CECEÑA--EMILIANO P.,tam,0,26,1916-1917,,,,cconst,Tamaulipas,Nafarrate Ceceña--Emiliano P. 
@@ -196,7 +196,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 195,GARCIA--ADOLFO G.,ver,0,26,1916-1917,,,,cconst,Veracruz,García--Adolfo G. 
 196,GONGORA--VICTORIO E.,ver,0,26,1916-1917,,,,cconst,Veracruz,Góngora--Victorio E. 
 197,GRACIADAS--CARLOS L.,ver,0,26,1916-1917,,,,cconst,Veracruz,Graciadas--Carlos L. 
-198,JARA CORONA--HERIBERTO,ver,0,26,1916-1917,,,,cconst dudas revisar,Veracruz,Jara Corona--Heriberto
+198,JARA CORONA--HERIBERTO,ver,0,26,1916-1917,,,,cconst juana heriberto es el mismo?,Veracruz,Jara Corona--Heriberto
 199,JUARICO--ANGEL,ver,0,26,1916-1917,,,,cconst,Veracruz,Juárico--сngel 
 200,MARQUEZ--JOSAFAT F.,ver,0,26,1916-1917,,,,cconst,Veracruz,Márquez--Josafat F. 
 201,MEZA--ENRIQUE,ver,0,26,1916-1917,,,,cconst,Veracruz,Mesa--Enrique 
@@ -231,7 +231,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 230,TREVIÑO--JACINTO B.,coa,5,27,1917-1918,SANTOS--JOSE N.,Mayoria,1373,,Coahuila,Treviño--Jacinto B.
 231,SAUCEDO--SALVADOR,col,0,27,1917-1918,TORRES VIRGEN--JUAN,Mayoria,2315,,Colima,Saucedo--Salvador
 232,ARAUJO--EMILIO,cps,1,27,1917-1918,POLA MUÑOZ--RAUL,Mayoria,,,Chiapas,Araujo--Emilio
-233,SUAREZ--ENRIQUE A.,cps,2,27,1917-1918,CASTILLO JR.--MIGUEL,Izquierdista Mayoria,,dudas revisar,Chiapas,Suárez--Enrique A.
+233,SUAREZ--ENRIQUE A.,cps,2,27,1917-1918,CASTILLO JR.--MIGUEL,Izquierdista Mayoria,,enrique o enrique a?,Chiapas,Suárez--Enrique A.
 234,ROJAS DUGELAY--ISAAC,cps,3,27,1917-1918,CANSINO--HERMINIO,Mayoria,,,Chiapas,Rojas Dugelay--Isaac
 235,BURGUETE--PONCIANO,cps,4,27,1917-1918,RUIZ--RODOLFO,Mayoria,,,Chiapas,Burguete--Ponciano
 236,CARRASCOSA--RICARDO,cps,5,27,1917-1918,MARCELIN--ENRIQUE,Mayoria,1531,miliciades = ricardo?,Chiapas,Carrascosa--Ricardo
@@ -249,7 +249,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 248,MATA--LUIS I.,df,7,27,1917-1918,GARCIA GARCIA--GUADALUPE,Mayoria,,,Distrito Federal,Mata--Luis I.
 249,ACUÑA--JESUS,df,8,27,1917-1918,OSORNIO--ENRIQUE C,Mayoria,,,Distrito Federal,Acuña--Jesús
 250,GOMEZ--MAUR,df,9,27,1917-1918,ALDUCIN--RAFAEL,Mayoria,3634,,Distrito Federal,Gómez--Maur
-251,GARCIA VIGIL--MANUEL,df,10,27,1917-1918,ABREU SALA--ADOLFO,Mayoria,1545,Revisado (Ai Camp),Distrito Federal,García Vigil--Manuel
+251,GARCIA VIGIL--MANUEL,df,10,27,1917-1918,ABREU SALA--ADOLFO,Mayoria,1545,dip por oax y df (Ai Camp),Distrito Federal,García Vigil--Manuel
 252,CIENFUEGOS--ADOLFO,df,11,27,1917-1918,PEREDO--LUIS A.,Mayoria,,,Distrito Federal,Cienfuegos--Adolfo
 253,NAVARRO--LUIS,df,11,27,1917-1918,FERRER ALDAMA--VICENTE,Mayoria,,luis t?,Distrito Federal,Navarro--Luis
 254,VARGAS--RAFAEL,df,11,27,1917-1918,MATA--LUIS I.,Mayoria,,,Distrito Federal,Vargas--Rafael
@@ -274,9 +274,9 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 273,MENDOZA--FRANCISCO DE P.,gua,10,27,1917-1918,GIL--LUIS,Mayoria,,,Guanajuato,Mendoza--Francisco de P.
 274,LOPEZ--IGNACIO,gua,11,27,1917-1918,SANCHEZ--FRANCISCO,Derechista Mayoria,,,Guanajuato,López--Ignacio
 275,ROBLES DOMINGUEZ--ALFREDO,gua,12,27,1917-1918,DIAZ BARRIGA--FRANCISCO,Mayoria,,,Guanajuato,Robles Domínguez--Alfredo
-276,SIUROB--JOSE,gua,13,27,1917-1918,AGUILAR--JOSE,Mayoria,,Revisado (Wikipedia),Guanajuato,Siurob--José
+276,SIUROB--JOSE,gua,13,27,1917-1918,AGUILAR--JOSE,Mayoria,,caso confirmado = dip por gua y que (Siurub Ram�rez Jose),Guanajuato,Siurob--José
 277,MONTES--FEDERICO,gua,14,27,1917-1918,ZAVALA--LEOBINO,Mayoria,,,Guanajuato,Montes--Federico
-278,RIOS LANDEROS--EZEQUIEL,gua,15,27,1917-1918,AGUILERA--CRESCENCIANO,Mayoria,4164,Revisado,Guanajuato,Ríos Landeros--Ezequiel
+278,RIOS LANDEROS--EZEQUIEL,gua,15,27,1917-1918,AGUILERA--CRESCENCIANO,Mayoria,4164,revisar,Guanajuato,Ríos Landeros--Ezequiel
 279,HERNANDEZ GARIBAY--MIGUEL,gua,16,27,1917-1918,COLUNGA--ENRIQUE,Mayoria,,,Guanajuato,Hernández Garibay--Miguel
 280,RODRIGUEZ--SALVADOR,gua,16,27,1917-1918,VELAZQUEZ,Mayoria,,,Guanajuato,Rodríguez--Salvador
 281,SEPULVEDA--ROBERTO,gua,17,27,1917-1918,ULLOA--PEDRO,Mayoria,517,,Guanajuato,Sepúlveda--Roberto
@@ -295,13 +295,13 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 294,VEGA SANCHEZ--RAFAEL,hgo,5,27,1917-1918,SANCHEZ--EUSTORGIO,Mayoria,,,Hidalgo,Vega Sánchez--Rafael
 295,SILVA--JESUS,hgo,6,27,1917-1918,LARA--RODRIGO M.,Mayoria,,,Hidalgo,Silva--Jesús
 296,CRAVIOTO--ALFONSO,hgo,7,27,1917-1918,ALBURQUERQUE--LAURO,Derechista Mayoria,5304,alberto y alfonso?,Hidalgo,Cravioto--Alfonso
-297,AGUIRRE--CRISOFORO,hgo,8,27,1917-1918,JASO--ANTONIO,Izquierdista Mayoria,2757,Revisado (Wikipedia),Hidalgo,Aguirre--Crisóforo
+297,AGUIRRE--CRISOFORO,hgo,8,27,1917-1918,JASO--ANTONIO,Izquierdista Mayoria,2757,caso confirmado = wikipedia,Hidalgo,Aguirre--Crisóforo
 298,LAILSON BANUET--MANUEL,hgo,9,27,1917-1918,CORRAL--RODOLFO DEL,Mayoria,1708,,Hidalgo,Lailson Banuet--Manuel
 299,TELLEZ ESCUDERO--DANIEL,hgo,10,27,1917-1918,ORTEGA--DOMINGO,Mayoria,3151,,Hidalgo,Téllez Escudero--Daniel
 300,CISNEROS--EDUARDO,hgo,11,27,1917-1918,LOPEZ--GONZALO,Mayoria,1940,,Hidalgo,Cisneros--Eduardo
 301,ESCUDERO--SALVADOR,jal,1,27,1917-1918,MORA IBARRA--JOSE,Mayoria,,,Jalisco,Escudero--Salvador
 302,GONZALEZ--JUSTO,jal,2,27,1917-1918,PEÑA--ALBERTO V. DE LA,Mayoria,,,Jalisco,González--Justo
-303,LIMON--CRISTOBAL,jal,3,27,1917-1918,GOMEZ SALCEDO--ENRIQUE,Izquierdista Mayoria,2068,caso confirmado = nace jal vive nay,Jalisco,Limón--Cristobál
+303,LIMON--CRISTOBAL,jal,3,27,1917-1918,GOMEZ SALCEDO--ENRIQUE,Izquierdista Mayoria,2068,nace jal vive nay,Jalisco,Limón--Cristobál
 304,ALVAREZ DEL CASTILLO--JUAN MANUEL,jal,4,27,1917-1918,ORTEGA--EZEQUIEL,Mayoria,,,Jalisco,Alvarez del Castillo--Juan Manuel
 305,MARTIN DEL CAMPO--FRANCISCO,jal,5,27,1917-1918,MARTIN DEL CAMPO--MANUEL,Izquierdista Mayoria,104,fernando y francisco?,Jalisco,Martín del Campo--Francisco
 306,DAVALOS ORNELAS--MANUEL,jal,6,27,1917-1918,CAMBEROS--MARIANO,Izquierdista Mayoria,243,,Jalisco,Dávalos Ornelas--Manuel
@@ -310,7 +310,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 309,ROBLEDO--JUAN DE DIOS,jal,9,27,1917-1918,MARTINEZ VALADEZ--MANUEL,Izquierdista Mayoria,,,Jalisco,Robledo--Juan de Dios
 310,FIGUEROA--JOSE LUIS,jal,10,27,1917-1918,CORTES--ANTONIO,Mayoria,833,,Jalisco,Figueroa--José Luis
 311,GONZALEZ IBARRA--JESUS,jal,11,27,1917-1918,PEREZ BRAMBILA--MANUEL,Mayoria,,,Jalisco,González Ibarra--Jesús
-312,SOLORZANO--JOSE I.,jal,12,27,1917-1918,FERNANDEZ--AURELIO M.,Derechista Mayoria,,dudas revisar,Jalisco,Solorzano--José I.
+312,SOLORZANO--JOSE I.,jal,12,27,1917-1918,FERNANDEZ--AURELIO M.,Derechista Mayoria,,jose i? o solo jose?,Jalisco,Solorzano--José I.
 313,HIGAREDA J.--ARTURO,jal,13,27,1917-1918,MARES--JOSE,Mayoria,,,Jalisco,Higareda J.--Arturo
 314,AGUIRRE--EFREN,jal,14,27,1917-1918,SAN JUAN--MIGUEL,Mayoria,,,Jalisco,Aguirre--Efrén
 315,GARCIA DE ALBA--JOSE,jal,15,27,1917-1918,CHAVEZ J--JESUS,Mayoria,1872,,Jalisco,García de Alba--José
@@ -338,15 +338,15 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 337,RUIZ--JUAN A.,mex,16,27,1917-1918,ORTEGA--ALFONSO,Mayoria,2295,,Mexico,Ruíz--Juan A.
 338,AVELLANEDA--JUAN DE DIOS,mic,1,27,1917-1918,RUIZ--JOSE P,Mayoria,1154,,Michoacan,Avellaneda--Juan de Dios
 339,GARCIA DE LEON--PORFIRIO,mic,1,27,1917-1918,RUIZ--JOSE P.,Mayoria,,,Michoacan,García de León--Porfirio
-340,ANDRADE--CAYETANO,mic,2,27,1917-1918,DIAZ BARRIGA--JESUS,Izquierdista Mayoria,1323,Revisado (Ai Camp wikipedia),Michoacan,Andrade--Cayetano
+340,ANDRADE--CAYETANO,mic,2,27,1917-1918,DIAZ BARRIGA--JESUS,Izquierdista Mayoria,1323,dip por mic y gua (Ai Camp),Michoacan,Andrade--Cayetano
 341,BARRAGAN--MARTIN,mic,3,27,1917-1918,OCHOA--ENRIQUE,Mayoria,,,Michoacan,Barragán--Martín
 342,AVILES--URIEL,mic,4,27,1917-1918,PATIÑO BORJA--FRANCISCO,Izquierdista Mayoria,,,Michoacan,Avilés--Uriel
 343,PARRA--ENRIQUE,mic,5,27,1917-1918,TELLEZ--FEDERICO,Mayoria,4622,,Michoacan,Parra--Enrique
-344,LOPEZ COUTO--ONESIMO,mic,6,27,1917-1918,MARTINEZ GONZALEZ--FRANCISCO,Izquierdista Mayoria,,enesimo?,Michoacan,López Couto--Onésimo
+344,LOPEZ COUTO--ONESIMO,mic,6,27,1917-1918,MARTINEZ GONZALEZ--FRANCISCO,Izquierdista Mayoria,,enesimo? U onesimo?,Michoacan,López Couto--Onésimo
 345,CELERINO--LUVIANO,mic,7,27,1917-1918,SANCHEZ--SIDRONIO,Mayoria,,,Michoacan,Celerino--Luviano
-346,GONZALEZ TORRES--SALVADOR,mic,8,27,1917-1918,VALDES--BRUNO,Izquierdista Mayoria,,caso confirmado son el mismo,Michoacan,González Torres--Salvador
+346,GONZALEZ TORRES--SALVADOR,mic,8,27,1917-1918,VALDES--BRUNO,Izquierdista Mayoria,,mismo que CONZALEZ TORRES de oax,Michoacan,González Torres--Salvador
 347,GAITAN--JOSE,mic,9,27,1917-1918,VAZQUEZ--JOSE,Mayoria,,,Michoacan,Gaitán--José
-348,GUAJARDO--CANDOR,mic,10,27,1917-1918,ALCAZAR--EDUARDO A.,Mayoria,,caso confirmado son el mismo,�,Guajardo--Candor
+348,GUAJARDO--CANDOR,mic,10,27,1917-1918,ALCAZAR--EDUARDO A.,Mayoria,,mismo que GUAJARDO CANDO de coa,�,Guajardo--Candor
 349,CANO--RAFAEL,mic,11,27,1917-1918,LIRA--JOSE,Mayoria,1189,,Michoacan,Cano--Rafael
 350,SILVA HERRERA--JOSE,mic,12,27,1917-1918,HURTADO--J. JESUS,Derechista Mayoria,307,,Michoacan,Silva Herrera--José
 351,BETANCOURT--AMADEO,mic,14,27,1917-1918,CARDENAS--LAZARO,Izquierdista Mayoria,,amadeo = amado?,Michoacan,Betancourt--Amadeo
@@ -387,13 +387,13 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 386,MANJARREZ--FROYLAN C.,pue,6,27,1917-1918,AVALOS--IGNACIO,Izquierdista Mayoria,855,vida pasa por pue son y df,Puebla,Manjarrez--Froylán C.
 387,DE LA BARRERA--ANTONIO,pue,7,27,1917-1918,VERDIN JR.--AGUSTIN,Izquierdista Mayoria,553,,Puebla,De la Barrera--Antonio
 388,TORIJANO--DELFINO,pue,7,27,1917-1918,ARCOS--HERMINIO,Mayoria,756,,Puebla,Torijano--Delfino
-389,RIVERA--JOSE,pue,8,27,1917-1918,TAPIA--JOSE ALBERTO,Izquierdista Mayoria,,revisar,Puebla,Rivera--José
+389,RIVERA--JOSE,pue,8,27,1917-1918,TAPIA--JOSE ALBERTO,Izquierdista Mayoria,,dudas si es el mismo de hgo,Puebla,Rivera--José
 390,GARCIA--PABLO,pue,9,27,1917-1918,CASTILLO--ENRIQUE,Mayoria,2179,,Puebla,García--Pablo
 391,LECHUGA VAL--GONZALO,pue,10,27,1917-1918,MUÑOZ--RUBEN F.,Mayoria,,,Puebla,Lechuga Val--Gonzalo
 392,PAREDES COLIN--JOAQUIN,pue,10,27,1917-1918,GARCIA--FAUSTINO,Mayoria,,,Puebla,Paredes Colín--Joaquín
 393,GONZALEZ GALINDO--MODESTO,pue,11,27,1917-1918,JUAREZ--VICTORIANO C.,Izquierdista Mayoria,1769,nace en tla vive en pue,Puebla,González Galindo--Modesto
 394,GUERRERO--MANUEL M.,pue,12,27,1917-1918,CARRASCO--JUAN,Mayoria,,,Puebla,Guerrero--Manuel M.
-395,BANDERA Y MATA--GABINO,pue,13,27,1917-1918,PERDOMO LEAL,Izquierdista Mayoria,,Revisado (Wikipedia),Puebla,Bandera y Mata--Gabino
+395,BANDERA Y MATA--GABINO,pue,13,27,1917-1918,PERDOMO LEAL,Izquierdista Mayoria,,vida pasa por gue y pue Wikipedia,Puebla,Bandera y Mata--Gabino
 396,CABRERA--LUIS PARTIDO,pue,14,27,1917-1918,MOLINA--PEDRO,Mayoria,1200,,Puebla,Cabrera--Luis Partido
 397,PINEDA J.--DOLORES,pue,15,27,1917-1918,SANTA FE--DEMETRIO,Mayoria,,,Puebla,Pineda J.--Dolores
 398,GONZALEZ--LAURO,pue,17,27,1917-1918,CABRERA--FEDERICO,Mayoria,,,Puebla,González--Lauro
@@ -426,8 +426,8 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 425,PADRES--GUSTAVO,son,4,27,1917-1918,GARCIA--EDUARDO G.,Mayoria,2355,,Sonora,Padrés--Gustavo
 426,CAMARA--NICOLAS,tab,2,27,1917-1918,CASTELLANOS DIAZ--FRANCISCO,Mayoria,,,Tabasco,Cámara--Nicolás
 427,RUIZ--JOAQUIN,tab,3,27,1917-1918,QUEVEDO--FRANCISCO,Mayoria,,,Tabasco,Ruíz--Joaquín
-428,CHAPA--PEDRO A.,tam,1,27,1917-1918,FLORES--REGULO,Mayoria,,Revisado (Ai Camp),Tamaulipas,Chapa--Pedro A.
-429,MARTINEZ DE ESCOBAR--RAFAEL,tam,1,27,1917-1918,CASANOVA--FULGENCIO,Mayoria,608,vida pasa por tab y df,Tamaulipas,Martínez de Escobar--Rafael
+428,CHAPA--PEDRO A.,tam,1,27,1917-1918,FLORES--REGULO,Mayoria,,,Tamaulipas,Chapa--Pedro A.
+429,MARTINEZ DE ESCOBAR--RAFAEL,tam,1,27,1917-1918,CASANOVA--FULGENCIO,Mayoria,608,"vida pasa por tab y df, dip por tam?",Tamaulipas,Martínez de Escobar--Rafael
 430,CORDOBA--DANIEL,tam,2,27,1917-1918,SANCHEZ--BALDOMERO,Mayoria,,,Tamaulipas,Córdoba--Daniel
 431,GARATE--RAUL,tam,3,27,1917-1918,VILLASANA--TELESFORO,Mayoria,1037,,Tamaulipas,Gárate--Raúl
 432,PORTES GIL--EMILIO,tam,4,27,1917-1918,DELGADO--SALVADOR R,Mayoria,654,,Tamaulipas,Portes Gil--Emilio
@@ -451,11 +451,11 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 450,JARA--HERIBERTO,ver,13,27,1917-1918,GARCIA --SALVADOR GONZALO,Izquierdista Mayoria,,corona?,Veracruz,Jara--Heriberto
 451,BASAÑEZ--RUBEN,ver,14,27,1917-1918,CORREA--JOAQUIN,Mayoria,731,,Veracruz,Basañez--Rubén
 452,PEREYRA CARBONELL--JOSE,ver,15,27,1917-1918,ARRAZOLA--AGUSTIN S.,Mayoria,,,Veracruz,Pereyra Carbonell--José
-453,PESQUEIRA--JOSE,ver,16,27,1917-1918,ALTAMIRANO--MANUEL,Mayoria,2118,dudas,Veracruz,Pesqueira--José
+453,PESQUEIRA--JOSE,ver,16,27,1917-1918,ALTAMIRANO--MANUEL,Mayoria,2118,mismo que pesquira de son?,Veracruz,Pesqueira--José
 454,FONTANES--BENITO,ver,17,27,1917-1918,GONZALEZ --BENITO,Mayoria,,,Veracruz,Fontanes--Benito
 455,TORRES BERDON--SALVADOR,ver,18,27,1917-1918,GILBERT--TEODORO CONSTANTINO,Mayoria,,,Veracruz,Torres Berdón--Salvador
 456,ANCONA ALBERTOS--ANTONIO,yuc,1,27,1917-1918,BERZUNZA--MANUEL,Izquierdista Mayoria,,,Yucatan,Ancona Albertos--Antonio
-457,RAMIREZ GARRIDO--JOSE DOMINGO,yuc,2,27,1917-1918,DOMINGUEZ--ELADIO,Mayoria,,Revisado,Yucatan,Ramírez Garrido--José Domingo
+457,RAMIREZ GARRIDO--JOSE DOMINGO,yuc,2,27,1917-1918,DOMINGUEZ--ELADIO,Mayoria,,dip por tab y yuc (Ai Camp),Yucatan,Ramírez Garrido--José Domingo
 458,MANZANILLA TEJERO--RAFAEL,yuc,3,27,1917-1918,CONDE PERERA--JOSE DOLORES,Mayoria,772,,Yucatan,Manzanilla Tejero--Rafael
 459,ECHEVERRIA--JOSE CLEOFAS,yuc,4,27,1917-1918,GUAL GARCIA--ANTONIO,Mayoria,7772,,Yucatan,Echeverría--José Cleofas
 460,LOPEZ--EZEQUIEL,yuc,5,27,1917-1918,BOLIO--EDMUNDO,Mayoria,,,Yucatan,López--Ezequiel
@@ -469,7 +469,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 468,SAN SALVADOR--FERNANDO,zac,4,27,1917-1918,VAZQUEZ DEL MERCADO--GILBERTO,Mayoria,,,Zacatecas,San Salvador--Fernando
 469,DIAZ DE LEON--RAFAEL,zac,5,27,1917-1918,IBARRA--CARLOS,Mayoria,2111,,Zacatecas,Díaz de León--Rafael
 470,ESPARZA--CUAUHTEMOC,zac,5,27,1917-1918,CASTRO--RAFAEL,Mayoria,,,Zacatecas,Esparza--Cuauhtémoc
-471,LIZALDE--JUAN R.,zac,6,27,1917-1918,SANDOVAL--EPIGMENIO,Mayoria,,ramon?,Zacatecas,Lizalde--Juan R.
+471,LIZALDE--JUAN R.,zac,6,27,1917-1918,SANDOVAL--EPIGMENIO,Mayoria,,juan r = juan ramon?,Zacatecas,Lizalde--Juan R.
 472,LUNA ENRIQUEZ--JOSE TRINIDAD,zac,7,27,1917-1918,CERVANTES--ANTONIO,Mayoria,,,Zacatecas,Luna Enríquez--José Trinidad 
 473,AGUIRRE ESCOBAR--JUAN,zac,8,27,1917-1918,OLVERA--MANUEL,Izquierdista Mayoria,1446,,Zacatecas,Aguirre Escobar--Juan
 474,DIAZ INFANTE--JUAN,ags,1,28,1918-1920,PEDROZA J.--TRINIDAD,Mayoria,2955,,Aguascalientes,Díaz Infante--Juan
@@ -490,7 +490,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 489,ARAUJO--FRANCISCO,cps,4,28,1918-1920,CARRASCOSA--RICARDO,Mayoria,539,,Chiapas,Araujo--Francisco
 490,GUTIERREZ ORANTES--RAUL,cps,5,28,1918-1920,GARCIA--MARIANO,Mayoria,2451,,Chiapas,Gutiérrez Orantes--Raúl
 491,LARA--CESAR A.,cps,6,28,1918-1920,GALLEGOS--JOAQUIN,Mayoria,976,,Chiapas,Lara--César A.
-492,ESPINOSA--LUIS,cps,7,28,1918-1920,TOLEDO--EFRAIN,PLCH Mayoria,1902,dudas,Chiapas,Espinosa--Luis
+492,ESPINOSA--LUIS,cps,7,28,1918-1920,TOLEDO--EFRAIN,PLCH Mayoria,1902,mismo que el de oax?,Chiapas,Espinosa--Luis
 493,ORTIZ--ANDRES,cua,1,28,1918-1920,AGUIRRE--VITO,Mayoria,,,Chihuahua,Ortíz--Andrés
 494,VELAZQUEZ LOPEZ--ALEJANDRO,cua,2,28,1918-1920,GOMEZ SALAS--JESUS,Mayoria,162,,Chihuahua,Velázquez López--Alejandro
 495,TRIGO--OCTAVIO M.,cua,3,28,1918-1920,JUAREZ--PILAR M.,Mayoria,856,,Chihuahua,Trigo--Octavio M.
@@ -509,8 +509,8 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 508,CORDERO--GUILLERMO S.,df,7,28,1918-1920,MORALES GOMEZ--JOSE,PLN Mayoria,2116,,Distrito Federal,Cordero--Guillermo S.
 509,URDANIVIA--MARIANO D.,df,8,28,1918-1920,LADRON DE GUEVARA--ALBERTO,PLN Mayoria,2814,,Distrito Federal,Urdanivia--Mariano D.
 510,ALDUCIN--RAFAEL,df,9,28,1918-1920,HIDALGA--IGNACIO DE LA,PLN Mayoria,1247,,Distrito Federal,Alducin--Rafael
-511,RIOS LANDEROS--EZEQUIEL,df,9,28,1918-1920,HIDALGA--IGNACIO DE LA,PLC Mayoria,,Revisado,Distrito Federal,Ríos Landeros--Ezequiel
-512,CARDENAS--RAFAEL,df,10,28,1918-1920,GARCIA G.--MANUEL,PLN Mayoria,5596,dudas,Distrito Federal,Cárdenas--Rafael
+511,RIOS LANDEROS--EZEQUIEL,df,9,28,1918-1920,HIDALGA--IGNACIO DE LA,PLC Mayoria,,revisar,Distrito Federal,Ríos Landeros--Ezequiel
+512,CARDENAS--RAFAEL,df,10,28,1918-1920,GARCIA G.--MANUEL,PLN Mayoria,5596,mismo que el de pue?,Distrito Federal,Cárdenas--Rafael
 513,PALACIOS MORENO--GENARO,df,11,28,1918-1920,MONDRAGON--LUIS,PLN Mayoria,3080,,Distrito Federal,Palacios Moreno--Genaro
 514,SILVA--FEDERICO,df,12,28,1918-1920,CERVANTES OLIVERA--ENRIQUE,PLN Mayoria,2671,,Distrito Federal,Silva--Fedérico
 515,MENA--JOSE IGNACIO,dgo,1,28,1918-1920,ROSALES--ANTONIO,Mayoria,1067,,Durango,Mena--José Ignacio
@@ -541,9 +541,9 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 540,VALVERDE--CUSTODIO,gue,1,28,1918-1920,LOPEZ--LEONEL,CCDFIM Mayoria,1658,,Guerrero,Valverde--Custodio
 541,PEREZ VARGAS--IGNACIO,gue,2,28,1918-1920,VAZQUEZ--FRANCISCO,Mayoria,,,Guerrero,Pérez Vargas--Ignacio
 542,GALINDO--AURELIO F.,gue,3,28,1918-1920,NAVA--ARTURO,Mayoria,2753,,Guerrero,Galindo--Aurelio F.
-543,ORTEGA--MIGUEL F.,gue,4,28,1918-1920,SILVA--FORTUNATO,Mayoria,4960,Revisado (Ai Camp),Guerrero,Ortega Miguel F.--
+543,ORTEGA--MIGUEL F.,gue,4,28,1918-1920,SILVA--FORTUNATO,Mayoria,4960,Ai Camp dip dif de melchor,Guerrero,Ortega Miguel F.--
 544,GARCIA--NORBERTO,gue,5,28,1918-1920,GODINEZ--ANTONIO,Mayoria,656,,Guerrero,García--Norberto
-545,BANDERA Y MATA--GABINO,gue,6,28,1918-1920,VICARIO--JUAN N.,Mayoria,4588,Revisado (Wikipedia),Guerrero,Bandera y Mata--Gabino
+545,BANDERA Y MATA--GABINO,gue,6,28,1918-1920,VICARIO--JUAN N.,Mayoria,4588,vida pasa por gue y pue Wikipedia,Guerrero,Bandera y Mata--Gabino
 546,PASTRANA JAIMES--DAVID,gue,7,28,1918-1920,RODRIGUEZ REAL--JOSE,Mayoria,1424,vida pasa por pue y gue,Guerrero,Pastrana Jaimes--David
 547,CASTILLEJA--JOSE,gue,8,28,1918-1920,CERVANTES--JOSE PROSPERO,Mayoria,1296,,Guerrero,Castilleja--José
 548,REBOLLEDO--EFREN,hgo,1,28,1918-1920,LOPEZ SERRANO--RAFAEL,Mayoria,2174,,Hidalgo,Rebolledo--Efrén
@@ -585,7 +585,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 584,ORDORICA--GUILLERMO,mex,4,28,1918-1920,DORANTES--PROCORO,PLN Mayoria,2233,,Mexico,Ordorica--Guillermo
 585,VILCHIS--DIEGO,mex,5,28,1918-1920,CAMACHO--CRESCENCIO,Mayoria,2435,,Mexico,Vilchis--Diego
 586,PEREZ CARBAJAL--FRANCISCO,mex,6,28,1918-1920,CAMPUZANO LAREDO--INOCENTE,PLN Mayoria,,,Mexico,Pérez Carbajal--Francisco
-587,AGUIRRE LEON--FRANCISCO,mex,7,28,1918-1920,BALLESTEROS--JESUS,Mayoria,2050,dudas,Mexico,Aguirre León--Francisco
+587,AGUIRRE LEON--FRANCISCO,mex,7,28,1918-1920,BALLESTEROS--JESUS,Mayoria,2050,mismo que aguirre leon de tla?,Mexico,Aguirre León--Francisco
 588,ROCHA--JOSE FEDERICO,mex,8,28,1918-1920,PLASCENCIA--LUIS G.,PN Mayoria,1221,,Mexico,Rocha--José Federico
 589,DIAZ GONZALEZ--ISMAEL,mex,9,28,1918-1920,VEGA--MANUEL,Mayoria,1258,,Mexico,Díaz González--Ismael
 590,BASURTO--DANIEL,mex,10,28,1918-1920,MARTINEZ--RICARDO,Mayoria,1573,,Mexico,Basurto--Daniel
@@ -599,7 +599,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 598,BREÑA--LUIS,mic,1,28,1918-1920,LUNA PEDRO A.,PDBJ Mayoria,693,,Michoacan,Breña--Luis
 599,AVILES--URIEL,mic,2,28,1918-1920,SAENZ--JOSE ALFONSO,Mayoria,,,Michoacan,Avilés--Uriel
 600,BARRAGAN--MARTIN,mic,3,28,1918-1920,NUÑEZ--ISIDORO,Mayoria,283,,Michoacan,Barragán--Martín
-601,ZINCUNEGUI TERCERO--LEOPOLDO,mic,4,28,1918-1920,SANCHEZ VIGIL,Mayoria,1300,Revisado,Michoacan,Zincunegui Tercero--Leopoldo
+601,ZINCUNEGUI TERCERO--LEOPOLDO,mic,4,28,1918-1920,SANCHEZ VIGIL,Mayoria,1300,caso confirmado en Ai Camp,Michoacan,Zincunegui Tercero--Leopoldo
 602,PARRA--ENRIQUE,mic,5,28,1918-1920,SANCHEZ ANAYA--JOSE,Mayoria,2135,,Michoacan,Parra--Enrique
 603,PEÑA--ESTANISLAO,mic,6,28,1918-1920,PATIÑO JR.--MAURO,Mayoria,2829,,Michoacan,Peña--Estanislao
 604,VILLELA--HUMBERTO,mic,7,28,1918-1920,SANTIBAÑEZ--RAFAEL,Mayoria,,,Michoacan,Villela--Humberto
@@ -623,10 +623,10 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 622,SALDAÑA--JOSE P.,nl,4,28,1918-1920,SALINAS--SANTIAGO,Mayoria,3619,,Nuevo Leon,Saldaña--José P.
 623,ROSAS--MIGUEL,nl,5,28,1918-1920,GONZALEZ--JESUS M.,Mayoria,2003,,Nuevo Leon,Rosas--Miguel
 624,GONZALEZ--MARCIANO,nl,6,28,1918-1920,GARZA LEAL--LEANDRO,Mayoria,2014,,Nuevo Leon,González--Marciano
-625,GARCIA VIGIL--MANUEL,oax,1,28,1918-1920,ALLENDE--PABLO,Mayoria,3099,Revisado (Ai Camp),Oaxaca,García Vigil--Manuel
+625,GARCIA VIGIL--MANUEL,oax,1,28,1918-1920,ALLENDE--PABLO,Mayoria,3099,,Oaxaca,García Vigil--Manuel
 626,SCHULZ Y ALVAREZ--MIGUEL E.,oax,2,28,1918-1920,MARTINEZ--GUADALUPE F.,Mayoria,4604,,Oaxaca,Schulz y Alvarez--Miguel E.
 627,VAZQUEZ--GENARO V.,oax,3,28,1918-1920,PALACIOS TORO--RAMON,Mayoria,4046,Genaro Vicente Vásquez Quiroz,Oaxaca,Vázquez--Genaro V. 
-628,VILLALOBOS--ANTONIO,oax,4,28,1918-1920,CAMACHO--PEDRO,Mayoria,5474,Revisado,Oaxaca,Villalobos--Antonio
+628,VILLALOBOS--ANTONIO,oax,4,28,1918-1920,CAMACHO--PEDRO,Mayoria,5474,Antonio I. Villalobos,Oaxaca,Villalobos--Antonio
 629,PASTOR--PORFIRIO,oax,5,28,1918-1920,ALTAMIRANO--ALFREDO A.,Mayoria,4854,,Oaxaca,Pastor--Porfirio
 630,VALLADARES--FRANCISCO,oax,6,28,1918-1920,VELASCO--ISAAC,Mayoria,,,Oaxaca,Valladares--Francisco
 631,LAZCANO CARRASCO--ADALBERTO,oax,8,28,1918-1920,TAPIA--JOSE,Mayoria,3135,sin info,Oaxaca,Lazcano Carrasco--Adalberto
@@ -648,7 +648,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 647,MALPICA--SAMUEL R.,pue,7,28,1918-1920,AGUILAR--JUAN,Mayoria,2377,,Puebla,Malpica--Samuel R.
 648,HERNANDEZ--EULOGIO,pue,8,28,1918-1920,RUIZ--RAFAEL J.,PLN Mayoria,4595,,Puebla,Hernández--Eulogio
 649,GARCIA--PABLO,pue,9,28,1918-1920,MARIN PALACIOS--ANTONIO,PLN Mayoria,304,,Puebla,García--Pablo
-650,BALDERAS MARQUEZ--,pue,10,28,1918-1920,GALVEZ--FRANCISCO,Mayoria,1175,dudas,Puebla,Balderas Márquez
+650,BALDERAS MARQUEZ--,pue,10,28,1918-1920,GALVEZ--FRANCISCO,Mayoria,1175,BALDERAS MANUEL? No tiene nombre el dip,Puebla,Balderas Márquez
 651,CAMACHO--ROBERTO,pue,11,28,1918-1920,MACEDA--PEDRO Z.,Mayoria,1741,,Puebla,Camacho--Roberto
 652,CASTRO--ROBERTO,pue,12,28,1918-1920,GUERRERO--ALBERTO,Mayoria,3489,,Puebla,Castro--Roberto
 653,MEDINA--ANTONIO,pue,13,28,1918-1920,GUERRA--EDUARDO,Mayoria,1950,,Puebla,Medina--Antonio
@@ -657,9 +657,9 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 656,SILVA--PABLO,pue,16,28,1918-1920,SALAS--JUAN C.,Mayoria,1171,,Puebla,Silva--Pablo
 657,CABRERA--FEDERICO,pue,17,28,1918-1920,PEREZ FERNANDEZ--FEDERICO,Mayoria,5603,,Puebla,Cabrera--Federico
 658,RODRIGUEZ--SABINO,pue,18,28,1918-1920,LAZCANO--ANTONIO,PLP Mayoria,789,,Puebla,Rodríguez--Sabino
-659,VERASTEGUI--JOSE,que,1,28,1918-1920,DIAZ--FELIPE B.,Mayoria,,caso confirmado,Queretaro,Verástegui--José
+659,VERASTEGUI--JOSE,que,1,28,1918-1920,DIAZ--FELIPE B.,Mayoria,,caso confirmado = dip por pue y que,Queretaro,Verástegui--José
 660,HERRERA--JULIO,que,2,28,1918-1920,RETANA--LAMBERTO,Mayoria,4755,,Queretaro,Herrera--Julio
-661,SIUROB--JOSE,que,3,28,1918-1920,DIAZ GUEVARA--AURELIO,Mayoria,4586,Revisado (Wikipedia),Queretaro,Siurob--José
+661,SIUROB--JOSE,que,3,28,1918-1920,DIAZ GUEVARA--AURELIO,Mayoria,4586,caso confirmado = dip por gua y que (Siurub Ram�rez Jose),Queretaro,Siurob--José
 662,DE LA TORRE--ROMULO,que,4,28,1918-1920,ALTAMIRANO--ALEJO,Mayoria,1406,,Queretaro,Torre--Rómulo de la
 663,LANZ GALERA--JOAQUIN,qui,0,28,1918-1920,BARRAGAN--ENRIQUE M.,Mayoria,480,,Quintana Roo,Lanz Galera--Joaquín
 664,MENDEZ--ARTURO,san,1,28,1918-1920,MORALES--ANTONIO,Mayoria,2340,,San Luis Potosi,Méndez--Arturo
@@ -671,7 +671,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 670,MOCTEZUMA--IGNACIO,san,8,28,1918-1920,CASTILLO VEGA--RAFAEL,Mayoria,807,,San Luis Potosi,Moctezuma--Ignacio
 671,SANCHEZ SALAZAR--NICASIO,san,9,28,1918-1920,VAZQUEZ--SAMUEL L.,Mayoria,3181,,San Luis Potosi,Sánchez Salazar--Nicasio
 672,GARCIA--ANTONINO M.,san,10,28,1918-1920,TORRES GARZA--GABRIEL,Mayoria,2035,,San Luis Potosi,García--Antonino M.
-673,CASAS ALATRISTE--ROBERTO,sin,1,28,1918-1920,QUINTERO--ELISEO,Mayoria,,Revisado (Ai Camp),Sinaloa,Casas Alatriste--Roberto
+673,CASAS ALATRISTE--ROBERTO,sin,1,28,1918-1920,QUINTERO--ELISEO,Mayoria,,dip por sin pue y df (Ai Camp),Sinaloa,Casas Alatriste--Roberto
 674,GIL--FELICIANO,sin,2,28,1918-1920,PEREZ--ANTONIO R.,Mayoria,1480,,Sinaloa,Gil--Feliciano
 675,MENDOZA--FELIX A.,sin,3,28,1918-1920,VIZCARRA--JESUS,Mayoria,2879,,Sinaloa,Mendoza--Félix A.
 676,LOPEZ--EMILIANO Z.,sin,4,28,1918-1920,HORNE--ALFREDO,Mayoria,,,Sinaloa,López--Emiliano Z.
@@ -679,7 +679,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 678,GOMEZ--GILDARDO,son,1,28,1918-1920,BAILON--LADISLAO P.,Mayoria,,,Sonora,Gómez--Gildardo
 679,PADRES--GUSTAVO,son,2,28,1918-1920,MENDEZ--MANUEL M.,Mayoria,2215,,Sonora,Padrés--Gustavo
 680,SERRANO--FRANCISCO R.,son,3,28,1918-1920,VALENZUELA--ARTURO J.,Mayoria,2064,,Sonora,Serrano--Francisco R.
-681,PESQUEIRA--JOSE,son,4,28,1918-1920,RUIZ--JESUS T.,Mayoria,,dudas,Sonora,Pesqueira--José
+681,PESQUEIRA--JOSE,son,4,28,1918-1920,RUIZ--JESUS T.,Mayoria,,mismo que pesquira de ver?,Sonora,Pesqueira--José
 682,ANDRADE PRIEGO--MANUEL,tab,1,28,1918-1920,MONTELLANOS LANZ--FRANCISCO,CCT Mayoria,4250,,Tabasco,Andrade Priego--Manuel
 683,FERREL--JOSE PARTIDO,tab,2,28,1918-1920,MENDOZA CUESTA--RAUL,CCT Mayoria,,,Tabasco,Ferrel--José Partido
 684,CASTELLANOS DIAZ--FRANCISCO,tab,3,28,1918-1920,AGUILERA C.--LUIS,PRT Mayoria,1867,,Tabasco,Castellanos Díaz--Francisco
@@ -709,7 +709,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 708,CANCELA NOGUEIRA--RODOLFO,ver,16,28,1918-1920,TELLO--SAMUEL M.,Mayoria,1449,,Veracruz,Cancela Nogueira--Rodolfo
 709,CASTRO--ALFONSO,ver,17,28,1918-1920,HOYO--RAFAEL,Mayoria,2041,,Veracruz,Castro--Alfonso
 710,CARRION--LUIS G.,ver,18,28,1918-1920,MORENO--JULIAN,Mayoria,1851,,Veracruz,Carrión--Luis G.
-711,GIFFARD--JUAN MANUEL,ver,19,28,1918-1920,CHABLE--NATIVIDAD,Mayoria,1215,dudas,Veracruz,Giffard--Juan Manuel
+711,GIFFARD--JUAN MANUEL,ver,19,28,1918-1920,CHABLE--NATIVIDAD,Mayoria,1215,mismo que giffard de mex?,Veracruz,Giffard--Juan Manuel
 712,FRANCO--AGUSTIN,yuc,1,28,1918-1920,ORTIZ--GORDIANO,PS Mayoria,8444,,Yucatan,Franco--Agustín
 713,ROMERO CEPEDA--MANUEL,yuc,2,28,1918-1920,RODRIGUEZ--FRANCISCO,PS Mayoria,8444,,Yucatan,Romero Cepeda--Manuel
 714,CASTILLO TORRE--JOSE,yuc,3,28,1918-1920,CASTILLA SOLIS--MANUEL,Mayoria,10371,jose = daniel j.?,Yucatan,Castillo Torre--José
@@ -736,7 +736,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 735,RAMIREZ--FIDEL,coa,4,29,1920-1922,GONZALEZ--MARTIN V.,Mayoria,,,Coahuila,Ramírez--Fidel
 736,GUTIERREZ CASTRO--ANDRES,coa,5,29,1920-1922,CALDERON S.--HERMILO,Mayoria,,,Coahuila,Gutiérrez Castro--Andrés
 737,SAUCEDO--SALVADOR,col,0,29,1920-1922,CAMPERO--JOSE,Mayoria,,,Colima,Saucedo--Salvador
-738,ESPINOSA--LUIS,cps,1,29,1920-1922,RUIZ--AMADEO,Mayoria,,dudas,Chiapas,Espinosa--Luis
+738,ESPINOSA--LUIS,cps,1,29,1920-1922,RUIZ--AMADEO,Mayoria,,,Chiapas,Espinosa--Luis
 739,MAYEN--LUIS E.,cps,2,29,1920-1922,AGUILAR RUIZ--ARTURO,Mayoria,,,Chiapas,Mayén--Luis E.
 740,VELASCO--JOSE MANUEL,cps,2,29,1920-1922,COELLO LARA--GUADALUPE,Mayoria,,,Chiapas,Velasco--José Manuel
 741,SOLIS--JAIME A.,cps,3,29,1920-1922,CARRASCOSA--MILCLIADES,Mayoria,,,Chiapas,Solís--Jaime A.
@@ -747,7 +747,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 746,GARCIA--SOCORRO,cua,1,29,1920-1922,VARGAS FLORES--RAMON,Mayoria,2229,,Chihuahua,García--Socorro
 747,DOMINGUEZ--NORBERTO,cua,2,29,1920-1922,CHAVEZ OLGUIN--FRANCISCO,Mayoria,2542,,Chihuahua,Domínguez--Norberto
 748,CHAVEZ FRANCO--LIBORIO,cua,3,29,1920-1922,QUESADA--EDUARDO,Mayoria,3605,,Chihuahua,Chávez Franco--Liborio
-749,LEON--LUIS L.,cua,4,29,1920-1922,TOVAR Y PEREZ--FRANCISCO,Mayoria,2090,revisar,Chihuahua,León--Luis L.
+749,LEON--LUIS L.,cua,4,29,1920-1922,TOVAR Y PEREZ--FRANCISCO,Mayoria,2090,revisar si es mismo que luis l de df,Chihuahua,León--Luis L.
 750,RICO G.--MANUEL,cua,5,29,1920-1922,SEINFERT--ENRIQUE,Mayoria,,,Chihuahua,Rico G.--Manuel
 751,VALLES--ADOLFO,cua,6,29,1920-1922,ACOSTA Y PLATA--FRANCISCO,Mayoria,766,,Chihuahua,Valles--Adolfo
 752,VELAZQUEZ LOPEZ--ALEJANDRO,cua,6,29,1920-1922,ACOSTA Y PLATA--FRANCISCO,Mayoria,574,,Chihuahua,Velázquez López--Alejandro
@@ -760,9 +760,9 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 759,RAMOS PEDRUEZA--RAFAEL,df,6,29,1920-1922,LEON PRIMERO--FERNANDO,Mayoria,1098,,Distrito Federal,Ramos Pedrueza--Rafael
 760,AGUIRRE COLORADO--ERNESTO,df,7,29,1920-1922,LUNA--PEDRO,Mayoria,1295,,Distrito Federal,Aguirre Colorado--Erne
 761,LARA G.--RAFAEL,df,8,29,1920-1922,VELASCO--RAMON,Mayoria,,sin info,Distrito Federal,Lara G.--Rafael
-762,CASAS ALATRISTE--ROBERTO,df,9,29,1920-1922,ROJAS--LEON G.,Mayoria,3145,Revisado (Ai Camp),Distrito Federal,Casas Alatriste--Roberto
+762,CASAS ALATRISTE--ROBERTO,df,9,29,1920-1922,ROJAS--LEON G.,Mayoria,3145,dip por sin pue y df (Ai Camp),Distrito Federal,Casas Alatriste--Roberto
 763,PAZ--OCTAVIO,df,10,29,1920-1922,ARAGON--CARLOS,Mayoria,2825,,Distrito Federal,Paz--Octavio
-764,PRIETO LAURENS--JORGE,df,11,29,1920-1922,PEREZ--JOSE DOLORES,PLCNU Mayoria,1261,dudas,Distrito Federal,Prieto Laurens--Jorge
+764,PRIETO LAURENS--JORGE,df,11,29,1920-1922,PEREZ--JOSE DOLORES,PLCNU Mayoria,1261,mismo que prieto laurens de san?,Distrito Federal,Prieto Laurens--Jorge
 765,ARGUELLES--CARLOS,df,12,29,1920-1922,JIMENEZ--MELESIO,PLC Mayoria,7700,,Distrito Federal,ArgѼelles--Carlos
 766,BORREGO--IGNACIO,dgo,1,29,1920-1922,ZUBIRIA Y CAMPA--LUIS,Mayoria,,,Durango,Borrego--Ignacio
 767,GAMIZ--LORENZO,dgo,2,29,1920-1922,PALACIOS--JUAN J.,Mayoria,1346,,Durango,Gámiz--Lorenzo
@@ -792,8 +792,8 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 791,SEPULVEDA--ROBERTO,gua,17,29,1920-1922,SOTO--JOSE MARIA,Mayoria,1126,,Guanajuato,Sepúlveda--Roberto
 792,VALVERDE--CUSTODIO,gue,1,29,1920-1922,RAMOS--DEMETRIO,Mayoria,,,Guerrero,Valverde--Custodio
 793,PEREZ VARGAS--IGNACIO,gue,2,29,1920-1922,GONZALEZ--CAYETANO E.,Mayoria,2429,,Guerrero,Pérez Vargas--Ignacio
-794,SALAZAR--JUAN B.,gue,3,29,1920-1922,TORRES--RAFAEL,Mayoria,5062,dudas revisar,Guerrero,Salazar--Juan B.
-795,ORTEGA--MIGUEL F.,gue,4,29,1920-1922,VIEYRA--AGUSTIN,Mayoria,,Revisado (Ai Camp),Guerrero,Ortega--Miguel F.
+794,SALAZAR--JUAN B.,gue,3,29,1920-1922,TORRES--RAFAEL,Mayoria,5062,juan o juan b?,Guerrero,Salazar--Juan B.
+795,ORTEGA--MIGUEL F.,gue,4,29,1920-1922,VIEYRA--AGUSTIN,Mayoria,,Ai Camp dip dif de melchor,Guerrero,Ortega--Miguel F.
 796,CIENFUEGOS Y CAMUS--ADOLFO,gue,5,29,1920-1922,MIRANDA--CRESCENCIO A.,Mayoria,,camus?,Guerrero,Cienfuegos y Camus--Adolfo
 797,MASTACHE J.--TRINIDAD,gue,6,29,1920-1922,CANEDA--JOSE MARIA,Mayoria,3928,,Guerrero,Mastache J.--Trinidad
 798,LAVIN--URBANO,gue,7,29,1920-1922,GAMA--GILDARDO R.,Mayoria,,,Guerrero,Lavin--Urbano
@@ -806,7 +806,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 805,CAMARENA--LEOPOLDO E.,hgo,2,29,1920-1922,VAZQUEZ--ENRIQUE,Mayoria,,,Hidalgo,Camarena--Leopoldo E.
 806,HERNANDEZ CORONADO--ABEL,hgo,3,29,1920-1922,ESQUIVEL--LEOPOLDO,Mayoria,4051,,Hidalgo,Hernández Coronado--Abel
 807,AZUARA--JESUS F.,hgo,4,29,1920-1922,COBOS--PIOQUINTO,Mayoria,,,Hidalgo,Azuara--Jesús F.
-808,DE LA PENA--FRANCISCO,hgo,5,29,1920-1922,HERRERA--JOSE ROJO,Mayoria,,repetido? Pe�a?,Hidalgo,Pena--Francisco de la
+808,DE LA PENA--FRANCISCO,hgo,5,29,1920-1922,HERRERA--JOSE ROJO,Mayoria,,repetido? De la Pe�a?,Hidalgo,Pena--Francisco de la
 809,DE LA PEÑA--FRANCISCO,hgo,5,29,1920-1922,GUERRERO--JESUS J.,Mayoria,,,Hidalgo,Peña--Francisco de la
 810,OLGUIN--ESTANISLAO,hgo,6,29,1920-1922,OLGUIN--JORGE A.,Mayoria,5586,,Hidalgo,Olguín--Estanislao
 811,CASTREJON--FRANCISCO,hgo,7,29,1920-1922,ELIAS--ELIAS,Mayoria,2569,,Hidalgo,Castrejón--Francisco
@@ -871,7 +871,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 870,CARRIEDO MENDEZ--PRISCILIANO,mic,15,29,1920-1922,MELGOZA--FLORENTINO,Mayoria,3639,,Michoacan,Carriedo Méndez--Prisciliano
 871,GUZMAN--LUIS,mic,16,29,1920-1922,MERCADO--FRANCISCO,Mayoria,1277,,Michoacan,Guzmán--Luis
 872,SOTO--JOSE MARIA,mic,17,29,1920-1922,NAVARRETE--JOSE,Mayoria,7282,,Michoacan,Soto--José María
-873,REYNOSO DIAZ--LEOPOLDO,mor,1,29,1920-1922,ORTIZ--ALBINO,Mayoria,7888,Revisado (Ai Camp),Morelos,Reynoso Díaz--Leopoldo
+873,REYNOSO DIAZ--LEOPOLDO,mor,1,29,1920-1922,ORTIZ--ALBINO,Mayoria,7888,dip por morelos y gue (Ai Camp),Morelos,Reynoso Díaz--Leopoldo
 874,MONTERO VILLAR--MARIANO,mor,2,29,1920-1922,BARAJAS--RAFAEL,Mayoria,4255,,Morelos,Montero Villar--Mariano
 875,DE LA TORRE--FRANCISCO,mor,3,29,1920-1922,MAGAÑA--RODOLFO,Mayoria,,,Morelos,Torre--Francisco de la
 876,TREJO--FRANCISCO,nay,1,29,1920-1922,ELIAS--PEDRO E.,Mayoria,2756,,Nayarit,Trejo--Francisco
@@ -881,9 +881,9 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 880,GONZALEZ Y GONZALEZ--FRANCISCO,nl,2,29,1920-1922,LEAL--JULIO,PCINL Mayoria,4252,,Nuevo Leon,González y González--Francisco
 881,GARZA--FRANCISCO,nl,3,29,1920-1922,BARREDA--MANUEL,Mayoria,2220,,Nuevo Leon,Garza--Francisco
 882,QUIROGA--JUAN,nl,4,29,1920-1922,CHAPA--ALBERTO,Mayoria,1700,,Nuevo Leon,Quiroga--Juan
-883,CHAPA--PEDRO A.,nl,5,29,1920-1922,MORELOS ZARAGOZA--ROBERTO,Mayoria,780,Revisado (Ai Camp),Nuevo Leon,Chapa--Pedro A.
+883,CHAPA--PEDRO A.,nl,5,29,1920-1922,MORELOS ZARAGOZA--ROBERTO,Mayoria,780,dip por tam y nl (Ai Camp),Nuevo Leon,Chapa--Pedro A.
 884,GONZALEZ--MARCO AURELIO,nl,6,29,1920-1922,AYALA VILLARREAL--JACOBO,Mayoria,,,Nuevo Leon,González--Marco Aurelio
-885,GARCIA VIGIL--MANUEL,oax,1,29,1920-1922,VASCONCELOS--EDUARDO,Mayoria,,Revisado (Ai Camp),Oaxaca,García Vigil--Manuel
+885,GARCIA VIGIL--MANUEL,oax,1,29,1920-1922,VASCONCELOS--EDUARDO,Mayoria,,dip por oax y df (Ai Camp),Oaxaca,García Vigil--Manuel
 886,BARROSO--CARLOS,oax,2,29,1920-1922,MARTINEZ--GUADALUPE F.,Mayoria,3719,,Oaxaca,Barroso--Carlos
 887,TORO--MANUEL G.,oax,3,29,1920-1922,PEREZ--GABRIEL,Mayoria,5630,,Oaxaca,Toro--Manuel G.
 888,RAMIREZ--FRANCISCO MODESTO,oax,4,29,1920-1922,BOLAÑOS--PROSPERO,Mayoria,4564,,Oaxaca,Ramírez--Francisco Modesto
@@ -923,7 +923,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 922,BONILLA--ENRIQUE M.,pue,17,29,1920-1922,SOSA--RAUL G,Mayoria,2512,enrique m = enrique n?,Puebla,Bonilla--Enrique M.
 923,HERNANDEZ G.--RODOLFO,pue,17,29,1920-1922,SOTERO--MANUEL,Mayoria,4338,,Puebla,Hernández G.--Rodolfo
 924,LECHUGA--LEOBARDO L.,pue,18,29,1920-1922,TELLEZ--JESUS L.,Mayoria,,,Puebla,Lechuga--Leobardo L.
-925,SIUROB--JOSE,que,1,29,1920-1922,BUENO--RAMON,Mayoria,,Revisado (Wikipedia),Queretaro,Siurob--José
+925,SIUROB--JOSE,que,1,29,1920-1922,BUENO--RAMON,Mayoria,,,Queretaro,Siurob--José
 926,RAMIREZ LUQUE--FRANCISCO,que,2,29,1920-1922,HERRERA--ENRIQUE,Mayoria,2886,,Queretaro,Ramírez Luque--Francisco
 927,LLACA--CONSTANTINO,que,3,29,1920-1922,MONTES VARGAS--CIRO,Mayoria,3248,sin info,Queretaro,Llaca--Constantino
 928,BASALDUA--FILEMON,que,4,29,1920-1922,MONTES--REYNALDO,Mayoria,,,Queretaro,Basaldúa--Filemón
@@ -939,7 +939,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 938,DEL PINO--VICTOR,san,7,29,1920-1922,ROBLES--BUENAVENTURA,Mayoria,3249,,San Luis Potosi,Pino--Víctor del
 939,SILVA--ANGEL,san,8,29,1920-1922,MARTINEZ--GABRIEL,Mayoria,454,,San Luis Potosi,Silva--Angel
 940,VIDALES--AGUSTIN E.,san,9,29,1920-1922,GARCIA--ANTONIO,Mayoria,2064,,San Luis Potosi,Vidales--Agustín E.
-941,DE LA PEÑA--ILDEFONSO,san,10,29,1920-1922,ALTAMIRANO--PEDRO,Mayoria,1161,dudas,San Luis Potosi,Peña--Ildefonso de la 
+941,DE LA PEÑA--ILDEFONSO,san,10,29,1920-1922,ALTAMIRANO--PEDRO,Mayoria,1161,idelfonso de que? Son el mismo?,San Luis Potosi,Peña--Ildefonso de la 
 942,RAMOS ESQUER--FRANCISCO,sin,1,29,1920-1922,ZAZUETA BATIS--ENRIQUE,Mayoria,2526,,Sinaloa,Ramos Esquer--Francisco
 943,GOMEZ LUNA--JOSE,sin,2,29,1920-1922,SALCIDO--ABRAHAM,Mayoria,,,Sinaloa,Gómez Luna--José
 944,GUTIERREZ--MACEDONIO B.,sin,3,29,1920-1922,SIORDIA--JOSE,Mayoria,1362,,Sinaloa,Gutiérrez--Macedonio B.
@@ -951,7 +951,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 950,CAMPILLO--ANTONIO R.,son,4,29,1920-1922,MACALPIN--GUILLERMO,Mayoria,1022,,Sonora,Campillo--Antonio R.
 951,SERRANO--GUSTAVO P.,son,4,29,1920-1922,MACALPIN--GUILLERMO,Mayoria,,,Sonora,Serrano--Gustavo P.
 952,MARTINEZ DE ESCOBAR--FEDERICO,tab,1,29,1920-1922,RAMON P.--VICTORIANO,PRT Mayoria,816,rafael = federico?,Tabasco,Martínez de Escobar--Federico
-953,RAMIREZ GARRIDO--JOSE DOMINGO,tab,2,29,1920-1922,DAMIAN--CANDELARIO,Mayoria,,Revisado,Tabasco,Ramírez Garrido--José Domingo
+953,RAMIREZ GARRIDO--JOSE DOMINGO,tab,2,29,1920-1922,DAMIAN--CANDELARIO,Mayoria,,dip por tab y yuc (Ai Camp),Tabasco,Ramírez Garrido--José Domingo
 954,AGUIRRE COLORADO--FERNANDO,tab,3,29,1920-1922,CASTILLO--DANIEL J.,Mayoria,2526,,Tabasco,Aguirre Colorado--Fernando
 955,RODRIGUEZ--HERMINIO S.,tam,1,29,1920-1922,ECHEVERRIA--DONACIANO,Mayoria,,,Tamaulipas,Rodríguez--Herminio S.
 956,GARZA--CANDELARIO,tam,2,29,1920-1922,GARCIA--DOMINGO,PDP Mayoria,3242,dudas,Tamaulipas,Garza--Candelario
@@ -971,9 +971,9 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 970,ALTAMIRANO--MANLIO FABIO,ver,8,29,1920-1922,MORALES--LUIS G.,Mayoria,,,Veracruz,Altamirano--Manlio Fabio
 971,CONTRERAS--ADOLFO,ver,9,29,1920-1922,GALVAN--FLAVIO,Mayoria,4761,,Veracruz,Contreras--Adolfo
 972,FERNANDEZ--MIGUEL B.,ver,10,29,1920-1922,CRUZ MUÑOZ--CASIMIRO,Mayoria,1052,,Veracruz,Fernández--Miguel B.
-973,CAMPILLO SEYDE--ARTURO,ver,11,29,1920-1922,SARIOL--JUAN B.,Mayoria,4597,Revisado (Ai Camp wikipedia),Veracruz,Campillo Seyde--Arturo
+973,CAMPILLO SEYDE--ARTURO,ver,11,29,1920-1922,SARIOL--JUAN B.,Mayoria,4597,dip por ver y df (Ai Camp),Veracruz,Campillo Seyde--Arturo
 974,MEZA--ENRIQUE,ver,12,29,1920-1922,HERRERA--SAMUEL,Mayoria,2328,,Veracruz,Meza--Enrique
-975,RODRIGUEZ--GUILLERMO,ver,13,29,1920-1922,MENDEZ--SEVERINO,Mayoria,3847,Revisado,Veracruz,Rodríguez--Guillermo
+975,RODRIGUEZ--GUILLERMO,ver,13,29,1920-1922,MENDEZ--SEVERINO,Mayoria,3847,,Veracruz,Rodríguez--Guillermo
 976,MORENO--JESUS Z.,ver,14,29,1920-1922,RODRIGUEZ--LUIS,Mayoria,,,Veracruz,Moreno--Jesús Z.
 977,ZAPATA--MANUEL,ver,15,29,1920-1922,GABAY--CLEMENTE,Mayoria,1150,,Veracruz,Zapata--Manuel
 978,TELLO ROMERO--MANUEL,ver,16,29,1920-1922,MARTINEZ--ANTONIO,Mayoria,2239,,Veracruz,Tello Romero--Manuel
@@ -999,7 +999,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 998,QUEVEDO--RAFAEL,ags,1,30,1922-1924,PEREA--MELITON,Mayoria,1167,,Aguascalientes,Quevedo--Rafael
 999,PALACIO--RODRIGO,ags,2,30,1922-1924,DIAZ DE LEON--,Mayoria,,,Aguascalientes,Palacio--Rodrigo
 1000,VON BORSTEL M.--ENRIQUE,bcn,0,30,1922-1924,ALVARADO H.--M. ALBERTO,Mayoria,,dudas,Baja California Norte,Von Borstel M.--Enrique
-1001,COVARRUBIAS--RICARDO,bcn,1,30,1922-1924,GARCIA--FRANCISCO L.,Mayoria,,revisar,Baja California Norte,Covarrubias--Ricardo
+1001,COVARRUBIAS--RICARDO,bcn,1,30,1922-1924,GARCIA--FRANCISCO L.,Mayoria,,mismo que COVARRUBIAS RICARDO de bcn?,Baja California Norte,Covarrubias--Ricardo
 1002,MENA CORDOVA--EDUARDO R.,cam,1,30,1922-1924,OSORIO--MANUEL,Mayoria,,,Campeche,Mena Córdova--Eduardo R.
 1003,MENA ALCOCER--JOSE DE LA LUZ,cam,3,30,1922-1924,ANCONA--JOSE E.,Mayoria,,,Campeche,Mena Alcocer--José de la Luz
 1004,DAVILA--LORENZO,coa,1,30,1922-1924,GARCIA--CONRADO C.,Mayoria,,,Coahuila,Dávila--Lorenzo
@@ -1011,7 +1011,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1010,BARRERA--ELPIDIO,coa,7,30,1922-1924,HOYOS T.--MARCELINO DE,Mayoria,,,Coahuila,Barrera--Elpidio
 1011,SOLORZANO BEJAR--FRANCISCO,col,1,30,1922-1924,RIVERA QUEVEDO--ENRIQUE,Mayoria,,,Colima,Solórzano Bejar--Francisco
 1012,VIZCARRA--SALVADOR,col,2,30,1922-1924,GUDIÑO--MANUEL,Mayoria,,dif de salome jr,Colima,Vizcarra--Salvador
-1013,ESPINOSA--LUIS,cps,1,30,1922-1924,GRAJALES--VICTORICO,Mayoria,,dudas,Chiapas,Espinosa--Luis
+1013,ESPINOSA--LUIS,cps,1,30,1922-1924,GRAJALES--VICTORICO,Mayoria,,,Chiapas,Espinosa--Luis
 1014,MARTINEZ ROJAS--CESAR,cps,2,30,1922-1924,CASTILLO H--MIGUEL,Mayoria,,,Chiapas,Martínez Rojas--César
 1015,SOLIS--JAIME A.,cps,3,30,1922-1924,SOLIS--JAIME A.,Mayoria,,,Chiapas,Solís--Jaime A.
 1016,CASTILLO--AGUSTIN,cps,4,30,1922-1924,CASTELLANOS--AARON,Mayoria,,,Chiapas,Castillo--Agustín
@@ -1021,7 +1021,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1020,CASTELLANOS--ANGEL G.,cua,1,30,1922-1924,MONZON--MANUEL F.,Mayoria,4104,,Chihuahua,Castellanos--Angel G.
 1021,BALDERRAMA--RAFAEL V.,cua,2,30,1922-1924,CHAVEZ OLGUIN--FRANCISCO,Mayoria,,,Chihuahua,Balderrama--Rafael V.
 1022,SAENZ JUAREZ--JOSE,cua,3,30,1922-1924,ALMEIDA--CASIMIRO E.,Mayoria,,,Chihuahua,Saenz Juárez--José
-1023,LEON--LUIS L.,cua,4,30,1922-1924,PRIETO--MANUEL M.,Mayoria,,revisar,Chihuahua,León--Luis L.
+1023,LEON--LUIS L.,cua,4,30,1922-1924,PRIETO--MANUEL M.,Mayoria,,,Chihuahua,León--Luis L.
 1024,CHACON--PEDRO IGNACIO,cua,5,30,1922-1924,PEREZ--NICOLAS,Mayoria,,,Chihuahua,Chacón--Pedro Ignacio
 1025,CHAVEZ M.--MANUEL,cua,6,30,1922-1924,LUJAN--JOSE A.,Mayoria,,,Chihuahua,Chávez M.--Manuel
 1026,ALDACO--LUIS A.,cua,7,30,1922-1924,AGUIRRE--EMILIO,Mayoria,,,Chihuahua,Aldaco--Luis A.
@@ -1052,14 +1052,14 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1051,TRILLO--QUIRINO S.,gua,3,30,1922-1924,IBARRONDO--IGNACIO DE,Mayoria,,,Guanajuato,Trillo--Quirino S.
 1052,VELARDE--RAMON,gua,4,30,1922-1924,CARRERA--SALVADOR,Mayoria,,,Guanajuato,Velarde--Ramón
 1053,ORTIZ--MANUEL,gua,5,30,1922-1924,AYALA--MANUEL,Mayoria,6990,,Guanajuato,Ortíz--Manuel
-1054,RIOS LANDEROS--EZEQUIEL,gua,6,30,1922-1924,ABASCAL--JUAN G.,Mayoria,,Revisado,Guanajuato,Ríos Landeros--Ezequiel
+1054,RIOS LANDEROS--EZEQUIEL,gua,6,30,1922-1924,ABASCAL--JUAN G.,Mayoria,,revisar,Guanajuato,Ríos Landeros--Ezequiel
 1055,GARCIA TELLEZ--IGNACIO,gua,7,30,1922-1924,GUTIERREZ DE VELASCO--DAVID,Mayoria,,,Guanajuato,García Téllez--Ignacio 
 1056,RAZO--JOSE J.,gua,8,30,1922-1924,SANCHEZ HERNANDEZ--FRANCISCO,Mayoria,,,Guanajuato,Razo--José J.
 1057,MEDRANO V.--FEDERICO,gua,9,30,1922-1924,LEON--MIGUEL,Mayoria,,,Guanajuato,Medrano V.--Federico 
 1058,ARROYO CH.--AGUSTIN,gua,10,30,1922-1924,SEPULVEDA--ROBERTO,Mayoria,4014,,Guanajuato,Arroyo Ch.--Agustín
 1059,HERNANDEZ GALVAN--MANUEL,gua,11,30,1922-1924,QUINTANA--JOAQUIN,Mayoria,,,Guanajuato,Hernández Galván--Manuel
 1060,LIRA--LUCAS,gua,12,30,1922-1924,VILLALOBOS--MAXIMILIANO,Mayoria,,,Guanajuato,Lira--Lucas
-1061,PERALTA--ALBERTO,gua,13,30,1922-1924,RIVERA--ISAURO,Mayoria,,Revisado (PERALTA RODRIGUEZ Camp),Guanajuato,Peralta--Alberto
+1061,PERALTA--ALBERTO,gua,13,30,1922-1924,RIVERA--ISAURO,Mayoria,,PERALTA RODRIGUEZ seg�n Ai Camp,Guanajuato,Peralta--Alberto
 1062,GUTIERREZ--JOSE M.,gua,14,30,1922-1924,GIL LAMBARRI--JOSE,Mayoria,,,Guanajuato,Gutiérrez--José M.
 1063,AGUILERA--JOSE ASCENCION,gua,15,30,1922-1924,SOTO--EVERARDO,Mayoria,,,Guanajuato,Aguilera--José Ascención
 1064,HERNANDEZ ALVAREZ--ENRIQUE,gua,16,30,1922-1924,AGUIÑAGA--MONICO,Mayoria,,,Guanajuato,Hernández Alvarez--Enrique
@@ -1122,7 +1122,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1121,DIAZ--LUIS MANUEL,mex,15,30,1922-1924,RODRIGUEZ--MANUEL M.,Mayoria,,,Mexico,Díaz--Luis Manuel
 1122,DORANTES--PROCORO,mex,16,30,1922-1924,RIVERA--ADOLFO,Mayoria,,,Mexico,Dorantes--Prócoro
 1123,PARRA--ENRIQUE,mic,1,30,1922-1924,DIAZ--LUIS,Mayoria,,,Michoacan,Parra--Enrique
-1124,PEREZ GIL Y ORTIZ--JOSE,mic,2,30,1922-1924,PEREZ GIL--LUIS,Mayoria,,Revisado,Michoacan,Pérez Gil y Ortíz--José
+1124,PEREZ GIL Y ORTIZ--JOSE,mic,2,30,1922-1924,PEREZ GIL--LUIS,Mayoria,,vida pasa por mic y df,Michoacan,Pérez Gil y Ortíz--José
 1125,BARRIGA ZAVALA--JOSE,mic,3,30,1922-1924,RINCON TOVAR--JOSE,Mayoria,,,Michoacan,Barriga Zavala--José
 1126,SOLIS--VIDAL,mic,4,30,1922-1924,TORRES CABALLERO--J.,Mayoria,,,Michoacan,Solís--Vidal
 1127,VILLEGAS--FEDERICO,mic,5,30,1922-1924,YAÑEZ--MACLOVIO,Mayoria,,,Michoacan,Villegas--Federico
@@ -1141,7 +1141,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1140,RAMIREZ--ENRIQUE,mic,18,30,1922-1924,GOMEZ--JOSE,Mayoria,,,Michoacan,Ramírez--Enrique
 1141,QUINTERO--MIGUEL A.,mic,19,30,1922-1924,PEREZ--INOCENCIO,Mayoria,,,Michoacan,Quintero--Miguel A.
 1142,MONTERO VILLAR--MARIANO,mor,1,30,1922-1924,ORTIZ--ALBINO,Mayoria,,,Morelos,Montero Villar--Mariano
-1143,REYNOSO DIAZ--LEOPOLDO,mor,2,30,1922-1924,VELASCO--ISMAEL,Mayoria,,Revisado (Ai Camp),Morelos,Reynoso Díaz--Leopoldo
+1143,REYNOSO DIAZ--LEOPOLDO,mor,2,30,1922-1924,VELASCO--ISMAEL,Mayoria,,dip por morelos y gue (Ai Camp),Morelos,Reynoso Díaz--Leopoldo
 1144,ARANDA--VICENTE,mor,3,30,1922-1924,SAAVEDRA--SALVADOR S.,Mayoria,,,Morelos,Aranda--Vicente
 1145,ESMERIO--MARCO,nay,1,30,1922-1924,MORALES--IGNACIO,Mayoria,,,Nayarit,Esmerio--Marco
 1146,ROMERO GALLARDO--ISMAEL,nay,2,30,1922-1924,PEÑA NAVARRO--EVERARDO,Mayoria,,,Nayarit,Romero Gallardo--Ismael
@@ -1164,7 +1164,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1163,DIAZ CHAVEZ--MANUEL,oax,10,30,1922-1924,CASTILLO--BARTOLO,Mayoria,,,Oaxaca,Díaz Chávez--Manuel
 1164,BOLAÑOS--LEOVIGILDO,oax,11,30,1922-1924,LOPEZ--ABRAHAM,Mayoria,,,Oaxaca,Bolaños--Leovigildo
 1165,RAMIREZ--FRANCISCO MODESTO,oax,12,30,1922-1924,GARCIA--RAMOS JOSE,Mayoria,,,Oaxaca,Ramírez--Francisco Modesto
-1166,DIAZ--FERMIN E.,oax,13,30,1922-1924,DIAZ--FERMIN E.,Mayoria,,dudas,Oaxaca,Díaz--Fermín E.
+1166,DIAZ--FERMIN E.,oax,13,30,1922-1924,DIAZ--FERMIN E.,Mayoria,,mismo que el de pue?,Oaxaca,Díaz--Fermín E.
 1167,CALDERON--MIGUEL G.,oax,14,30,1922-1924,ZORRILLA--RODOLFO,Mayoria,,,Oaxaca,Calderón--Miguel G.
 1168,RIVERO--ROBERTO,oax,15,30,1922-1924,MARQUEZ GALAN--ABELARDO,Mayoria,,,Oaxaca,Rivero--Roberto
 1169,FLORES OLVERA--CAMILO,oax,16,30,1922-1924,GARCIA--RUFINO,Mayoria,,,Oaxaca,Flores Olvera--Camilo
@@ -1172,7 +1172,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1171,SANCHEZ DE LIMA--LUIS,pue,1,30,1922-1924,REZA--SEVERO,Mayoria,,,Puebla,Sánchez de Lima--Luis
 1172,BAUTISTA--GONZALO,pue,2,30,1922-1924,CASTILLO--JESUS,Mayoria,,,Puebla,Bautista--Gonzalo
 1173,DEL CASTILLO--PORFIRIO,pue,3,30,1922-1924,GARIBAY--CESAR,Mayoria,,,Puebla,Castillo--Porfirio del
-1174,CASAS ALATRISTE--ROBERTO,pue,4,30,1922-1924,PEREZ DE LEON--RAFAEL,Mayoria,,Revisado (Ai Camp),Puebla,Casas Alatriste--Roberto
+1174,CASAS ALATRISTE--ROBERTO,pue,4,30,1922-1924,PEREZ DE LEON--RAFAEL,Mayoria,,dip por sin pue y df (Ai Camp),Puebla,Casas Alatriste--Roberto
 1175,MONTOYA--FRANCISCO L.,pue,5,30,1922-1924,ROJAS--SEBASTIAN,Mayoria,,,Puebla,Montoya--Francisco L.
 1176,ARRIOJA ISUNZA--EDUARDO,pue,6,30,1922-1924,ESCOBEDO--GUILLERMO,Mayoria,,,Puebla,Arrioja Isunza--Eduardo
 1177,BOSQUES--GILBERTO,pue,7,30,1922-1924,FUENTES--EUGENIO,Mayoria,,,Puebla,Bosques--Gilberto
@@ -1183,20 +1183,20 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1182,GUERRERO--ALBERTO,pue,12,30,1922-1924,DIAZ MURUETA--PEDRO,Mayoria,,,Puebla,Guerrero--Alberto
 1183,GALVEZ--JOSE,pue,13,30,1922-1924,LANDERO LEON--PABLO,Mayoria,,jose l. = jose?,Puebla,Gálvez--José
 1184,MACIP--WENCESLAO,pue,14,30,1922-1924,LANDERO--RUFINO A.,Mayoria,,,Puebla,Macip--Wenceslao
-1185,PEREZ H.--ARNULFO,pue,15,30,1922-1924,CARMONA Y R.--ENRIQUE,Mayoria,,dudas,Puebla,Pérez H.--Arnulfo
+1185,PEREZ H.--ARNULFO,pue,15,30,1922-1924,CARMONA Y R.--ENRIQUE,Mayoria,,arnulfo de tab y pue?,Puebla,Pérez H.--Arnulfo
 1186,OLIVER Y C.--SALTIEL,pue,16,30,1922-1924,LECHUGA--CESAR,Mayoria,,,Puebla,Oliver y C.--Saltiel
 1187,GONZALEZ--GONZALO E.,pue,17,30,1922-1924,MARQUEZ RIVERA--MIGUEL,Mayoria,,gonzalo = gonzalo e.?,Puebla,González--Gonzalo E.
 1188,HERNANDEZ--PORFIRIO,pue,18,30,1922-1924,PEREZ--FRANCISCO R.,Mayoria,,,Puebla,Hernández--Porfirio
 1189,RAMIREZ LUQUE--FRANCISCO,que,1,30,1922-1924,HERNANDEZ--J. CRUZ,Mayoria,,,Queretaro,Ramírez Luque--Francisco
 1190,DOMINGUEZ--ENRIQUE B,que,2,30,1922-1924,MARTINEZ--FRANCISCO,Mayoria,,,Queretaro,Domínguez--Enrique B
 1191,PASTORIZA--JUAN,que,3,30,1922-1924,MORENO--EDUARDO,Mayoria,,,Queretaro,Pastoriza--Juan
-1192,SIUROB--JOSE,que,4,30,1922-1924,OLVERA--POLICARPO,Mayoria,2517,Revisado (Wikipedia),Queretaro,Siurob--José
+1192,SIUROB--JOSE,que,4,30,1922-1924,OLVERA--POLICARPO,Mayoria,2517,,Queretaro,Siurob--José
 1193,BARRAGAN--ENRIQUE M.,qui,0,30,1922-1924,GONZALEZ MADRID--FERNANDO,Mayoria,,,Quintana Roo,Barragán--Enrique M.
 1194,MANRIQUE JR.--AURELIO,san,1,30,1922-1924,HERNANDEZ--RAMON F.,PCRP Mayoria,1551,sin info,San Luis Potosi,Manríque Jr.--Aurelio
-1195,DIAZ SOTO Y GAMA--ANTONIO,san,2,30,1922-1924,SANCHEZ--GRACIANO,Mayoria,,Revisado (Ai Camp),San Luis Potosi,Díaz Soto y Gama--Antonio
+1195,DIAZ SOTO Y GAMA--ANTONIO,san,2,30,1922-1924,SANCHEZ--GRACIANO,Mayoria,,confirmado en Ai Camp,San Luis Potosi,Díaz Soto y Gama--Antonio
 1196,DAVALOS ARAGON--MANUEL,san,3,30,1922-1924,ZARATE--DAVID,Mayoria,,,San Luis Potosi,Dávalos Aragón--Manuel
 1197,COMPEAN--JUSTINO,san,4,30,1922-1924,GOMEZ--MANUEL R.,Mayoria,,,San Luis Potosi,Compeán--Justino
-1198,PRIETO LAURENS--JORGE,san,5,30,1922-1924,CANAL--JESUS,Mayoria,,dudas,San Luis Potosi,Prieto Laurens--Jorge
+1198,PRIETO LAURENS--JORGE,san,5,30,1922-1924,CANAL--JESUS,Mayoria,,mismo que prieto laurens de df?,San Luis Potosi,Prieto Laurens--Jorge
 1199,CAMACHO--JOSE P.,san,6,30,1922-1924,SOLIS--MIGUEL,Mayoria,,,San Luis Potosi,Camacho--José P.
 1200,GAMA--ALFONSO,san,7,30,1922-1924,AMARILLAS--ROMULO,Mayoria,,,San Luis Potosi,Gama--Alfonso
 1201,VIDALES--AGUSTIN E.,san,9,30,1922-1924,RIVERA--JOSE MARIA,Mayoria,,,San Luis Potosi,Vidales--Agustín E.
@@ -1231,13 +1231,13 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1230,ALTAMIRANO--MANLIO FABIO,ver,6,30,1922-1924,VERNETT--ALEJANDRO,Mayoria,,,Veracruz,Altamirano--Manlio Fabio
 1231,MARIN--EFREN,ver,7,30,1922-1924,ZAPATA--MANUEL,Mayoria,,,Veracruz,Marín--Efrén
 1232,MARTINEZ--GABRIEL,ver,8,30,1922-1924,MARTINEZ--GABRIEL,Mayoria,,,Veracruz,Martínez--Gabriel
-1233,RODRIGUEZ--GUILLERMO,ver,8,30,1922-1924,MENDEZ--FRANCISCO,Mayoria,,Revisado,Veracruz,Rodríguez--Guillermo
+1233,RODRIGUEZ--GUILLERMO,ver,8,30,1922-1924,MENDEZ--FRANCISCO,Mayoria,,,Veracruz,Rodríguez--Guillermo
 1234,SANCHEZ REBOLLEDO--ANTONIO,ver,9,30,1922-1924,MURRIETA--JOSE A.,Mayoria,,,Veracruz,Sánchez Rebolledo--Antonio
 1235,SOTO--ENRIQUE L.,ver,10,30,1922-1924,VILLANUEVA GARZA--CIPRIANO,Mayoria,,,Veracruz,Soto--Enrique L.
 1236,AGUADO--JOSE ISMAEL,ver,11,30,1922-1924,GARCIA--RUPERTO S.,Mayoria,,,Veracruz,Aguado--José Ismael
 1237,PUIG Y CASAURANC--CARLOS,ver,12,30,1922-1924,HUERTA--ENRIQUE C.,Mayoria,,caso confirmado hermano de jose manuel,Veracruz,Puig y Casauranc--Carlos
 1238,FERNANDEZ--GUILLERMO,ver,13,30,1922-1924,GALICIA--JUAN,Mayoria,4008,,Veracruz,Fernández--Guillermo
-1239,CAMPILLO SEYDE--ARTURO,ver,14,30,1922-1924,HERNANDEZ--ARCADIO,Mayoria,,Revisado (Ai Camp wikipedia),Veracruz,Campillo Seyde--Arturo
+1239,CAMPILLO SEYDE--ARTURO,ver,14,30,1922-1924,HERNANDEZ--ARCADIO,Mayoria,,,Veracruz,Campillo Seyde--Arturo
 1240,BASAÑEZ--RUBEN,ver,15,30,1922-1924,MELENDEZ--JORGE,Mayoria,,,Veracruz,Basañez--Rubén
 1241,VILLANUEVA GARCIA--JOSE,ver,16,30,1922-1924,JIMENEZ--MARTIN C.,Mayoria,,,Veracruz,Villanueva García--José
 1242,JOACHIN--JUAN,ver,17,30,1922-1924,VIVES RUIZ--MIGUEL,Mayoria,,,Veracruz,Joachín--Juan
@@ -1258,13 +1258,13 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1257,CARDONA--ISIDRO,zac,8,30,1922-1924,OLVERA--MANUEL,Mayoria,,,Zacatecas,Cardona--Isidro
 1258,QUEVEDO--RAFAEL,ags,1,31,1924-1926,DIAZ DE LEON--ISAAC,Mayoria,,,Aguascalientes,Quevedo--Rafael 
 1259,CARPIO--MANUEL,ags,2,31,1924-1926,ORTEGA--JOSE M.,Mayoria,,,Aguascalientes,Carpio--Manuel 
-1260,COVARRUBIAS--RICARDO,bcn,1,31,1924-1926,LOAIZA--IGNACIO F.,Mayoria,,revisar,Baja California Norte,Covarrubias--Ricardo 
+1260,COVARRUBIAS--RICARDO,bcn,1,31,1924-1926,LOAIZA--IGNACIO F.,Mayoria,,,Baja California Norte,Covarrubias--Ricardo 
 1261,VON BORSTEL M.--ENRIQUE,bcn,2,31,1924-1926,GOMEZ JIMENEZ--MANUEL,Mayoria,2379,dudas,Baja California Norte,Von Borstel M.--Enrique
 1262,PAVON SILVA--SILVESTRE,cam,1,31,1924-1926,MARTINEZ PRECIAT--EMILIO,Mayoria,,,Campeche,Pavón Silva--Silvestre 
 1263,MENA CORDOVA--EDUARDO R.,cam,2,31,1924-1926,ANGLY LARA--F. ENRIQUE,Mayoria,,,Campeche,Mena Córdova--Eduardo R.
 1264,CARDENAS--JACOBO,coa,1,31,1924-1926,MARTINEZ Y MARTINEZ--JOSE,Mayoria,,,Coahuila,Cárdenas--Jacobo 
 1265,SANTOS GUAJARDO--VICENTE,coa,2,31,1924-1926,CHAVERO--MARIANO,Mayoria,,,Coahuila,Santos Guajardo--Vicente 
-1266,GUAJARDO--CANDOR,coa,3,31,1924-1926,RODRIGUEZ--AMBROSIO,Mayoria,,caso confirmado son el mismo,Coahuila,Guajardo--Candor 
+1266,GUAJARDO--CANDOR,coa,3,31,1924-1926,RODRIGUEZ--AMBROSIO,Mayoria,,mismo que GUAJARDO CANDO de mic,Coahuila,Guajardo--Candor 
 1267,RODRIGUEZ--ELPIDIO,coa,4,31,1924-1926,ROBLEDO--ROBERTO J.,Mayoria,,,Coahuila,Rodríguez--Elpidio 
 1268,GARZA CASTRO--ANTONIO,coa,5,31,1924-1926,MARTINEZ IBARRA--JOSE MARIA,Mayoria,,,Coahuila,Garza Castro--Antonio 
 1269,HERNANDEZ--MARCOS A.,coa,6,31,1924-1926,CADENA--AURELIANO L.,Mayoria,,,Coahuila,Hernández--Marcos A. 
@@ -1284,9 +1284,9 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1283,ALMADA--FRANCISCO R.,cua,5,31,1924-1926,PRIETO--ELISEO,Mayoria,2576,,Chihuahua,Almada--Francisco R.
 1284,CALLES--JOSE,cua,6,31,1924-1926,GUILLEN--MARIANO,Mayoria,,,Chihuahua,Calles--José 
 1285,FUENTES--ANTONIO,cua,7,31,1924-1926,AGUILERA--RODRIGO,Mayoria,2915,,Chihuahua,Fuentes--Antonio 
-1286,ZINCUNEGUI TERCERO--LEOPOLDO,df,1,31,1924-1926,BALDERAS--MANUEL,Mayoria,3016,Revisado,Distrito Federal,Zincunegui Tercero--Leopoldo 
+1286,ZINCUNEGUI TERCERO--LEOPOLDO,df,1,31,1924-1926,BALDERAS--MANUEL,Mayoria,3016,caso confirmado en Ai Camp,Distrito Federal,Zincunegui Tercero--Leopoldo 
 1287,ZARRAGA--GUILLERMO,df,2,31,1924-1926,MARQUEZ P.--ALFONSO,Mayoria,,,Distrito Federal,Zárraga--Guillermo 
-1288,LEON--LUIS L.,df,3,31,1924-1926,ESTRADA--GORGONIO,Mayoria,,revisar,Distrito Federal,León--Luis L. 
+1288,LEON--LUIS L.,df,3,31,1924-1926,ESTRADA--GORGONIO,Mayoria,,revisar si es mismo que luis l de cua,Distrito Federal,León--Luis L. 
 1289,DURON GONZALEZ--GUSTAVO,df,4,31,1924-1926,PRIETO--RAUL,Mayoria,,,Distrito Federal,Durón González--Gustavo
 1290,MARTINEZ DE ESCOBAR--RAFAEL,df,5,31,1924-1926,SILVA--ARNULFO,Mayoria,,vida pasa por tab y df,Distrito Federal,Martínez de Escobar--Rafael 
 1291,GONZALEZ--GONZALO,df,6,31,1924-1926,ROJAS--RAMON,Mayoria,,gonzalo e.?,Distrito Federal,González--Gonzalo 
@@ -1297,7 +1297,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1296,PRIETO--ERNESTO,df,11,31,1924-1926,AVILA--FELIPE,PRNTM Mayoria,5686,,Distrito Federal,Prieto--Ernesto 
 1297,MORONES--LUIS N.,df,12,31,1924-1926,TREVIÑO--RICARDO,Mayoria,,,Distrito Federal,Morones--Luis N. 
 1298,DELHUMEAN JR.--EDUARDO,df,13,31,1924-1926,LOPEZ--JOSE REMEDIOS,Mayoria,,,Distrito Federal,Delhumeán Jr.--Eduardo 
-1299,PONCE DE LEON--RAFAEL,df,14,31,1924-1926,ESPINOZA Y RODRIGUEZ--ANTONIO,Mayoria,11640,dudas,Distrito Federal,Ponce de León--Rafael
+1299,PONCE DE LEON--RAFAEL,df,14,31,1924-1926,ESPINOZA Y RODRIGUEZ--ANTONIO,Mayoria,11640,mismo que ponce leon de jal?,Distrito Federal,Ponce de León--Rafael
 1300,ZENTELLA--AMILCAR,df,15,31,1924-1926,LOPEZ F.--RICARDO,Mayoria,2505,,Distrito Federal,Zentella--Amílcar
 1301,ANTUNA--ALEJANDRO,dgo,1,31,1924-1926,QUIROGA--JOSE D.,Mayoria,,antuna lopez = antuna?,Durango,Antuna--Alejandro 
 1302,REYES AVILES--SALVADOR,dgo,2,31,1924-1926,MARTINEZ SR.--LAUREANO,Mayoria,,,Durango,Reyes Avilés--Salvador 
@@ -1317,7 +1317,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1316,MEDRANO V.--FEDERICO,gua,9,31,1924-1926,PEREZ PRADO--PULCHERIO,Mayoria,,,Guanajuato,Medrano V.--Federico
 1317,ARAGON--ANGEL,gua,10,31,1924-1926,TAMAYO--MANUEL,Mayoria,,,Guanajuato,Aragón--Angel 
 1318,ARROYO CH.--AGUSTIN,gua,11,31,1924-1926,MONTENEGRO--FERMIN,Mayoria,3935,,Guanajuato,Arroyo Ch.--Agustín 
-1319,ANDRADE--CAYETANO,gua,12,31,1924-1926,DIAZ BARRIGA--FRANCISCO,Mayoria,,Revisado (Ai Camp wikipedia),Guanajuato,Andrade--Cayetano 
+1319,ANDRADE--CAYETANO,gua,12,31,1924-1926,DIAZ BARRIGA--FRANCISCO,Mayoria,,dip por mic y gua (Ai Camp),Guanajuato,Andrade--Cayetano 
 1320,AGUIRRE Y MAYA--JOSE,gua,13,31,1924-1926,ALCANTAR--LEOPOLDO,Mayoria,,,Guanajuato,Aguirre y Maya--José 
 1321,GUTIERREZ--JOSE M.,gua,14,31,1924-1926,BUENO--ESTEBAN,Mayoria,,,Guanajuato,Gutiérrez--José M. 
 1322,MENDEZ JR.--BENJAMIN,gua,15,31,1924-1926,OBREGON--ADOLFO,Mayoria,,,Guanajuato,Méndez Jr.--Benjamín 
@@ -1350,7 +1350,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1349,CUELLAR--JOSE MARIA,jal,4,31,1924-1926,CUELLAR J.--LEOPOLDO,Mayoria,,,Jalisco,Cuellar--José María 
 1350,IZABAL--JUAN B.,jal,5,31,1924-1926,RABAGO SOTO--MIGUEL,Mayoria,,,Jalisco,Izabal--Juan B. 
 1351,OROZCO--DAVID,jal,6,31,1924-1926,ORTEGA VALDEZ--MANUEL,Mayoria,,,Jalisco,Orozco--David 
-1352,COVARRUBIAS--RICARDO,jal,7,31,1924-1926,ACEVES OROZCO--FRANCISCO,Mayoria,4228,revisar,Jalisco,Covarrubias--Ricardo 
+1352,COVARRUBIAS--RICARDO,jal,7,31,1924-1926,ACEVES OROZCO--FRANCISCO,Mayoria,4228,mismo que COVARRUBIAS RICARDO de jal?,Jalisco,Covarrubias--Ricardo 
 1353,MORENO--FRANCISCO Z.,jal,8,31,1924-1926,MACIAS--DANIEL,Mayoria,,,Jalisco,Moreno--Francisco Z.
 1354,VALADEZ RAMIREZ--ANTONIO,jal,9,31,1924-1926,CUELLAR--JOSE DE JESUS,Mayoria,,dudas,Jalisco,Valadéz Ramírez--Antonio
 1355,CORDOVA--RAMON,jal,10,31,1924-1926,CASILLAS--LONGINOS,CPRJ Mayoria,8825,,Jalisco,Córdova--Ramón
@@ -1384,7 +1384,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1383,DIAZ--LUIS MANUEL,mex,15,31,1924-1926,RODRIGUEZ AYALA--MANUEL,PREM Mayoria,,,Mexico,Díaz--Luis Manuel 
 1384,DORANTES--PROCORO,mex,16,31,1924-1926,SIERRA--JOSE DE LA,Mayoria,,,Mexico,Dorantes--Prócoro 
 1385,VILLAVICENCIO--ROMULO A.,mex,17,31,1924-1926,MADRIGAL--RAMON,Mayoria,,,Mexico,Villavicencio--Rómulo A. 
-1386,PEREZ GIL Y ORTIZ--JOSE,mic,1,31,1924-1926,CONDES--PASCUAL,Mayoria,,Revisado,Michoacan,Pérez Gil y Ortíz--José 
+1386,PEREZ GIL Y ORTIZ--JOSE,mic,1,31,1924-1926,CONDES--PASCUAL,Mayoria,,vida pasa por mic y df,Michoacan,Pérez Gil y Ortíz--José 
 1387,FLORES--VICTORIANO,mic,2,31,1924-1926,MACIEL--DEMETRIO,Mayoria,1379,,Michoacan,Flores--Victoriano 
 1388,DIAZ--LUIS,mic,3,31,1924-1926,ALVARADO DIAZ--JUAN,Mayoria,1971,no es luis manuel,Michoacan,Díaz--Luis 
 1389,SOLIS--VIDAL,mic,4,31,1924-1926,LEON--ALFREDO,Mayoria,,,Michoacan,Solís--Vidal
@@ -1394,7 +1394,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1393,SILVA--JOAQUIN,mic,8,31,1924-1926,MONTALVAN--RAFAEL,Mayoria,,,Michoacan,Silva--Joaquín 
 1394,MARTINEZ--PEDRO M.,mic,9,31,1924-1926,RIVERA DIAZ--FRANCISCO,Mayoria,,,Michoacan,Martínez--Pedro M. 
 1395,PINEDA--EFRAIN,mic,10,31,1924-1926,TORRES--DIODORO,Mayoria,,,Michoacan,Pineda--Efraín 
-1396,ORTEGA--MELCHOR,mic,11,31,1924-1926,AYALA--JUAN,Mayoria,4081,Revisado (Ai Camp),Michoacan,Ortega--Melchor
+1396,ORTEGA--MELCHOR,mic,11,31,1924-1926,AYALA--JUAN,Mayoria,4081,dip por mic y gua (Ai Camp),Michoacan,Ortega--Melchor
 1397,ALVAREZ TREVIÑO--ALFREDO,mic,12,31,1924-1926,ESPINOSA GUTIERREZ--ANTONIO,Mayoria,,,Michoacan,Alvarez Treviño--Alfredo 
 1398,PINEDA--J. JESUS,mic,13,31,1924-1926,MARTINEZ--IGNACIO,Mayoria,,,Michoacan,Pineda--J. Jesús 
 1399,PICAZO--RAFAEL,mic,14,31,1924-1926,GUDIÑO--J. JESUS,Mayoria,,,Michoacan,Picazo--Rafael 
@@ -1451,21 +1451,21 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1450,VALDERRABANO--AARON L.,pue,18,31,1924-1926,SANTOS MARTINEZ--LUIS,Mayoria,,,Puebla,Valderrábano--Aarón L.
 1451,VERAZA Y RUBIO--JOSE,que,1,31,1924-1926,MARTINEZ--ANTONIO,Mayoria,,,Queretaro,Veraza y Rubio--José 
 1452,OBREGON--J. TRINIDAD,que,2,31,1924-1926,BRIONES--AURELIO,Mayoria,,,Queretaro,Obregón--J. Trinidad 
-1453,SIUROB--JOSE,que,3,31,1924-1926,HERRERA--MIGUEL G.,Mayoria,,Revisado (Wikipedia),Queretaro,Siurob--José 
-1454,DE LA PEÑA--ILDEFONSO,que,4,31,1924-1926,URBIOLA REYNA--IGNACIO,Mayoria,,dudas,Queretaro,Peña--Ildefonso de la 
+1453,SIUROB--JOSE,que,3,31,1924-1926,HERRERA--MIGUEL G.,Mayoria,,,Queretaro,Siurob--José 
+1454,DE LA PEÑA--ILDEFONSO,que,4,31,1924-1926,URBIOLA REYNA--IGNACIO,Mayoria,,idelfonso de san? Son el mismo?,Queretaro,Peña--Ildefonso de la 
 1455,CASTRO--JUSTINO M.,que,9,31,1924-1926,SOLANO--SANTIAGO,Mayoria,2789,,Queretaro,Castro--Justino M. 
 1456,GONZALEZ MADRID--FERNANDO,qui,0,31,1924-1926,OROZCO--ALFONSO,Mayoria,,sin info,Quintana Roo,González Madrid--Fernando 
 1457,TRUJILLO ESPINOZA--ANTONIO,san,1,31,1924-1926,LEOS--CECILIO,Mayoria,,,San Luis Potosi,Trujillo Espinoza--Antonio 
 1458,HENSHAW--ENRIQUE,san,2,31,1924-1926,ADAME--JULIAN,Mayoria,7949,,San Luis Potosi,Henshaw--Enrique 
 1459,NARVAEZ--VALENTIN,san,3,31,1924-1926,TAPIA--TOMAS,Mayoria,3008,,San Luis Potosi,Narváez--Valentín
 1460,PORTALES--ARNULFO,san,3,31,1924-1926,FLORES--BENITO,Mayoria,1182,,San Luis Potosi,Portales--Arnulfo
-1461,DIAZ SOTO Y GAMA--ANTONIO,san,4,31,1924-1926,NARVAEZ--JOSE,Mayoria,,Revisado (Ai Camp),San Luis Potosi,Díaz Soto y Gama--Antonio 
+1461,DIAZ SOTO Y GAMA--ANTONIO,san,4,31,1924-1926,NARVAEZ--JOSE,Mayoria,,confirmado en Ai Camp,San Luis Potosi,Díaz Soto y Gama--Antonio 
 1462,MERLA--PEDRO,san,5,31,1924-1926,TORRES--ARTURO,Mayoria,1567,,San Luis Potosi,Merla--Pedro
 1463,CAMACHO--JOSE P.,san,6,31,1924-1926,SANCHEZ--RAFAEL,Mayoria,,,San Luis Potosi,Camacho--José P.
 1464,ORTA--MANUEL,san,7,31,1924-1926,MENDEZ--JOSE MARIA,Mayoria,,,San Luis Potosi,Orta--Manuel 
 1465,PEREZ--JEZAUR,san,8,31,1924-1926,ARICRAGA--FRANCISCO,Mayoria,,,San Luis Potosi,Pérez--Jezaur 
 1466,GARCIA--ANTONINO M.,san,9,31,1924-1926,URIBE Y MENDOZA--MELITON,Mayoria,8916,,San Luis Potosi,García--Antonino M. 
-1467,SANTOS--GONZALO N.,san,10,31,1924-1926,ALVAREZ--JUAN,Mayoria,3185,Revisado (Wikipedia),San Luis Potosi,Santos--Gonzalo N. 
+1467,SANTOS--GONZALO N.,san,10,31,1924-1926,ALVAREZ--JUAN,Mayoria,3185,Santos Rivera Gonz�lo N.,San Luis Potosi,Santos--Gonzalo N. 
 1468,ALVAREZ--COSME,sin,1,31,1924-1926,ZAVALA--IGNACIO,Mayoria,,,Sinaloa,Alvarez--Cosme 
 1469,MONTOYA A.--ANGEL,sin,2,31,1924-1926,CAZARES--CARLOS,Mayoria,3801,,Sinaloa,Montoya A.--Angel
 1470,RIVEROS--MANUEL,sin,2,31,1924-1926,MORA Y OCHOA--FILIBERTO,Mayoria,1618,,Sinaloa,Riveros--Manuel 
@@ -1475,8 +1475,8 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1474,VIZCARRA JR.--SALOME,sin,6,31,1924-1926,OSUNA--MARTINIANO H.,Mayoria,,,Sinaloa,Vizcarra Jr.--Salomé 
 1475,CORELLA M.--EMILIANO,son,1,31,1924-1926,DAVILA--PEDRO R.,Mayoria,,,Sonora,Corella M.--Emiliano 
 1476,RODRIGUEZ--AGUSTIN,son,2,31,1924-1926,CELAYA--FRANCISCO,Mayoria,2029,,Sonora,Rodríguez--Agustín 
-1477,SAINZ--ALBERTO,son,3,31,1924-1926,SOBARZO--ABELARDO B.,Mayoria,,dudas,Sonora,Sáinz--Alberto
-1478,RAMOS--RAMON,son,4,31,1924-1926,PEÑUÑURI--BENJAMIN,Mayoria,,Revisado (Ai Camp),Sonora,Ramos--Ramón
+1477,SAINZ--ALBERTO,son,3,31,1924-1926,SOBARZO--ABELARDO B.,Mayoria,,mismo que sainz alberto de oax?,Sonora,Sáinz--Alberto
+1478,RAMOS--RAMON,son,4,31,1924-1926,PEÑUÑURI--BENJAMIN,Mayoria,,dip por son y cua (Ai Camp),Sonora,Ramos--Ramón
 1479,AGUIRRE--JESUS M.,son,5,31,1924-1926,MORALES--ROBERTO A.,PUPBJ Mayoria,3294,muere en 1929,Sonora,Aguirre--Jesús M. 
 1480,AZCONA--PABLO,tab,1,31,1924-1926,JIMENEZ--MANUEL,Mayoria,,,Tabasco,Azcona--Pablo 
 1481,PUIG Y CASAURANC--CARLOS,tab,2,31,1924-1926,JASSO--OVIDIO,PRM Mayoria,4190,,Tabasco,Puig y Casauranc--Carlos 
@@ -1494,14 +1494,14 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1493,ALARCON--DAMIAN,ver,4,31,1924-1926,GARMENDIA--ROGELIO A.,Mayoria,1204,,Veracruz,Alarcón--Damián 
 1494,MARQUEZ--LUIS G.,ver,5,31,1924-1926,LUNA MENDEZ--ALFONSO,Mayoria,5096,,Veracruz,Márquez--Luis G. 
 1495,ALTAMIRANO--MANLIO FABIO,ver,6,31,1924-1926,FIERRO--ANTONIO,Mayoria,,,Veracruz,Altamirano--Manlio Fabio 
-1496,RODRIGUEZ--GUILLERMO,ver,7,31,1924-1926,MOCTEZUMA JR.--GABRIEL,Mayoria,,REvisado,Veracruz,Rodríguez--Guillermo 
+1496,RODRIGUEZ--GUILLERMO,ver,7,31,1924-1926,MOCTEZUMA JR.--GABRIEL,Mayoria,,,Veracruz,Rodríguez--Guillermo 
 1497,AGUILLON GUZMAN--GABRIEL,ver,8,31,1924-1926,CORTES--VICENTE A.,Mayoria,10018,benjamin = gabriel?,Veracruz,Aguillón Guzmán--Gabriel 
 1498,SOTO--ENRIQUE L.,ver,9,31,1924-1926,HERNANDEZ--ANGEL P.,Mayoria,,,Veracruz,Soto--Enrique L. 
 1499,LORANDI--VICTORIO,ver,10,31,1924-1926,FERNANDEZ--GONZALO,Mayoria,,,Veracruz,Lorandi--Victorio 
 1500,SARIOL--JUAN B.,ver,11,31,1924-1926,ANDRADE--JENARO,PLC Mayoria,3976,,Veracruz,Sariol--Juan B. 
 1501,MARTINEZ--EULALIO,ver,12,31,1924-1926,LOPEZ--PEDRO,Mayoria,,sin info,Veracruz,Martínez--Eulalio 
 1502,TORRES--MARTIN,ver,13,31,1924-1926,ANDRADE--CARLOS,Mayoria,,,Veracruz,Torres--Martín 
-1503,CAMPILLO SEYDE--ARTURO,ver,14,31,1924-1926,VILLEGAS--TEODORO,Mayoria,5222,Revisado (Ai Camp wikipedia),Veracruz,Campillo Seyde--Arturo 
+1503,CAMPILLO SEYDE--ARTURO,ver,14,31,1924-1926,VILLEGAS--TEODORO,Mayoria,5222,,Veracruz,Campillo Seyde--Arturo 
 1504,MANCISIDOR--ANSELMO,ver,15,31,1924-1926,GALAN--FRANCISCO,PLROC Mayoria,2192,anselmo y jorge m.? Familia?,Veracruz,Mancisidor--Anselmo 
 1505,CERISOLA--ALEJANDRO,ver,16,31,1924-1926,CANO CARRERA--ALVARO,Mayoria,,,Veracruz,Cerisola--Alejandro 
 1506,RODRIGUEZ--PEDRO C.,ver,17,31,1924-1926,PEREZ MORTEO--TOMAS,Mayoria,,,Veracruz,Rodríguez--Pedro C. 
@@ -1548,13 +1548,13 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1547,FIERRO--PEDRO M.,cua,2,32,1926-1928,ALMEIDA--CASIMIRO F.,Mayoria,,,Chihuahua,Fierro--Pedro M. 
 1548,PEREZ--NICOLAS,cua,3,32,1926-1928,ROMERO--MANUEL,Mayoria,,,Chihuahua,Pérez--Nicolás 
 1549,RODRIGUEZ--FRANCISCO,cua,4,32,1926-1928,GALINDO--ROBERTO G.,Mayoria,4969,,Chihuahua,Rodríguez--Francisco 
-1550,RAMOS--RAMON,cua,5,32,1926-1928,CARAVEO--JOSE MARIA,Mayoria,,Revisado (Ai Camp),Chihuahua,Ramos--Ramón 
+1550,RAMOS--RAMON,cua,5,32,1926-1928,CARAVEO--JOSE MARIA,Mayoria,,dip por son y cua (Ai Camp),Chihuahua,Ramos--Ramón 
 1551,BALDERRAMA--RAFAEL V.,cua,6,32,1926-1928,RUBIO L.--INOCENTE,Mayoria,,,Chihuahua,Balderrama--Rafael V. 
 1552,HASBACH--BERNARDO R.,cua,7,32,1926-1928,FUENTES--ANTONIO,Mayoria,4677,,Chihuahua,Hasbach--Bernardo R. 
 1553,MARTINEZ--EULALIO,df,1,32,1926-1928,OLIN--SEVERINO A.,Mayoria,,sin info,Distrito Federal,Martínez--Eulalio 
 1554,PEÑA--JOAQUIN DE LA,df,2,32,1926-1928,BONILLA--ENRIQUE M.,Mayoria,,,Distrito Federal,Peña--Joaquín de la 
 1555,BALDERAS--MANUEL,df,3,32,1926-1928,ESPINOZA Y RODRIGUEZ--ANTONIO,Mayoria,,sin info,Distrito Federal,Balderas--Manuel 
-1556,CAMPILLO SEYDE--ARTURO,df,4,32,1926-1928,ALDAMA--SATURNINO,Mayoria,,Revisado (Ai Camp wikipedia),Distrito Federal,Campillo Seyde--Arturo 
+1556,CAMPILLO SEYDE--ARTURO,df,4,32,1926-1928,ALDAMA--SATURNINO,Mayoria,,dip por ver y df (Ai Camp),Distrito Federal,Campillo Seyde--Arturo 
 1557,YUDICO--SAMUEL O.,df,5,32,1926-1928,RAMOS--ANTONIO,Mayoria,,,Distrito Federal,Yudico--Samuel O. 
 1558,GONZALEZ--GONZALO,df,6,32,1926-1928,HURTADO--ELIAS F.,Mayoria,,gonzalo e.?,Distrito Federal,González--Gonzalo 
 1559,VAZQUEZ--GENARO V.,df,7,32,1926-1928,CRUZ VELASCO--INDALECIO,Mayoria,,Genaro Vicente Vásquez Quiroz,Distrito Federal,Vázquez--Genaro V. 
@@ -1597,7 +1597,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1596,NAVA--ALFONSO L.,gue,4,32,1926-1928,RUEDA BRAVO--JOSE,Mayoria,,,Guerrero,Nava--Alfonso L. 
 1597,CARRETO--FRANCISCO S.,gue,5,32,1926-1928,RODRIGUEZ--FRANCISCO,PLG Mayoria,4890,,Guerrero,Carreto--Francisco S. 
 1598,MENDEZ--ALBERTO,gue,6,32,1926-1928,FONSECA--NICOLAS,Mayoria,7884,sin info,Guerrero,Méndez--Alberto 
-1599,ANDREW ALMAZAN--MIGUEL,gue,7,32,1926-1928,TORRES AVILES--RAFAEL,Mayoria,,Revisado (Wikipedia) Andreu,Guerrero,Andrew Almazán--Miguel 
+1599,ANDREW ALMAZAN--MIGUEL,gue,7,32,1926-1928,TORRES AVILES--RAFAEL,Mayoria,,Andreu es hermano de Juan Andreu,Guerrero,Andrew Almazán--Miguel 
 1600,MILLER--GUILLERMO R.,gue,8,32,1926-1928,LOPEZ--JESUS L.,Mayoria,,,Guerrero,Miller--Guillermo R. 
 1601,CERVANTES--J. REFUGIO,gue,9,32,1926-1928,PERALTA--RAMON,Mayoria,,,Guerrero,Cervantes--J. Refugio 
 1602,LOPEZ--MANUEL,gue,10,32,1926-1928,MALDONADO JR.--FRANCISCO,Mayoria,3993,,Guerrero,López--Manuel 
@@ -1618,7 +1618,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1617,VIZCARRA--IGNACIO,jal,4,32,1926-1928,GONZALEZ YAÑEZ--GREGORIO,Mayoria,,,Jalisco,Vizcarra--Ignacio 
 1618,IZABAL--JUAN B.,jal,5,32,1926-1928,RABAGO SOTO--MIGUEL,Mayoria,,,Jalisco,Izabal--Juan B. 
 1619,OROZCO--DAVID,jal,6,32,1926-1928,ORTEGA--MANUEL,Mayoria,,,Jalisco,Orozco--David 
-1620,COVARRUBIAS--RICARDO,jal,7,32,1926-1928,TORAL M.--SALVADOR,Mayoria,,revisar,Jalisco,Covarrubias--Ricardo 
+1620,COVARRUBIAS--RICARDO,jal,7,32,1926-1928,TORAL M.--SALVADOR,Mayoria,,,Jalisco,Covarrubias--Ricardo 
 1621,MORENO--FRANCISCO Z.,jal,8,32,1926-1928,MUÑOZ--CARLOS M.,Mayoria,,,Jalisco,Moreno--Francisco Z. 
 1622,RADILLO--JOSE,jal,9,32,1926-1928,LOPEZ GONZALEZ--JOSE MARIA,Mayoria,,,Jalisco,Radillo--José 
 1623,DE ANDA--JOSE GUADALUPE,jal,10,32,1926-1928,LOZANO--ISMAEL M.,Mayoria,,,Jalisco,De Anda--José Guadalupe
@@ -1649,7 +1649,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1648,ARROYO--ARMANDO P.,mex,13,32,1926-1928,NAJERA--DELFINO,Mayoria,8749,,Mexico,Arroyo--Armando P. 
 1649,LABRA--WENCESLAO,mex,14,32,1926-1928,BASAURI--MANUEL,Mayoria,,,Mexico,Labra--Wenceslao 
 1650,BRAVO IZQUIERDO--DONATO,mex,15,32,1926-1928,SOTRES Y OLACO--JESUS,Mayoria,2187,,Mexico,Bravo Izquierdo--Donato 
-1651,ESCAMILLA--FERNANDO E.,mex,15,32,1926-1928,MONTAÑO--ABELARDO,Mayoria,7359,dudas,Mexico,Escamilla--Fernando E. 
+1651,ESCAMILLA--FERNANDO E.,mex,15,32,1926-1928,MONTAÑO--ABELARDO,Mayoria,7359,mismo que el de que?,Mexico,Escamilla--Fernando E. 
 1652,RIVA PALACIO--MANUEL,mex,16,32,1926-1928,TRUEBA--PEDRO,Mayoria,,caso confirmado dif de carlos,Mexico,Riva Palacio--Manuel 
 1653,SOLORZANO--JOSE LUIS,mex,17,32,1926-1928,GARCIA--FELIX,Mayoria,,,Mexico,Solórzano--José Luis 
 1654,AGUILAR--JOSE,mic,1,32,1926-1928,MACIEL--DEMETRIO,Mayoria,,,Michoacan,Aguilar--José 
@@ -1661,7 +1661,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1660,CARRASCO SANDOVAL--JOSE,mic,8,32,1926-1928,TORRES ZAMUDIO--JESUS,Mayoria,,,Michoacan,Carrasco Sandoval--José 
 1661,OVIEDO MOTA--ALBERTO,mic,9,32,1926-1928,GOMEZ HURTADO--JOSE,Mayoria,,,Michoacan,Oviedo Mota--Alberto 
 1662,PINEDA--EFRAIN,mic,10,32,1926-1928,PIMENTEL--JOSE,Mayoria,,,Michoacan,Pineda--Efraín 
-1663,ORTEGA--MELCHOR,mic,11,32,1926-1928,PAZ--LEOBARDO,Mayoria,,Revisado (Ai Camp),Michoacan,Ortega--Melchor 
+1663,ORTEGA--MELCHOR,mic,11,32,1926-1928,PAZ--LEOBARDO,Mayoria,,,Michoacan,Ortega--Melchor 
 1664,HURTADO--SILVIANO,mic,12,32,1926-1928,HURTADO Z.--JESUS,Mayoria,,sin info,Michoacan,Hurtado--Silviano 
 1665,MURATALLA TORRES--AUSTREBERTO,mic,13,32,1926-1928,DUARTE C.--ILDEFONSO,Mayoria,,,Michoacan,Muratalla Torres--Austreberto 
 1666,PICAZO--RAFAEL,mic,14,32,1926-1928,CISNEROS--JOSE I.,Mayoria,,,Michoacan,Picazo--Rafael 
@@ -1706,7 +1706,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1705,LORENZ--JOAQUIN,pue,4,32,1926-1928,APARICIO--JUAN,Mayoria,,,Puebla,Lorenz--Joaquín 
 1706,AGUILLON GUZMAN--BENJAMIN,pue,5,32,1926-1928,VENEITES--VICENTE,Mayoria,,benjamin = gabriel?,Puebla,Aguillón Guzmán--Benjamín 
 1707,LIMON--PEDRO B.,pue,6,32,1926-1928,DIAZ SOTO Y GAMA--ANTONIO,Mayoria,,,Puebla,Limón--Pedro B. 
-1708,DIAZ SOTO Y GAMA--ANTONIO,pue,7,32,1926-1928,P. BURGOS--SABINO,PNA Mayoria,12641,No en Ai Camp,Puebla,Díaz Soto y Gama--Antonio 
+1708,DIAZ SOTO Y GAMA--ANTONIO,pue,7,32,1926-1928,P. BURGOS--SABINO,PNA Mayoria,12641,no dip de esa legs en Ai Camp,Puebla,Díaz Soto y Gama--Antonio 
 1709,REYES MARQUEZ--RICARDO,pue,8,32,1926-1928,HERNANDEZ--TRINIDAD,Mayoria,,,Puebla,Reyes Márquez--Ricardo 
 1710,HERNANDEZ--FRANCISCO,pue,9,32,1926-1928,CASTILLO GIL--ALFONSO,Mayoria,,,Puebla,Hernández--Francisco 
 1711,FLORES LOPEZ--ARTURO,pue,10,32,1926-1928,HERRERA ALVARADO--RAFAEL,Mayoria,,,Puebla,Flores López--Arturo 
@@ -1722,7 +1722,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1721,VERAZA Y RUBIO--JOSE,que,1,32,1926-1928,ROMO RUIZ--ANTONIO,Mayoria,,,Queretaro,Veraza y Rubio--José 
 1722,BRIONES--AURELIO,que,2,32,1926-1928,AMIREZ--INOCENCIO,Mayoria,,,Queretaro,Briones--Aurelio 
 1723,CASAS--AGUSTIN,que,3,32,1926-1928,OSUNA--CARLOS,Mayoria,,,Queretaro,Casas--Agustín 
-1724,DE LA PEÑA--ILDEFONSO,que,4,32,1926-1928,RUBIO--PORFIRIO,Mayoria,,dudas,Queretaro,Peña--Ildefonso de la 
+1724,DE LA PEÑA--ILDEFONSO,que,4,32,1926-1928,RUBIO--PORFIRIO,Mayoria,,,Queretaro,Peña--Ildefonso de la 
 1725,GARZA--CANDELARIO,qui,0,32,1926-1928,FUENTES--IGNACIO,Mayoria,,dudas,Quintana Roo,Garza--Candelario 
 1726,TRUJILLO ESPINOZA--ANTONIO,san,1,32,1926-1928,CHAVEZ--RAFAEL H.,Mayoria,,,San Luis Potosi,Trujillo Espinoza--Antonio
 1727,SANTOS--ALONSO JOSE,san,2,32,1926-1928,MONTANTE--MANUEL,Mayoria,,,San Luis Potosi,Santos--Alonso José 
@@ -1733,7 +1733,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1732,ORTA--MANUEL,san,7,32,1926-1928,TORRE--DAGOBERTO DE LA,Mayoria,,,San Luis Potosi,Orta--Manuel
 1733,MOCTEZUMA--FERNANDO,san,8,32,1926-1928,SEGURA--ESTEBAN,Mayoria,,,San Luis Potosi,Moctezuma--Fernando 
 1734,PORTALES--ARNULFO,san,9,32,1926-1928,MARTINEZ--MARIANO,Mayoria,,,San Luis Potosi,Portales--Arnulfo 
-1735,SANTOS--GONZALO N.,san,10,32,1926-1928,ORTIZ--LEOPOLDINO J.,Mayoria,,Revisado (Wikipedia),San Luis Potosi,Santos--Gonzalo N. 
+1735,SANTOS--GONZALO N.,san,10,32,1926-1928,ORTIZ--LEOPOLDINO J.,Mayoria,,,San Luis Potosi,Santos--Gonzalo N. 
 1736,AZUARA--JUAN ENRIQUE,san,11,32,1926-1928,ORTIZ--MIGUEL,Mayoria,,,San Luis Potosi,Azuara--Juan Enrique 
 1737,GARCIA--ANTONINO M.,san,12,32,1926-1928,ANGELES--JESUS,Mayoria,,,San Luis Potosi,García--Antonino M. 
 1738,RIVERA--FRANCISCO A.,sin,1,32,1926-1928,HERRERA--MARCELINO Z.,Mayoria,,,Sinaloa,Rivera--Francisco A. 
@@ -1747,7 +1747,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1746,LIZARRAGA--JESUS G.,son,2,32,1926-1928,CARRILLO--ALVARO V.,Mayoria,2794,,Sonora,Lizárraga--Jesús G. 
 1747,ORTEGA--ARTURO C.,son,3,32,1926-1928,BARRERAS--FRANCISCO,Mayoria,,,Sonora,Ortega--Arturo C. 
 1748,TOPETE--RICARDO,son,4,32,1926-1928,PEÑUÑURI JR.--AURELIO,Mayoria,,Topete Almada,Sonora,Topete--Ricardo 
-1749,ENCINAS--ADALBERTO,son,5,32,1926-1928,ROMO--GUILLERMO E.,Mayoria,,dudas,Sonora,Encinas--Adalberto 
+1749,ENCINAS--ADALBERTO,son,5,32,1926-1928,ROMO--GUILLERMO E.,Mayoria,,mismo que el de df?,Sonora,Encinas--Adalberto 
 1750,FLORES--BARTOLO,tab,1,32,1926-1928,FIGAROLA--MANUEL,Mayoria,,,Tabasco,Flores--Bartolo 
 1751,CAPARROSO--ALCIDES,tab,2,32,1926-1928,LUGO--JUAN,PSRT Mayoria,,,Tabasco,Caparroso--Alcides 
 1752,RUIZ S.--ALEJANDRO,tab,3,32,1926-1928,VALLE PARDO--ANTONIO DEL,Mayoria,,,Tabasco,Ruíz S.--Alejandro 
@@ -1756,7 +1756,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1755,ROMERO--PEDRO,tam,3,32,1926-1928,OJEDA--CARLOS DARIO,Mayoria,,,Tamaulipas,Romero--Pedro 
 1756,RINCON--JUAN,tam,4,32,1926-1928,PIZANO--ARTURO,Mayoria,,,Tamaulipas,Rincón--Juan 
 1757,JUAREZ OCHOA--BENITO,tam,5,32,1926-1928,RUIZ--JENARO G.,Mayoria,,,Tamaulipas,Juárez Ochoa--Benito 
-1758,AGUIRRE LEON--FRANCISCO,tla,1,32,1926-1928,GONZALEZ--DAVID,Mayoria,,dudas,Tlaxcala,Aguirre León--Francisco 
+1758,AGUIRRE LEON--FRANCISCO,tla,1,32,1926-1928,GONZALEZ--DAVID,Mayoria,,mismo que aguirre leon de mex?,Tlaxcala,Aguirre León--Francisco 
 1759,GARCIA MOISES--ROSALIO,tla,2,32,1926-1928,RAMIREZ--ROSENDO,Mayoria,5577,,Tlaxcala,García Moisés--Rosalío 
 1760,AGUILAR--INES,tla,3,32,1926-1928,SOLIS--ALEJANDRO,Mayoria,479,,Tlaxcala,Aguilar--Inés 
 1761,MARQUEZ--LUIS G.,ver,1,32,1926-1928,ALVAREZ--MACARIO G.,Mayoria,,,Veracruz,Márquez--Luis G. 
@@ -1769,12 +1769,12 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1768,MORA--RAMON C.,ver,8,32,1926-1928,JUAREZ--HERIBERTO,Mayoria,,,Veracruz,Mora--Ramón C. 
 1769,GARRIDO--EDUARDO F.,ver,9,32,1926-1928,SANCHEZ--MIGUEL M.,Mayoria,3405,,Veracruz,Garrido--Eduardo F. 
 1770,SOTO--ENRIQUE L.,ver,10,32,1926-1928,GACUAN--FLAVIO D.,Mayoria,,,Veracruz,Soto--Enrique L. 
-1771,GONZALEZ--FRANCISCO J.,ver,11,32,1926-1928,HERNANDEZ--BARAQUIEL,Mayoria,,dudas revisar,Veracruz,González--Francisco J. 
+1771,GONZALEZ--FRANCISCO J.,ver,11,32,1926-1928,HERNANDEZ--BARAQUIEL,Mayoria,,francisco = francisco j?,Veracruz,González--Francisco J. 
 1772,ARAIZA--JOSE J.,ver,12,32,1926-1928,RUIZ--PRISCILIANO,Mayoria,,,Veracruz,Araiza--José J. 
 1773,FERNANDEZ PINTO--ASCANIO,ver,13,32,1926-1928,ROJAS--ANTONIO B.,Mayoria,,,Veracruz,Fernández Pinto--Ascanio 
 1774,MENDEZ--ALBERTO,ver,14,32,1926-1928,SIERRA--ARNULFO,Mayoria,,sin info,Veracruz,Méndez--Alberto 
 1775,VILLEGAS--TEODORO E.,ver,15,32,1926-1928,MENDIVIL--ALFONSO,Mayoria,,,Veracruz,Villegas--Teodoro E. 
-1776,RODRIGUEZ--GUILLERMO,ver,16,32,1926-1928,RUIZ--RAUL,Mayoria,,Revisado,Veracruz,Rodríguez--Guillermo 
+1776,RODRIGUEZ--GUILLERMO,ver,16,32,1926-1928,RUIZ--RAUL,Mayoria,,,Veracruz,Rodríguez--Guillermo 
 1777,PALAZUELOS LEYCEGUI--PEDRO,ver,17,32,1926-1928,MADRID--PEDRO,Mayoria,,,Veracruz,Palazuelos Leycegui--Pedro    
 1778,CORTINA--EDUARDO,ver,18,32,1926-1928,VENEGAS--ANGEL,Mayoria,,,Veracruz,Cortina--Eduardo 
 1779,RODRIGUEZ--PEDRO C.,ver,19,32,1926-1928,ESPINOZA--FRANCISCO E.,Mayoria,,,Veracruz,Rodríguez--Pedro C. 
@@ -1831,7 +1831,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1830,DE SARACHO--ARTURO,df,5,33,1928-1930,GUTIERREZ--JOSE MARIA,PO Mayoria,5349,,Distrito Federal,Saracho--Arturo de  
 1831,MEDINA--ENRIQUE,df,6,33,1928-1930,QUEVEDO--PEDRO,CI Mayoria,,sin info,Distrito Federal,Medina--Enrique    
 1832,ROMANDIA FERREIRA--ALFONSO,df,7,33,1928-1930,NORIEGA HOPE--CARLOS,PO Mayoria,4955,,Distrito Federal,Romandía Ferreira--Alfonso     
-1833,ENCINAS--ADALBERTO,df,8,33,1928-1930,AGUILAR G.--ALFONSO,PO Mayoria,7421,dudas,Distrito Federal,Encinas--Adalberto      
+1833,ENCINAS--ADALBERTO,df,8,33,1928-1930,AGUILAR G.--ALFONSO,PO Mayoria,7421,mismo que el de son?,Distrito Federal,Encinas--Adalberto      
 1834,SANCHEZ LIRA--RAFAEL,df,9,33,1928-1930,SANCHEZ L.--ADOLFO,PLM Mayoria,,,Distrito Federal,Sánchez Lira--Rafael    
 1835,PRIETO--ERNESTO,df,10,33,1928-1930,ROBLES--MANUEL,CI Mayoria,,,Distrito Federal,Prieto--Ernesto  
 1836,TOPETE--RICARDO,df,11,33,1928-1930,RIVAS--FRANCISCO U.,PO Mayoria,11687,Topete Almada,Distrito Federal,Topete--Ricardo    
@@ -1937,7 +1937,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1936,MENDEZ--LUIS,mic,8,33,1928-1930,HERNANDEZ--SANTIAGO,Mayoria,,,Michoacan,Méndez--Luis   
 1937,GAITAN--JOSE,mic,9,33,1928-1930,MONTAÑO--FEDERICO,Mayoria,,,Michoacan,Gaitán--José     
 1938,PINEDA--EFRAIN,mic,10,33,1928-1930,RICO--ALEJANDRO,UPSM Mayoria,,,Michoacan,Pineda--Efraín  
-1939,ORTEGA--MELCHOR,mic,11,33,1928-1930,PAZ--LEOBARDO,Mayoria,,Revisado (Ai Camp),Michoacan,Ortega--Melchor  
+1939,ORTEGA--MELCHOR,mic,11,33,1928-1930,PAZ--LEOBARDO,Mayoria,,,Michoacan,Ortega--Melchor  
 1940,HURTADO--SILVIANO,mic,12,33,1928-1930,HURTADO Z.--JESUS,Mayoria,,sin info,Michoacan,Hurtado--Silviano    
 1941,CARRANZA--GABINO,mic,13,33,1928-1930,RUIZ F.--ANTONIO,UPSM Mayoria,1255,,Michoacan,Carranza--Gabino   
 1942,MURATALLA TORRES--AUSTREBERTO,mic,13,33,1928-1930,ALCALA PULIDO--IGNACIO,Mayoria,,,Michoacan,Muratalla Torres--Austreberto  
@@ -1964,11 +1964,11 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1963,MAYORAL PARDO--LORENZO,oax,3,33,1928-1930,ALVAREZ--GUSTAVO,PSO Mayoria,,,Oaxaca,Mayoral Pardo--Lorenzo  
 1964,MEIXUEIRO--JORGE,oax,5,33,1928-1930,LOPEZ--JUSTO,Mayoria,9260,,Oaxaca,Meixueiro--Jorge     
 1965,GARCIA RAMOS--JOSE,oax,6,33,1928-1930,LUNA--RICARDO,Mayoria,,,Oaxaca,García Ramos--José   
-1966,SAINZ--ALBERTO,oax,7,33,1928-1930,JIMENEZ MADRIGAL--OTILIO,PSO Mayoria,,dudas,Oaxaca,Sáinz--Alberto
+1966,SAINZ--ALBERTO,oax,7,33,1928-1930,JIMENEZ MADRIGAL--OTILIO,PSO Mayoria,,mismo que sainz alberto de son?,Oaxaca,Sáinz--Alberto
 1967,MELGAR--RAFAEL E.,oax,8,33,1928-1930,SANTAELLA ODRIOZOLA--MANUEL,PSO Mayoria,,,Oaxaca,Melgar--Rafael E.  
 1968,VAZQUEZ--MAURO M.,oax,9,33,1928-1930,QUIROGA--GUSTAVO,PSO Mayoria,,,Oaxaca,Vázquez--Mauro M. 
 1969,BOLAÑOS CACHO--DEMETRIO,oax,10,33,1928-1930,DIAZ CHAVEZ--MANUEL,Mayoria,,,Oaxaca,Bolaños Cacho--Demetrio   
-1970,RAMIREZ--ALFONSO FRANCISCO,oax,12,33,1928-1930,RAMIREZ--DAVID F.,PSO Mayoria,,dudas revisar,Oaxaca,Ramírez--Alfonso Francisco     
+1970,RAMIREZ--ALFONSO FRANCISCO,oax,12,33,1928-1930,RAMIREZ--DAVID F.,PSO Mayoria,,alfonso f.?,Oaxaca,Ramírez--Alfonso Francisco     
 1971,JIMENEZ--ANTOLIN,oax,13,33,1928-1930,ROBLES--BELISARIO,PSO Mayoria,,,Oaxaca,Jiménez--Antolín   
 1972,MELGAR--LEOPOLDO,oax,14,33,1928-1930,RIVERO--ROBERTO,Mayoria,,,Oaxaca,Melgar--Leopoldo  
 1973,ARLANZON--FRANCISCO,oax,15,33,1928-1930,ESTEVES--VULFRANO,PSO Mayoria,,,Oaxaca,Arlanzón--Francisco    
@@ -1977,12 +1977,12 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1976,FUENTES B.--AMADO,oax,19,33,1928-1930,RODAS--MARIANO,Mayoria,6749,,Oaxaca,Fuentes B.--Amado    
 1977,ROCHIN--CONRADO C.,pue,1,33,1928-1930,MUÑOZ--MIGUEL G.,PSP Mayoria,,,Puebla,Rochín--Conrado C.    
 1978,GONZALEZ--GONZALO E.,pue,2,33,1928-1930,SALAS--ALFONSO R.,Mayoria,,gonzalo = gonzalo e.?,Puebla,González--Gonzalo E.
-1979,CARDENAS--RAFAEL,pue,3,33,1928-1930,GUTIERREZ--RICARDO,Mayoria,,dudas,Puebla,Cárdenas--Rafael   
+1979,CARDENAS--RAFAEL,pue,3,33,1928-1930,GUTIERREZ--RICARDO,Mayoria,,mismo que el de df?,Puebla,Cárdenas--Rafael   
 1980,MONTES--ANTONIO,pue,4,33,1928-1930,CORDERO--MIGUEL,Mayoria,,,Puebla,Montes--Antonio   
 1981,MORENO--JOSE LUIS,pue,5,33,1928-1930,CORDERO--BUENAVENTURA,Mayoria,,,Puebla,Moreno--José Luis 
 1982,ARABILLAS--MANUEL,pue,6,33,1928-1930,SARMIENTO--LUIS A.,Mayoria,,,Puebla,Arabillas--Manuel   
 1983,BAUTISTA--GONZALO,pue,7,33,1928-1930,VALDEZ BRAVO--MANUEL,Mayoria,,,Puebla,Bautista--Gonzalo   
-1984,ANDREW ALMAZAN--MIGUEL,pue,8,33,1928-1930,IBARRA--JUAN,Mayoria,,Revisado (Wikipedia) Andreu,Puebla,Andrew Almazán--Miguel    
+1984,ANDREW ALMAZAN--MIGUEL,pue,8,33,1928-1930,IBARRA--JUAN,Mayoria,,Andreu es hermano de Juan Andreu,Puebla,Andrew Almazán--Miguel    
 1985,REYES MARQUEZ--RICARDO,pue,9,33,1928-1930,MORALES--ENRIQUE,Mayoria,,,Puebla,Reyes Márquez--Ricardo    
 1986,MORA--IGNACIO DE LA,pue,10,33,1928-1930,HERNANDEZ CHAZARO--LUIS,Mayoria,,,Puebla,Mora--Ignacio de la  
 1987,BRAVO IZQUIERDO--JOSE,pue,11,33,1928-1930,MONTES DE OCA--ENRIQUE,PNA Mayoria,4916,donato = jose,Puebla,Bravo Izquierdo--José    
@@ -1997,12 +1997,12 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1996,MARQUEZ GALINDO--RICARDO,pue,20,33,1928-1930,SANCHEZ--JOB,Mayoria,,,Puebla,Márquez Galindo--Ricardo 
 1997,IBAÑEZ--CRISOFORO,pue,21,33,1928-1930,SANTOS M.--MOISES,Mayoria,,,Puebla,Ibáñez--Crisóforo    
 1998,TORREBLANCA--RODOLFO,que,1,33,1928-1930,GUERRERO--AMBROSIO,Mayoria,,,Queretaro,Torreblanca--Rodolfo   
-1999,ESCAMILLA--FERNANDO E.,que,2,33,1928-1930,MONTES DE OCA--PABLO S.,Mayoria,,dudas,Queretaro,Escamilla--Fernando E.   
+1999,ESCAMILLA--FERNANDO E.,que,2,33,1928-1930,MONTES DE OCA--PABLO S.,Mayoria,,mismo que el de mex?,Queretaro,Escamilla--Fernando E.   
 2000,MENDOZA--DANIEL,que,3,33,1928-1930,NIETO CAMACHO--ALFREDO,Mayoria,,,Queretaro,Mendoza--Daniel    
 2001,GUERRERO--AMBROSIO,que,4,33,1928-1930,TREJO--OTILIO,Mayoria,5141,,Queretaro,Guerrero--Ambrosio     
 2002,ABITIA--LIBRADO,qui,0,33,1928-1930,OROZCO--ALFONSO,Mayoria,,,Quintana Roo,Abitia--Librado    
 2003,SANTOS ALONSO--JOSE,san,1,33,1928-1930,ORTIZ--LEOPOLDINO J.,Mayoria,,alonso es apellido o nombre?,San Luis Potosi,Santos Alonso--José  
-2004,DIAZ SOTO Y GAMA--ANTONIO,san,2,33,1928-1930,AGUILAR--VALENTIN,Mayoria,,Revisado (Ai Camp),San Luis Potosi,Díaz Soto y Gama--Antonio     
+2004,DIAZ SOTO Y GAMA--ANTONIO,san,2,33,1928-1930,AGUILAR--VALENTIN,Mayoria,,confirmado en Ai Camp,San Luis Potosi,Díaz Soto y Gama--Antonio     
 2005,TAPIA--TOMAS,san,3,33,1928-1930,MARTINEZ MACIAS--ERNESTO,Mayoria,,,San Luis Potosi,Tapia--Tomás   
 2006,CASTILLO--EPIFANIO,san,4,33,1928-1930,GUERRERO--ROMULO,Mayoria,,,San Luis Potosi,Castillo--Epifanio    
 2007,GARCIA PEDRAZA--ANTONIO,san,5,33,1928-1930,SALAZAR--TEODORO,Mayoria,,,San Luis Potosi,García Pedraza--Antonio    
@@ -2010,7 +2010,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 2009,ORTA--MANUEL,san,7,33,1928-1930,TORRE--DAGOBERTO DE LA,Mayoria,,,San Luis Potosi,Orta--Manuel  
 2010,MOCTEZUMA--FERNANDO,san,8,33,1928-1930,SEGURA--ESTEBAN,Mayoria,,,San Luis Potosi,Moctezuma--Fernando  
 2011,PLANCARTE--ALFONSO E.,san,9,33,1928-1930,VELAZQUEZ--JORGE,Mayoria,,,San Luis Potosi,Plancarte--Alfonso E.   
-2012,SANTOS--GONZALO N.,san,10,33,1928-1930,ROMERO--BRAULIO M.,Mayoria,,Revisado (Wikipedia),San Luis Potosi,Santos--Gonzalo N.  
+2012,SANTOS--GONZALO N.,san,10,33,1928-1930,ROMERO--BRAULIO M.,Mayoria,,,San Luis Potosi,Santos--Gonzalo N.  
 2013,AZUARA--JUAN ENRIQUE,san,11,33,1928-1930,ZARATE--ANDRES,Mayoria,,,San Luis Potosi,Azuara--Juan Enrique   
 2014,SALAZAR--MARCIANO C.,san,12,33,1928-1930,REYES--ELFEGO,Mayoria,,,San Luis Potosi,Salazar--Marciano C.   
 2015,RIVERA--FRANCISCO A.,sin,1,33,1928-1930,TERRAZAS JR.--IGNACIO,Mayoria,,,Sinaloa,Rivera--Francisco A.  
@@ -2042,11 +2042,11 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 2041,MEZA--ENRIQUE,ver,3,33,1928-1930,AVILA JR.--EUGENIO,Mayoria,,,Veracruz,Meza--Enrique  
 2042,SARIOL--JUAN B.,ver,4,33,1928-1930,BARRANCO--MIGUEL,Mayoria,,,Veracruz,Sariol--Juan B. 
 2043,GOMEZ--ANDRES E.,ver,5,33,1928-1930,CABRERA--ANTONIO,Mayoria,,,Veracruz,Gómez--Andrés E.    
-2044,CERISOLA--ALEJANDRO,ver,6,33,1928-1930,,PSVOC Mayoria,,Suplente: Victor Gudini (Ai Camp),Veracruz,Cerisola--Alejandro    
+2044,CERISOLA--ALEJANDRO,ver,6,33,1928-1930,,PSVOC Mayoria,,,Veracruz,Cerisola--Alejandro    
 2045,SIERRA--LUIS DE LA,ver,7,33,1928-1930,MARQUEZ--JOSAFAT,PSVOC Mayoria,,,Veracruz,Sierra--Luis de La  
 2046,MORA--RAMON C.,ver,8,33,1928-1930,GUZMAN CARRILLO--ROBERTO,Mayoria,,,Veracruz,Mora--Ramón C.    
 2047,SOTO--ENRIQUE L.,ver,9,33,1928-1930,AGUILAR JR.--RAFAEL,PSVOC Mayoria,,,Veracruz,Soto--Enrique L.   
-2048,RODRIGUEZ--GUILLERMO,ver,10,33,1928-1930,ALARCON--JOAQUIN,Mayoria,,Revisado,Veracruz,Rodríguez--Guillermo  
+2048,RODRIGUEZ--GUILLERMO,ver,10,33,1928-1930,ALARCON--JOAQUIN,Mayoria,,,Veracruz,Rodríguez--Guillermo  
 2049,SOLIS DOMINGUEZ--MODESTO,ver,11,33,1928-1930,GARCIA QUEVEDO--ANTONIO,Mayoria,,,Veracruz,Solís Domínguez--Modesto  
 2050,AGUILLON GUZMAN--GABRIEL,ver,12,33,1928-1930,LOYO--VICENTE,Mayoria,,,Veracruz,Aguillón Guzmán--Gabriel    
 2051,MORENO SALIDO--JOSE,ver,13,33,1928-1930,MADRAZO--HILARION,Mayoria,,sin info,Veracruz,Moreno Salido--José  
@@ -2069,12 +2069,12 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 2068,AGUILERA--GUILLERMO C.,zac,3,33,1928-1930,DELGADO--ENRIQUE,Mayoria,,,Zacatecas,Aguilera--Guillermo C.    
 2069,GARCIA--LEON,zac,4,33,1928-1930,TALAMANTES--EPIGMENIO,Mayoria,,,Zacatecas,García--León   
 2070,MACIAS--GABRIEL,zac,5,33,1928-1930,DAVILA--LUIS,Mayoria,,,Zacatecas,Macías--Gabriel  
-2071,LIZALDE--JUAN RAMON,zac,6,33,1928-1930,HERRERA--REYNALDO,Mayoria,,dudas revisar,Zacatecas,Lizalde--Juan Ramón     
+2071,LIZALDE--JUAN RAMON,zac,6,33,1928-1930,HERRERA--REYNALDO,Mayoria,,juan r = juan ramon?,Zacatecas,Lizalde--Juan Ramón     
 2072,LUNA E.--J. JESUS,zac,7,33,1928-1930,RODRIGUEZ--LADISLAO E.,Mayoria,,,Zacatecas,Luna E.--J. Jesús    
 2073,AGUILAR--JUAN ZENON,zac,8,33,1928-1930,SERRANO--FRANCISCO,Mayoria,,,Zacatecas,Aguilar--Juan Zenón     
 2074,ALVARADO--JUAN G.,ags,1,34,1930-1932,LOERA--JOSE,Mayoria,,,Aguascalientes,Alvarado--Juan G. 
 2075,QUEVEDO--PEDRO,ags,2,34,1930-1932,DEL VALLE--ALBERTO,PNR Mayoria,,,Aguascalientes,Quevedo--Pedro 
-2076,DAVILA--JOSE MARIA,bcn,1,34,1930-1932,MONTER--MANUEL,PNR Mayoria,,dudas,Baja California Norte,Dávila--José María 
+2076,DAVILA--JOSE MARIA,bcn,1,34,1930-1932,MONTER--MANUEL,PNR Mayoria,,mismo que davila jose maria de df?,Baja California Norte,Dávila--José María 
 2077,CORNEJO--IGNACIO L.,bcn,2,34,1930-1932,MALDONADO--BRAULIO,Mayoria,,,Baja California Norte,Cornejo--Ignacio L.
 2078,CASTILLO LANZ--ANGEL,cam,1,34,1930-1932,SOTELO R.--LUIS F.,PNR Mayoria,,,Campeche,Castillo Lanz--Angel 
 2079,BOJORQUEZ CASTILLO--FAUSTO,cam,2,34,1930-1932,ABREU Y ABREU--ARMANDO,Mayoria,,,Campeche,Bojórquez Castillo--Fausto 
@@ -2097,7 +2097,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 2096,LOZANO--ISMAEL M.,df,3,34,1930-1932,LAFON--JULIAN B.,PNR Mayoria,8169,,Distrito Federal,Lozano--Ismael M. 
 2097,MORALES HESSE--JOSE,df,4,34,1930-1932,CANCINO GOMEZ--ISAAC,PNR Mayoria,15236,revisar,Distrito Federal,Morales Hesse--José
 2098,SALAS--ISMAEL,df,5,34,1930-1932,LUNA SANCHEZ--JOSE DE,PNR Mayoria,8524,,Distrito Federal,Salas--Ismael 
-2099,PEREZ GIL Y ORTIZ--JOSE,df,6,34,1930-1932,MACIAS SUAZA--FRANCISCO,PNR Mayoria,7297,Revisado,Distrito Federal,Pérez Gil y Ortíz--José 
+2099,PEREZ GIL Y ORTIZ--JOSE,df,6,34,1930-1932,MACIAS SUAZA--FRANCISCO,PNR Mayoria,7297,vida pasa por mic y df,Distrito Federal,Pérez Gil y Ortíz--José 
 2100,MIER Y RIVAPALACIO--COSME,df,7,34,1930-1932,LINARES G.--FERNANDO,PNR Mayoria,20425,,Distrito Federal,Mier y Rivapalacio--Cosme
 2101,ALTAMIRANO--TIBURCIO G.,df,8,34,1930-1932,VELASCO--RAUL G.,PNR Mayoria,17498,,Distrito Federal,Altamirano--Tiburcio G. 
 2102,TORRES H.--JOSE,df,9,34,1930-1932,MEDINA--LUIS,PNR Mayoria,18905,,Distrito Federal,Torres H.--José 
@@ -2118,8 +2118,8 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 2117,RUEDA BRAVO--JOSE,gue,3,34,1930-1932,CALVO U.--AMBROSIO,Mayoria,,,Guerrero,Rueda Bravo--José 
 2118,MOYADO B.--ANTONIO,gue,4,34,1930-1932,RAMIREZ RAYON--GONZALO,Mayoria,,,Guerrero,Moyado B.--Antonio 
 2119,BOLAÑOS OCAMPO--N.,gue,5,34,1930-1932,OJEDA--NABOR A.,Mayoria,,,Guerrero,Bolaños Ocampo--N. 
-2120,REYNOSO DIAZ--LEOPOLDO,gue,6,34,1930-1932,LOPEZ--MANUEL M.,PNA Mayoria,,Revisado (Ai Camp),Guerrero,Reynoso Díaz--Leopoldo 
-2121,RIVERA--JOSE,hgo,1,34,1930-1932,GUERRERO--J. REFUGIO,Mayoria,,revisar,Hidalgo,Rivera--José 
+2120,REYNOSO DIAZ--LEOPOLDO,gue,6,34,1930-1932,LOPEZ--MANUEL M.,PNA Mayoria,,dip por morelos y gue (Ai Camp),Guerrero,Reynoso Díaz--Leopoldo 
+2121,RIVERA--JOSE,hgo,1,34,1930-1932,GUERRERO--J. REFUGIO,Mayoria,,dudas si es el mismo de pue,Hidalgo,Rivera--José 
 2122,OLIVARES--DANIEL,hgo,2,34,1930-1932,MARAÑON--JUAN,PNR Mayoria,,,Hidalgo,Olivares--Daniel 
 2123,VELAZQUEZ MENDEZ--CARLOS,hgo,3,34,1930-1932,GOMEZ--MARGARITO,Mayoria,,,Hidalgo,Velázquez Méndez--Carlos 
 2124,VIVEROS--ERNESTO,hgo,4,34,1930-1932,OSORIO--WILFRIDO,Mayoria,,,Hidalgo,Viveros--Ernesto 
@@ -2153,7 +2153,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 2152,HURTADO--SILVIANO,mic,6,34,1930-1932,SUMAYA--LUIS G.,Mayoria,,sin info,Michoacan,Hurtado--Silviano
 2153,PINEDA--EFRAIN,mic,7,34,1930-1932,CORNEJO V.--J. JESUS,PNR Mayoria,,,Michoacan,Pineda--Efraín 
 2154,AVILES--MANUEL,mic,8,34,1930-1932,LANDA Y PIÑA--ANDRES,Mayoria,,,Michoacan,Avilés--Manuel 
-2155,CARREON--DONACIANO,mic,9,34,1930-1932,CARRILLO--JUAN MANUEL,PNR Mayoria,,dudas,Michoacan,Carreón--Donaciano 
+2155,CARREON--DONACIANO,mic,9,34,1930-1932,CARRILLO--JUAN MANUEL,PNR Mayoria,,mismo que el de df?,Michoacan,Carreón--Donaciano 
 2156,PINEDA--J. GUADALUPE,mor,1,34,1930-1932,ALARCON--FRANCISCO,PNR Mayoria,,,Morelos,Pineda--J. Guadalupe 
 2157,HEREDIA--LEOPOLDO,mor,2,34,1930-1932,PINEDA E.--JUVENTINO,Mayoria,,,Morelos,Heredia--Leopoldo
 2158,TREJO--FRANCISCO,nay,1,34,1930-1932,HERNANDEZ--LUIS G.,PNR Mayoria,,,Nayarit,Trejo--Francisco 
@@ -2175,7 +2175,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 2174,CHAVEZ--BERNARDO,pue,2,34,1930-1932,SALAS--TELESFORO,Mayoria,,,Puebla,Chávez--Bernardo 
 2175,MONTES--ANTONIO,pue,3,34,1930-1932,RIVERA--MANUEL,PNR Mayoria,,,Puebla,Montes--Antonio
 2176,GONZALEZ--FERNANDO R.,pue,4,34,1930-1932,IBARRA--SALVADOR FIDEL,PNR Mayoria,,,Puebla,González--Fernando R. 
-2177,DIAZ--FERMIN E.,pue,5,34,1930-1932,IBARRA--GUILLERMO,Mayoria,,dudas,Puebla,Díaz--Fermín E. 
+2177,DIAZ--FERMIN E.,pue,5,34,1930-1932,IBARRA--GUILLERMO,Mayoria,,mismo que el de oax?,Puebla,Díaz--Fermín E. 
 2178,BAUTISTA--GONZALO,pue,6,34,1930-1932,CASTILLO--PAULINO B.,PNR Mayoria,,,Puebla,Bautista--Gonzalo
 2179,DELGADO--JUAN R.,pue,7,34,1930-1932,CASILLAS--CALIXTO,PNR Mayoria,,,Puebla,Delgado--Juan R. 
 2180,ARADILLAS--MANUEL,pue,8,34,1930-1932,MONTES DE OCA--ENRIQUE,PNR Mayoria,,,Puebla,Aradillas--Manuel 
@@ -2186,7 +2186,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 2185,SUAREZ ESCALANTE--RICARDO,qui,0,34,1930-1932,JUNCO C.--MANUEL,Mayoria,,,Quintana Roo,Suárez Escalante--Ricardo 
 2186,SANTOS--ALONSO JOSE,san,1,34,1930-1932,ZARATE ORTEGA--RANULFO,PNR Mayoria,,alonso es apellido o nombre?,San Luis Potosi,Santos--Alonso José 
 2187,SALAZAR--MARCIANO C.,san,2,34,1930-1932,ZARATE S.--ANDRES,Mayoria,,,San Luis Potosi,Salazar--Marciano C. 
-2188,SANTOS--GONZALO N.,san,3,34,1930-1932,AZUARA--JUAN ENRIQUE,PNR Mayoria,,Revisado (Wikipedia),San Luis Potosi,Santos--Gonzalo N. 
+2188,SANTOS--GONZALO N.,san,3,34,1930-1932,AZUARA--JUAN ENRIQUE,PNR Mayoria,,,San Luis Potosi,Santos--Gonzalo N. 
 2189,MOCTEZUMA--FERNANDO,san,4,34,1930-1932,ORTA--MANUEL,PNR Mayoria,,,San Luis Potosi,Moctezuma--Fernando 
 2190,CASTILLO--EPIFANIO,san,5,34,1930-1932,GALVAN--FLORENCIO,Mayoria,,,San Luis Potosi,Castillo--Epifanio 
 2191,TAPIA--TOMAS,san,6,34,1930-1932,GARCIA--PILAR,PNR Mayoria,11300,,San Luis Potosi,Tapia--Tomás 
@@ -2207,7 +2207,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 2206,MARQUEZ--LUIS G.,ver,1,34,1930-1932,COSS--SALVADOR,Mayoria,,,Veracruz,Márquez--Luis G. 
 2207,BARRANCO--AGAPITO,ver,2,34,1930-1932,MORALES--ONOFRE,Mayoria,,,Veracruz,Barranco--Agapito 
 2208,CERISOLA--ALEJANDRO,ver,3,34,1930-1932,ALDANA--EUSTORGIO,PNR Mayoria,,,Veracruz,Cerisola--Alejandro 
-2209,RODRIGUEZ--GUILLERMO,ver,4,34,1930-1932,HERRERA--LONGINOS,Mayoria,,Revisado,Veracruz,Rodríguez--Guillermo 
+2209,RODRIGUEZ--GUILLERMO,ver,4,34,1930-1932,HERRERA--LONGINOS,Mayoria,,,Veracruz,Rodríguez--Guillermo 
 2210,JASSO--MANUEL,ver,5,34,1930-1932,ACOSTA--ISAURO,PNR Mayoria,,,Veracruz,Jasso--Manuel 
 2211,SOTO--ENRIQUE L.,ver,6,34,1930-1932,ALMANZA--MANUEL,PNR Mayoria,,,Veracruz,Soto--Enrique L. 
 2212,SOLIS DOMINGUEZ--MODESTO,ver,7,34,1930-1932,ZAPATA VELA--CARLOS,Mayoria,,,Veracruz,Solís Domínguez--Modesto 
@@ -2247,16 +2247,16 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 2246,TRIGO--OCTAVIO M.,cua,3,35,1932-1934,AGUILAR A.--JULIAN,PNR Mayoria,,,Chihuahua,Trigo--Octavio M.
 2247,ALMEIDA--FRANCISCO R.,cua,4,35,1932-1934,CHAPARRO--EFRAIN,PNR Mayoria,,,Chihuahua,Almeida--Francisco R.
 2248,POSADA--ANGEL,cua,5,35,1932-1934,OROS Y OROS--ABRAHAM,PNR Mayoria,,,Chihuahua,Posada--Angel
-2249,LEON--LUIS L.,df,1,35,1932-1934,ZAMUDIO--RODOLFO,PNR Mayoria,14110,revisar,Distrito Federal,León--Luis L.
+2249,LEON--LUIS L.,df,1,35,1932-1934,ZAMUDIO--RODOLFO,PNR Mayoria,14110,,Distrito Federal,León--Luis L.
 2250,MORALES HESSE--JOSE,df,2,35,1932-1934,CANCINO GOMEZ--ISAAC,PNR Mayoria,9351,revisar,Distrito Federal,Morales Hesse--José
 2251,LOZANO--ISMAEL M.,df,3,35,1932-1934,OLVERA C.--ANGEL,PNR Mayoria,,,Distrito Federal,Lozano--Ismael M.
 2252,SALAS--ISMAEL,df,4,35,1932-1934,TORRES--CARLOS,PNR Mayoria,8905,,Distrito Federal,Salas--Ismael
 2253,BENEITEZ--VICENTE L.,df,5,35,1932-1934,CASTILLO--JACINTO,PNR Mayoria,8965,beneites ok,Distrito Federal,Benéitez--Vicente L.
 2254,ORTEGA--LAMBERTO,df,6,35,1932-1934,ALCARAZ MACIAS--LUIS,PNR Mayoria,10155,,Distrito Federal,Ortega--Lamberto
 2255,VILLARREAL JR.--SAMUEL,df,7,35,1932-1934,GALLARDO--JOSE,PNR Mayoria,8960,,Distrito Federal,Villarreal Jr.--Samuel
-2256,DAVILA--JOSE MARIA,df,8,35,1932-1934,CALDERON--CARLOS A.,PNR Mayoria,9145,dudas,Distrito Federal,Dávila--José María
+2256,DAVILA--JOSE MARIA,df,8,35,1932-1934,CALDERON--CARLOS A.,PNR Mayoria,9145,mismo que davila jose maria de bcn?,Distrito Federal,Dávila--José María
 2257,MIER Y RIVAPALACIO--COSME,df,9,35,1932-1934,TORRIJOS--MACLOVIO,PNR Mayoria,8981,,Distrito Federal,Mier y Rivapalacio--Cosme
-2258,TORRES H.--JOSE,df,10,35,1932-1934,CALDERAS--FACUNDO,PNR Mayoria,12780,dudas revisar,Distrito Federal,Torres H.--José
+2258,TORRES H.--JOSE,df,10,35,1932-1934,CALDERAS--FACUNDO,PNR Mayoria,12780,mariano?,Distrito Federal,Torres H.--José
 2259,ZARRAGA--GUILLERMO,df,11,35,1932-1934,GALAN--ARTURO,PNR Mayoria,13535,,Distrito Federal,Zárraga--Guillermo
 2260,ROBINSON--TOMAS A.,df,12,35,1932-1934,JIMENEZ CHAVEZ--AGUSTIN,PNR Mayoria,,,Distrito Federal,Robinson--Tomás A.
 2261,ALBIZTEVI--JOSE ALEJANDRO,dgo,1,35,1932-1934,ARELLANO--GUILLERMO,PNR Mayoria,,,Durango,Albiztevi--José Alejandro
@@ -2264,7 +2264,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 2263,ARENAS--FERNANDO,dgo,3,35,1932-1934,TAVIZON--JOSE,PNR Mayoria,7958,,Durango,Arenas--Fernando
 2264,ANTUNA LOPEZ--ALEJANDRO,dgo,4,35,1932-1934,FABELA PEIMBERT--ENRIQUE,Mayoria,5127,antuna lopez = antuna?,Durango,Antuna López--Alejandro
 2265,FERNANDEZ--ALFONSO,gua,1,35,1932-1934,CHAGOYAN--ALFREDO,PNR Mayoria,9321,,Guanajuato,Fernández--Alfonso
-2266,ORTEGA--MELCHOR,gua,2,35,1932-1934,RODRIGUEZ C.--JOSE,PNR Mayoria,,Revisado (Ai Camp),Guanajuato,Ortega--Melchor
+2266,ORTEGA--MELCHOR,gua,2,35,1932-1934,RODRIGUEZ C.--JOSE,PNR Mayoria,,dip por mic y gua (Ai Camp),Guanajuato,Ortega--Melchor
 2267,ALVAREZ--EPIGMENIO,gua,3,35,1932-1934,GONZALEZ--ALFONSO,PNR Mayoria,,,Guanajuato,Alvarez--Epigmenio
 2268,MONTES--FEDERICO,gua,4,35,1932-1934,ARANDA--CATARINO B.,PNR Mayoria,,,Guanajuato,Montes--Federico
 2269,YAÑEZ MAYA--J. JESUS,gua,5,35,1932-1934,RUIZ--J. MELQUIADES,PNR Mayoria,,,Guanajuato,Yáñez Maya--J. Jesús
@@ -2281,7 +2281,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 2280,TAPIA ALARCON--ANGEL,gue,6,35,1932-1934,RADILLA--FELICIANO,PNR Mayoria,,,Guerrero,Tapia Alarcón--Angel
 2281,VELAZQUEZ MENDEZ--CARLOS,hgo,1,35,1932-1934,ENRIQUEZ--RAYMUNDO,PNR Mayoria,13411,,Hidalgo,Velázquez Méndez--Carlos
 2282,ORDAZ H.--AMBROSIO,hgo,2,35,1932-1934,OLIVARES--DANIEL,PNR Mayoria,,,Hidalgo,Ordaz H.--Ambrosio
-2283,RIVERA--JOSE,hgo,3,35,1932-1934,MENDOZA--FRANCISCO,PNR Mayoria,,revisar,Hidalgo,Rivera--José
+2283,RIVERA--JOSE,hgo,3,35,1932-1934,MENDOZA--FRANCISCO,PNR Mayoria,,,Hidalgo,Rivera--José
 2284,CORNEJO--ARCADIO,hgo,4,35,1932-1934,BECERRA--EUSTOLIO,PNR Mayoria,,,Hidalgo,Cornejo--Arcadio
 2285,LUGO GUERRERO--JOSE,hgo,5,35,1932-1934,RAMIREZ--LEONARDO,PNR Mayoria,,,Hidalgo,Lugo Guerrero--José
 2286,VILLEGAS--OTILIO,hgo,6,35,1932-1934,MORALES--PASCUAL,PNR Mayoria,,,Hidalgo,Villegas--Otilio
@@ -2358,7 +2358,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 2357,GARCIA PEDRAZA--ANTONIO,san,3,35,1932-1934,BERRONES--EPIFANIO,PNR Mayoria,11173,,San Luis Potosi,García Pedraza--Antonio
 2358,TAPIA--TOMAS,san,4,35,1932-1934,GARCIA--PILAR,PNR Mayoria,,,San Luis Potosi,Tapia--Tomás
 2359,MOCTEZUMA--FERNANDO,san,5,35,1932-1934,HERNANDEZ--JOSE L.,PNR Mayoria,,,San Luis Potosi,Moctezuma--Fernando
-2360,SANTOS--GONZALO N.,san,6,35,1932-1934,AZUARA--JUAN ENRIQUE,PNR Mayoria,,Revisado (Wikipedia),San Luis Potosi,Santos--Gonzalo N.
+2360,SANTOS--GONZALO N.,san,6,35,1932-1934,AZUARA--JUAN ENRIQUE,PNR Mayoria,,,San Luis Potosi,Santos--Gonzalo N.
 2361,ZARATE SANCHEZ--ANDRES,san,7,35,1932-1934,SANCHEZ--GRACIANO,PNR Mayoria,,,San Luis Potosi,Zárate Sánchez--Andrés
 2362,DE SARACHO--JOSE R.,sin,1,35,1932-1934,RIVERA--CECILIO,PNR Mayoria,,,Sinaloa,Saracho--José R. de
 2363,AMEZQUITA--ANTONIO,sin,2,35,1932-1934,ABITIA--ELIGIO,PNR Mayoria,5058,,Sinaloa,Amézquita--Antonio
@@ -2374,7 +2374,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 2373,AGUIRRE SILLER--JESUS,tam,3,35,1932-1934,PERALTA--ANTONIO,PNR Mayoria,,,Tamaulipas,Aguirre Siller--Jesús
 2374,MENDOZA--SAMUEL,tla,1,35,1932-1934,MIXCOALT--LINO,Mayoria,,,Tlaxcala,Mendoza--Samuel
 2375,GARCIA--MOISES ROSALIO,tla,2,35,1932-1934,HERNANDEZ--MANUEL M.,Mayoria,,,Tlaxcala,García--Moisés Rosalío
-2376,RODRIGUEZ--GUILLERMO,ver,1,35,1932-1934,GONZALEZ CRUZ--MARIO,PNR Mayoria,10997,Revisado,Veracruz,Rodríguez--Guillermo
+2376,RODRIGUEZ--GUILLERMO,ver,1,35,1932-1934,GONZALEZ CRUZ--MARIO,PNR Mayoria,10997,,Veracruz,Rodríguez--Guillermo
 2377,BARRANCO--AGAPITO,ver,2,35,1932-1934,RAMIREZ--MIGUEL,Mayoria,,,Veracruz,Barranco--Agapito
 2378,MAPLES ARCE--MANUEL,ver,3,35,1932-1934,RABATTE--FRANCISCO,PNR Mayoria,,,Veracruz,Maples Arce--Manuel
 2379,MARQUEZ--LUIS G.,ver,4,35,1932-1934,BAUZA--CARLOS,PNR Mayoria,,,Veracruz,Márquez--Luis G.
@@ -2398,7 +2398,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 2397,PEREZ--PAULINO,zac,4,35,1932-1934,GUZMAN--ANTONIO G.,PNR Mayoria,,,Zacatecas,Pérez--Paulino
 2398,DE LARA--JOSE,ags,,36,1934-1937,,PNR,,,Aguascalientes,Lara--Joseí de 
 2399,VALDEZ--RAFAEL A.,ags,,36,1934-1937,,PNR,,,Aguascalientes,Valdez--Rafael A. 
-2400,RODRIGUEZ--JOSE MARIA,bcn,,36,1934-1937,,PNR,,Puede ser el mismo que RODRIGUEZ Y RODRIGUEZ.,Baja California Norte,Rodriíguez--Joseí Mariía 
+2400,RODRIGUEZ--JOSE MARIA,bcn,,36,1934-1937,,PNR,,puede ser el mismo que RODRIGUEZ Y RODRIGUEZ,Baja California Norte,Rodriíguez--Joseí Mariía 
 2401,RODRIGUEZ--LUIS I.,bcs,,36,1934-1937,,,,,Baja California Sur,Rodriíguez--Luis I. 
 2402,FLORES--RAMON FELIX,cam,,36,1934-1937,,,,,Campeche,Flores--Ramoín Feílix 
 2403,SOTELO REGIL--PABLO EMILIO,cam,,36,1934-1937,,PNR,,,Campeche,Sotelo Regil--Pablo Emilio 
@@ -2419,17 +2419,17 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 2418,ORTIZ--MAURILIO,cua,,36,1934-1937,,PNR,,,Chihuahua,Ortiz--Maurilio  
 2419,QUEVEDO--LORENZO E.,cua,,36,1934-1937,,PNR,,,Chihuahua,Quevedo--Lorenzo E. 
 2420,CALDERON--CARLOS A.,df,,36,1934-1937,,PNR,,,Distrito Federal,CalderÑn--Carlos A.
-2421,CARREON--DONACIANO,df,,36,1934-1937,,PNR,,dudas,Distrito Federal,Carreoín--Donaciano  
+2421,CARREON--DONACIANO,df,,36,1934-1937,,PNR,,mismo que el de mic?,Distrito Federal,Carreoín--Donaciano  
 2422,CHAVEZ ALDECO--MAXIMILIANO,df,,36,1934-1937,,PNR,,,Distrito Federal,Chaívez Aldeco--Maximiliano 
 2423,ERRO--LUIS ENRIQUE,df,,36,1934-1937,,PNR,,,Distrito Federal,Erro--Luis Enrique 
 2424,FERNANDEZ MANERO--VICTOR,df,,36,1934-1937,,PNR,,,Distrito Federal,Fernaíndez Manero--Viíctor 
 2425,HUERTA--JOSE G.,df,,36,1934-1937,,PNR,,,Distrito Federal,Huerta--Joseí G. 
 2426,MIER--MANUEL,df,,36,1934-1937,,PNR,,,Distrito Federal,Mier--Manuel  
 2427,OCEGUERA--JOSE MARIA,df,,36,1934-1937,,PNR,,,Distrito Federal,Oceguera--Joseí Mariía 
-2428,OSUNA--CARLOS F.,df,,36,1934-1937,,PNR,,dudas revisar,Distrito Federal,Osuna--Carlos F. 
+2428,OSUNA--CARLOS F.,df,,36,1934-1937,,PNR,,carlos f = solo carlos?,Distrito Federal,Osuna--Carlos F. 
 2429,RAMOS--MANUEL,df,,36,1934-1937,,,,,Distrito Federal,Ramos--Manuel  
 2430,VIDALES M.--JESUS,df,,36,1934-1937,,PNR,,,Distrito Federal,Vidales M.--Jesuís 
-2431,VILLALOBOS--ANTONIO,df,,36,1934-1937,,PNR,,Revisado,Distrito Federal,Villalobos--Antonio  
+2431,VILLALOBOS--ANTONIO,df,,36,1934-1937,,PNR,,Antonio I. Villalobos,Distrito Federal,Villalobos--Antonio  
 2432,ARRIETA V.--MIGUEL,dgo,,36,1934-1937,,,,,Durango,Arrieta V.--Miguel 
 2433,GUTIERREZ--ANTONIO,dgo,,36,1934-1937,,,,,Durango,Gutieírrez--Antonio  
 2434,LEON TOSTADO--MIGUEL,dgo,,36,1934-1937,,PNR,,,Durango,Leoín Tostado--Miguel 
@@ -2458,14 +2458,14 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 2457,OSORIO H.--WILFRIDO,hgo,,36,1934-1937,,PNR,,,Hidalgo,Osorio H.--Wilfrido 
 2458,DE LA PEÑA--RICARDO,hgo,,36,1934-1937,,PNR,,,Hidalgo,Peña--Ricardo de la  
 2459,ACEVES--NARCISO D.,jal,,36,1934-1937,,PNR,,,Jalisco,Aceves--Narciso D. 
-2460,AGUIRRE--JESUS M.,jal,,36,1934-1937,,,,no son el mismo,Jalisco,Aguirre--Jesuís M. 
+2460,AGUIRRE--JESUS M.,jal,,36,1934-1937,,,,no es el mismo que el dip de la 31 leg,Jalisco,Aguirre--Jesuís M. 
 2461,ANAYA--RAFAEL,jal,,36,1934-1937,,PNR,,,Jalisco,Anaya--Rafael  
 2462,CHAVEZ JR.--ESTEBAN,jal,,36,1934-1937,,PNR,,,Jalisco,Chaívez Jr.--Esteban 
 2463,GALLO--J. GUADALUPE,jal,,36,1934-1937,,,,,Jalisco,Gallo--J. Guadalupe 
 2464,GARCIA--IGNACIO J.,jal,,36,1934-1937,,PNR,,,Jalisco,Garciía--Ignacio J. 
 2465,GUZMAN--CARLOS G.,jal,,36,1934-1937,,,,,Jalisco,Guzmaín--Carlos G. 
 2466,MARTINEZ VALADEZ--MANUEL,jal,,36,1934-1937,,PNR,,,Jalisco,Martiínez Valadez--Manuel 
-2467,PONCE DE LEON--RAFAEL,jal,,36,1934-1937,,PNR,,dudas,Jalisco,Ponce de León--Rafael 
+2467,PONCE DE LEON--RAFAEL,jal,,36,1934-1937,,PNR,,mismo que ponce leon de df?,Jalisco,Ponce de León--Rafael 
 2468,ROJAS--LUIS C.,jal,,36,1934-1937,,PNR,,,Jalisco,Rojas--Luis C. 
 2469,RUBIO--ROGELIO,jal,,36,1934-1937,,PNR,,,Jalisco,Rubio--Rogelio  
 2470,RUVALCABA--JESUS J.,jal,,36,1934-1937,,PNR,,guadalupe = jesus?,Jalisco,Ruvalcaba--Jesuís J. 
@@ -2487,7 +2487,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 2486,MAYES NAVARRO--ANTONIO,mic,,36,1934-1937,,PNR,,,Michoacan,Mayes Navarro--Antonio 
 2487,MENDEZ--LUIS,mic,,36,1934-1937,,PNR,,,Michoacan,Meíndez--Luis  
 2488,MORA TOVAR--LUIS,mic,,36,1934-1937,,PNR,,,Michoacan,Mora Tovar--Luis 
-2489,SOLORZANO--JOSE,mic,,36,1934-1937,,PNR,,jose i.?,Michoacan,Soloírzano--Joseí  
+2489,SOLORZANO--JOSE,mic,,36,1934-1937,,PNR,,jose i?,Michoacan,Soloírzano--Joseí  
 2490,TORRES CABALLERO--JESUS,mic,,36,1934-1937,,PNR,,,Michoacan,Torres Caballero--Jesuís 
 2491,TORRES G.--ESPIRIDION,mic,,36,1934-1937,,PNR,,,Michoacan,Torres G.--Espiridioín 
 2492,VALLEJO--AUGUSTO,mic,,36,1934-1937,,PNR,,,Michoacan,Vallejo--Augusto  
@@ -2539,7 +2539,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 2538,OTHON--MAXIMO,son,,36,1934-1937,,,,,Sonora,Othoín--Maíximo  
 2539,SIQUEIROS--TOMAS,son,,36,1934-1937,,,,,Sonora,Siqueiros--Tomaís  
 2540,CAPARROSO--ALCIDES,tab,,36,1934-1937,,,,,Tabasco,Caparroso--Alcides  
-2541,PEREZ H.--ARNULFO,tab,,36,1934-1937,,PNR,,dudas,Tabasco,Peírez H.--Arnulfo 
+2541,PEREZ H.--ARNULFO,tab,,36,1934-1937,,PNR,,arnulfo de tab y pue?,Tabasco,Peírez H.--Arnulfo 
 2542,BALBOA JR.--PRAXEDIS E.,tam,,36,1934-1937,,PNR,,praxedis = praxedis e.?,Tamaulipas,Balboa Jr.--Praíxedis E. 
 2543,GARZA--ILDEFONSO,tam,,36,1934-1937,,PNR,,,Tamaulipas,Garza--Ildefonso  
 2544,MORILLO SAFA--EDUARDO,tam,,36,1934-1937,,,,,Tamaulipas,Morillo Safa--Eduardo 
@@ -2547,7 +2547,7 @@ ord,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 2546,SANCHEZ PEREA--ENRIQUE,tla,,36,1934-1937,,PNR,,,Tlaxcala,Saínchez Perea--Enrique 
 2547,AILLAUD--AUGUSTO,ver,,36,1934-1937,,PNR,,ailland = aillaud?,Veracruz,Aillaud--Augusto  
 2548,ALTAMIRANO--MANLIO FABIO,ver,,36,1934-1937,,PNR,,,Veracruz,Altamirano--Manlio Fabio 
-2549,CAMPILLO SEYDE--ARTURO,ver,,36,1934-1937,,PNR,,Revisado (Ai Camp wikipedia),Veracruz,Campillo Seyde--Arturo 
+2549,CAMPILLO SEYDE--ARTURO,ver,,36,1934-1937,,PNR,,,Veracruz,Campillo Seyde--Arturo 
 2550,CERISOLA--ALEJANDRO,ver,,36,1934-1937,,PNR,,,Veracruz,Cerisola--Alejandro  
 2551,FANO VINIEGRA--OSCAR,ver,,36,1934-1937,,PNR,,,Veracruz,Fano Viniegra--Oscar 
 2552,MERINO--ARTURO,ver,,36,1934-1937,,PVT,,,Veracruz,Merino--Arturo  
