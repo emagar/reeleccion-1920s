@@ -1,4 +1,4 @@
-﻿edon,edo,edo,21,23,25,27,29,31,33
+﻿edon,edo,edo,22,24,26,28,30,32,34
 1,Aguascalientes ,ags,0,,,,,,
 2,Baja California ,bc,,,,,,,
 3,Baja California Sur ,bcs,,,,,,,
@@ -12,17 +12,17 @@
 11,Guanajuato ,gua,0,,,,1,1,1
 12,Guerrero ,gue,0,,,,,,
 13,Hidalgo ,hgo,,,,,,,
-14,Jalisco ,jal,,,,,1,1,1
+14,Jalisco ,jal,1,,,1,1,1,1
 15,Mexico ,mex,,,,,,,
-16,Michoacan,mic,,,1,1,1,1,1
+16,Michoacan,mic,0,1,1,1,1,1,1
 17,Morelos ,mor,,,,,,0,
 18,Nayarit ,nay,,,,,,,
-19,Nuevo Leon ,nl,,,,,,1,
-20,Oaxaca ,oax,,,,1,,,
-21,Puebla ,pue,,,,,1,,
+19,Nuevo Leon ,nl,,,,0,0,1,
+20,Oaxaca ,oax,,,,1,1,1,
+21,Puebla ,pue,,,,,1,1,
 22,Queretaro,que,,,,,,,
 23,Quintana Roo ,qui,,,,,,*,
-24,San Luis Potosi ,san,,,,1,0,1,1
+24,San Luis Potosi ,san,,,0,1,0,1,1
 25,Sinaloa ,sin,,,,,,0,
 26,Sonora ,son,,,,0,,,
 27,Tabasco ,tab,,,,,,,
