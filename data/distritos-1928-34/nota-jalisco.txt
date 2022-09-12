@@ -1,0 +1,15 @@
+Prof. Magar
+
+Le escribo para compartirle que no encontré en la hemeroteca una fe de erratas respecto a la división en distritos electorales, pero revisando la historia del municipio de Chapala encontré que:
+
+El 2 de abril de 1931 se suprime la municipalidad de Chapala, agregándose a Guadalajara y queda como comisaría municipal; el 22 de julio de 1939 elevaría nuevamente a la categoría de municipio con el decreto 4,565. Para el 1 de septiembre de 1970 el municipio recibe, por parte del Congreso del Estado de Jalisco, la distinción como Ciudad. El decreto de 1970 se publica el 8 de septiembre de 1970 con el número 8,616.
+
+(Enciclopedia de los municipios y demarcaciones territoriales http://www.snim.rami.gob.mx/enciclopedia_v2/PruebaPropuesta.php?id=598&tipo=m&e=14&m=30)
+ 
+Por tanto, el Decreto por el cual se divide la entidad en Distritos Electorales del 22 de octubre de 1931 no registra al municipio de Chapala, pues para la fecha era una comisaría de Guadalajara. Ahora bien, la división por distritos de 1931 sí contempla las comisarias en el reparto: para las elecciones de 1932 al dtto-1 de Guadalajara corresponden los Sectores Hidalgo, Juárez, Reforma, Libertad y Comisarías.
+
+Por otro lado, le escribo para mandarle la base de datos con la lista de los municipios de Jalisco y el distrito electoral al que pertenecen para las elecciones de 1928, 1930 y 1932. Los municipios ya están repartidos para las tres elecciones: agregué Chapala al dtto-1 en la columna de disn1932, y solamente el municipio de Guadalajara no se reparte en la columna disn1928 porque se dividía en tres.
+
+Saludos,
+
+José Ángel
