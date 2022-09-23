@@ -275,7 +275,7 @@ ord,tmp,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 273,,MENDOZA--FRANCISCO DE P.,gua,10,27,1917-1918,GIL--LUIS,Mayoria,,,Guanajuato,Mendoza--Francisco de P.
 274,,LOPEZ--IGNACIO,gua,11,27,1917-1918,SANCHEZ--FRANCISCO,Derechista Mayoria,,,Guanajuato,López--Ignacio
 275,,ROBLES DOMINGUEZ--ALFREDO,gua,12,27,1917-1918,DIAZ BARRIGA--FRANCISCO,Mayoria,,,Guanajuato,Robles Domínguez--Alfredo
-276,,SIUROB--JOSE,gua,13,27,1917-1918,AGUILAR--JOSE,Mayoria,,caso confirmado = dip por gua y que (Siurub Ram�rez Jose),Guanajuato,Siurob--José
+276,,SIUROB--JOSE,gua,13,27,1917-1918,AGUILAR--JOSE,Mayoria,,caso confirmado = dip por gua y que (Siurub Ramirez Jose),Guanajuato,Siurob--José
 277,,MONTES--FEDERICO,gua,14,27,1917-1918,ZAVALA--LEOBINO,Mayoria,,,Guanajuato,Montes--Federico
 278,,RIOS LANDEROS--EZEQUIEL,gua,15,27,1917-1918,AGUILERA--CRESCENCIANO,Mayoria,4164,revisar,Guanajuato,Ríos Landeros--Ezequiel
 279,,HERNANDEZ GARIBAY--MIGUEL,gua,16,27,1917-1918,COLUNGA--ENRIQUE,Mayoria,,,Guanajuato,Hernández Garibay--Miguel
@@ -660,7 +660,7 @@ ord,tmp,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 658,,RODRIGUEZ--SABINO,pue,18,28,1918-1920,LAZCANO--ANTONIO,PLP Mayoria,789,,Puebla,Rodríguez--Sabino
 659,,VERASTEGUI--JOSE,que,1,28,1918-1920,DIAZ--FELIPE B.,Mayoria,,caso confirmado = dip por pue y que,Queretaro,Verástegui--José
 660,,HERRERA--JULIO,que,2,28,1918-1920,RETANA--LAMBERTO,Mayoria,4755,,Queretaro,Herrera--Julio
-661,,SIUROB--JOSE,que,3,28,1918-1920,DIAZ GUEVARA--AURELIO,Mayoria,4586,caso confirmado = dip por gua y que (Siurub Ram�rez Jose),Queretaro,Siurob--José
+661,,SIUROB--JOSE,que,3,28,1918-1920,DIAZ GUEVARA--AURELIO,Mayoria,4586,caso confirmado = dip por gua y que (Siurub Ramirez Jose),Queretaro,Siurob--José
 662,,DE LA TORRE--ROMULO,que,4,28,1918-1920,ALTAMIRANO--ALEJO,Mayoria,1406,,Queretaro,Torre--Rómulo de la
 663,,LANZ GALERA--JOAQUIN,qui,0,28,1918-1920,BARRAGAN--ENRIQUE M.,Mayoria,480,,Quintana Roo,Lanz Galera--Joaquín
 664,,MENDEZ--ARTURO,san,1,28,1918-1920,MORALES--ANTONIO,Mayoria,2340,,San Luis Potosi,Méndez--Arturo
@@ -807,7 +807,7 @@ ord,tmp,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 805,,CAMARENA--LEOPOLDO E.,hgo,2,29,1920-1922,VAZQUEZ--ENRIQUE,Mayoria,,,Hidalgo,Camarena--Leopoldo E.
 806,,HERNANDEZ CORONADO--ABEL,hgo,3,29,1920-1922,ESQUIVEL--LEOPOLDO,Mayoria,4051,,Hidalgo,Hernández Coronado--Abel
 807,,AZUARA--JESUS F.,hgo,4,29,1920-1922,COBOS--PIOQUINTO,Mayoria,,,Hidalgo,Azuara--Jesús F.
-808,,DE LA PENA--FRANCISCO,hgo,5,29,1920-1922,HERRERA--JOSE ROJO,Mayoria,,repetido? De la Pe�a?,Hidalgo,Pena--Francisco de la
+808,,DE LA PENA--FRANCISCO,hgo,5,29,1920-1922,HERRERA--JOSE ROJO,Mayoria,,repetido? De la Peña?,Hidalgo,Pena--Francisco de la
 809,,DE LA PEÑA--FRANCISCO,hgo,5,29,1920-1922,GUERRERO--JESUS J.,Mayoria,,,Hidalgo,Peña--Francisco de la
 810,,OLGUIN--ESTANISLAO,hgo,6,29,1920-1922,OLGUIN--JORGE A.,Mayoria,5586,,Hidalgo,Olguín--Estanislao
 811,,CASTREJON--FRANCISCO,hgo,7,29,1920-1922,ELIAS--ELIAS,Mayoria,2569,,Hidalgo,Castrejón--Francisco
@@ -896,7 +896,7 @@ ord,tmp,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 894,,GUERRERO--EDUARDO,oax,10,29,1920-1922,OROZCO--JUAN ANTONIO,Mayoria,,,Oaxaca,Guerrero--Eduardo
 895,,CASTILLO--FRANCISCO,oax,11,29,1920-1922,RAMIREZ--HERACLIO,Mayoria,3550,francisco = francisco luis?,Oaxaca,Castillo--Francisco
 896,,LEYVA--JOSE,oax,12,29,1920-1922,AGUILAR--APOLONIO,Mayoria,1992,,Oaxaca,Leyva--José
-897,,OGARRIO MEIXUEIRO--JOAQUIN,oax,12,29,1920-1922,,Mayoria,,sin suplente seg�n Ai Camp,Oaxaca,Ogarrio Meixueiro--Joaquín
+897,,OGARRIO MEIXUEIRO--JOAQUIN,oax,12,29,1920-1922,,Mayoria,,sin suplente segun Ai Camp,Oaxaca,Ogarrio Meixueiro--Joaquín
 898,,PEREA RUIZ--DANIEL,oax,12,29,1920-1922,AGUILAR SALAZAR--MANUEL,Mayoria,2482,,Oaxaca,Peréa Ruíz--Daniel
 899,,REYES--IGNACIO C.,oax,13,29,1920-1922,ROBLES MAXIMILIANO--CENOBIO,Mayoria,5180,,Oaxaca,Reyes--Ignacio C.
 900,,GONZALEZ--ONESIMO,oax,14,29,1920-1922,SANCHEZ--SECUNDINO,Mayoria,,,Oaxaca,González--Onésimo
@@ -1060,7 +1060,7 @@ ord,tmp,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1058,,ARROYO CH.--AGUSTIN,gua,10,30,1922-1924,SEPULVEDA--ROBERTO,Mayoria,4014,,Guanajuato,Arroyo Ch.--Agustín
 1059,,HERNANDEZ GALVAN--MANUEL,gua,11,30,1922-1924,QUINTANA--JOAQUIN,Mayoria,,,Guanajuato,Hernández Galván--Manuel
 1060,,LIRA--LUCAS,gua,12,30,1922-1924,VILLALOBOS--MAXIMILIANO,Mayoria,,,Guanajuato,Lira--Lucas
-1061,,PERALTA--ALBERTO,gua,13,30,1922-1924,RIVERA--ISAURO,Mayoria,,PERALTA RODRIGUEZ seg�n Ai Camp,Guanajuato,Peralta--Alberto
+1061,,PERALTA RODRIGUEZ--ALBERTO,gua,13,30,1922-1924,RIVERA--ISAURO,Mayoria,,,Guanajuato,Peralta--Alberto
 1062,,GUTIERREZ--JOSE M.,gua,14,30,1922-1924,GIL LAMBARRI--JOSE,Mayoria,,,Guanajuato,Gutiérrez--José M.
 1063,,AGUILERA--JOSE ASCENCION,gua,15,30,1922-1924,SOTO--EVERARDO,Mayoria,,,Guanajuato,Aguilera--José Ascención
 1064,,HERNANDEZ ALVAREZ--ENRIQUE,gua,16,30,1922-1924,AGUIÑAGA--MONICO,Mayoria,,,Guanajuato,Hernández Alvarez--Enrique
@@ -1598,7 +1598,7 @@ ord,tmp,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1596,,NAVA--ALFONSO L.,gue,4,32,1926-1928,RUEDA BRAVO--JOSE,Mayoria,,,Guerrero,Nava--Alfonso L. 
 1597,,CARRETO--FRANCISCO S.,gue,5,32,1926-1928,RODRIGUEZ--FRANCISCO,PLG Mayoria,4890,,Guerrero,Carreto--Francisco S. 
 1598,,MENDEZ--ALBERTO,gue,6,32,1926-1928,FONSECA--NICOLAS,Mayoria,7884,sin info,Guerrero,Méndez--Alberto 
-1599,,ANDREW ALMAZAN--MIGUEL,gue,7,32,1926-1928,TORRES AVILES--RAFAEL,Mayoria,,Andreu es hermano de Juan Andreu,Guerrero,Andrew Almazán--Miguel 
+1599,,ANDREU ALMAZAN--MIGUEL,gue,7,32,1926-1928,TORRES AVILES--RAFAEL,Mayoria,,Andreu es hermano de Juan Andreu,Guerrero,Andrew Almazán--Miguel 
 1600,,MILLER--GUILLERMO R.,gue,8,32,1926-1928,LOPEZ--JESUS L.,Mayoria,,,Guerrero,Miller--Guillermo R. 
 1601,,CERVANTES--J. REFUGIO,gue,9,32,1926-1928,PERALTA--RAMON,Mayoria,,,Guerrero,Cervantes--J. Refugio 
 1602,,LOPEZ--MANUEL,gue,10,32,1926-1928,MALDONADO JR.--FRANCISCO,Mayoria,3993,,Guerrero,López--Manuel 
@@ -1984,7 +1984,7 @@ ord,tmp,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1981,,MORENO--JOSE LUIS,pue,5,33,1928-1930,CORDERO--BUENAVENTURA,Mayoria,,,Puebla,Moreno--José Luis 
 1982,,ARABILLAS--MANUEL,pue,6,33,1928-1930,SARMIENTO--LUIS A.,Mayoria,,,Puebla,Arabillas--Manuel   
 1983,,BAUTISTA--GONZALO,pue,7,33,1928-1930,VALDEZ BRAVO--MANUEL,Mayoria,,,Puebla,Bautista--Gonzalo   
-1984,,ANDREW ALMAZAN--MIGUEL,pue,8,33,1928-1930,IBARRA--JUAN,Mayoria,,Andreu es hermano de Juan Andreu,Puebla,Andrew Almazán--Miguel    
+1984,,ANDREU ALMAZAN--MIGUEL,pue,8,33,1928-1930,IBARRA--JUAN,Mayoria,,Andreu es hermano de Juan Andreu,Puebla,Andrew Almazán--Miguel    
 1985,,REYES MARQUEZ--RICARDO,pue,9,33,1928-1930,MORALES--ENRIQUE,Mayoria,,,Puebla,Reyes Márquez--Ricardo    
 1986,,MORA--IGNACIO DE LA,pue,10,33,1928-1930,HERNANDEZ CHAZARO--LUIS,Mayoria,,,Puebla,Mora--Ignacio de la  
 1987,,BRAVO IZQUIERDO--JOSE,pue,11,33,1928-1930,MONTES DE OCA--ENRIQUE,PNA Mayoria,4916,donato = jose,Puebla,Bravo Izquierdo--José    
