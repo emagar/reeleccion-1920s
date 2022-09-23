@@ -11,3 +11,5 @@
 
 # mac
 .DS_Store
+
+.~lock*

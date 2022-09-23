@@ -1,6 +1,6 @@
 ord,tmp,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1,,CERVANTES HERNANDEZ--DANIEL,ags,0,26,1916-1917,ORTEGA--GONZALO,,,cconst,Aguascalientes,Cervantes Hernández--Daniel
-2,drop?,PEDROZA—ARCHIBALDO ELOY,ags,0,26,1916-1917,,,,cconst (No dip en Ai Camp),Aguascalientes,Eloy Pedroza--Archibaldo
+2,drop?,PEDROZA--ARCHIBALDO ELOY,ags,0,26,1916-1917,,,,cconst (No dip en Ai Camp),Aguascalientes,Eloy Pedroza--Archibaldo
 3,,GONZALEZ--AURELIO L.,ags,0,26,1916-1917,PEDROZA--ARCHIBALDO ELOY,,,cconst,Aguascalientes,González--Aurelio L. 
 4,,ROEL--IGNACIO,bc,0,26,1916-1917,GOMEZ--MATIAS,,,cconst,"Baja California, Terr. de",Roel--Ignacio
 5,,PEREZ ABREU--HERMINIO,cam,0,26,1916-1917,ARIAS SOLIS--ENRIQUE,,,cconst (caso confirmado = dip fed campeche luego df),Campeche,Pérez Abreu--Herminio
@@ -1890,28 +1890,28 @@ ord,tmp,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1888,,ARROYO--JOSE P.,hgo,9,33,1928-1930,BERNAL CASTILLO--JOSE,PL Mayoria,,,Hidalgo,Arroyo--José P.   
 1889,,OLIVARES--DANIEL,hgo,10,33,1928-1930,CALDERON--MOISES,Mayoria,6857,,Hidalgo,Olivares--Daniel    
 1890,,VILLEGAS--OTILIO,hgo,11,33,1928-1930,MELO--SALVADOR,Mayoria,4582,,Hidalgo,Villegas--Otilio    
-1891,,ROMO--ALFREDO,jal,1-GUADALAJARA,33,1928-1930,PEREZ CORONA--JOSE,PRJ Mayoria,,,Jalisco,Romo--Alfredo     
-1892,,HERNANDEZ Y HERNANDEZ--MANUEL,jal,2-GUADALAJARA,33,1928-1930,GUTIERREZ SANTA CRUZ--CARLOS,PRJ Mayoria,,,Jalisco,Hernández y Hernández--Manuel 
-1893,,GARCIA--JUAN C.,jal,3-GUADALAJARA,33,1928-1930,MORALES M.--JOSE,PRJ Mayoria,,,Jalisco,García--Juan C.   
-1894,,CUELLAR--JOSE MARIA,jal,4-CUQUIO,33,1928-1930,ALVAREZ DEL CASTILLO--LUIS,PRJ Mayoria,3190,,Jalisco,Cuellar--José María     
-1895,,GERMAN--JOSE,jal,5-TEOCALTICHE,33,1928-1930,ENCISO--XAVIER,PRJ Mayoria,,,Jalisco,GermÑn--JosÑ
-1896,,OROZCO--DAVID,jal,6-COLOTLAN,33,1928-1930,RIVERA--J. GUADALUPE,PRJ Mayoria,,,Jalisco,Orozco--David  
-1897,,GOMEZ CANO--JOSE V.,jal,7-LAGOS DE MORENO,33,1928-1930,GONZALEZ VERDIA--MANUEL,PRJ Mayoria,,,Jalisco,Gómez Cano--José V.   
-1898,,DE ANDA--JOSE GUADALUPE,jal,8-ENCARNACION DE DIAZ,33,1928-1930,MORENO--FRANCISCO J.,PRJ Mayoria,,,Jalisco,De Anda--José Guadalupe
-1899,,TORRES H.--MARIANO,jal,9-ARANDAS,33,1928-1930,CUELLAR--INOCENCIO,PRJ Mayoria,,jose?,Jalisco,Torres H.--Mariano    
-1900,,PADILLA--ARCADIO E.,jal,11-BARCA--LA,33,1928-1930,IBARRA GONZALEZ--REGINO,PRJ Mayoria,,,Jalisco,Padilla--Arcadio E.     
-1901,,MADRIGAL--RAMON,jal,12-CHAPALA,33,1928-1930,NOVOA--ELISEO,Mayoria,,,Jalisco,Madrigal--Ramón    
-1902,,DIAZ DE LEON--ENRIQUE,jal,13-TLAQUEPAQUE,33,1928-1930,GUIJARRO CAZARES--FERNANDO,PRJ Mayoria,,,Jalisco,Díaz de León--Enrique    
-1903,,DIAZ--JULIO,jal,14-TLAJOMULCO DE ZUÑIGA,33,1928-1930,GARCIA--LUIS,PRJ Mayoria,,,Jalisco,Díaz--Julio    
-1904,,GARCIA DE ALBA--ESTEBAN,jal,15-TIZAPAN EL ALTO,33,1928-1930,RAMOS--FELIX,PRJ Mayoria,,,Jalisco,García de Alba--Esteban   
-1905,,OTERO--J. JESUS,jal,16-TUXPAN,33,1928-1930,SANTANA--IGNACIO,PRJ Mayoria,,,Jalisco,Otero--J. Jesús 
-1906,,CAMACHO--J. RODRIGO,jal,17-ZAPOTLAN EL GRANDE,33,1928-1930,LOZANO--SEVERIANO,PRJ Mayoria,,,Jalisco,Camacho--J. Rodrigo    
-1907,,PALENCIA--BENIGNO,jal,18-SAN GABRIEL,33,1928-1930,SANTANA--FEDERICO,PRJ Mayoria,,,Jalisco,Palencia--Benigno   
-1908,,RUIZ--MANUEL H.,jal,19-AUTLAN DE NAVARRO,33,1928-1930,SANTANA--J. GUADALUPE,PRJ Mayoria,,,Jalisco,Ruíz--Manuel H.   
-1909,,LABASTIDA IZQUIERDO--FRANCISCO,jal,20-COCULA,33,1928-1930,REYNOSO--IGNACIO,PRJ Mayoria,,,Jalisco,Labastida Izquierdo--Francisco  
-1910,,GONZALEZ--ALBERTO,jal,21-MASCOTA,33,1928-1930,GUZMAN--PONCIANO,PRJ Mayoria,,,Jalisco,González--Alberto    
-1911,,IZABAL--JUAN B.,jal,22-AMECA,33,1928-1930,VELAZCO--DANIEL,Mayoria,,,Jalisco,Izabal--Juan B.    
-1912,,GONZALEZ MADRID--FERNANDO,jal,23-TEQUILA,33,1928-1930,CUERVO--FLORENTINO,PRJ Mayoria,,sin info,Jalisco,González Madrid--Fernando    
+1891,,ROMO--ALFREDO,jal,1-GUADALAJARA,33,1928-1930,PEREZ CORONA--JOSE,PRJ Mayoria,,verif diario debates calificación cdip,Jalisco,Romo--Alfredo     
+1892,,HERNANDEZ Y HERNANDEZ--MANUEL,jal,2-GUADALAJARA,33,1928-1930,GUTIERREZ SANTA CRUZ--CARLOS,PRJ Mayoria,,verif diario debates calificación cdip,Jalisco,Hernández y Hernández--Manuel 
+1893,,GARCIA--JUAN C.,jal,3-GUADALAJARA,33,1928-1930,MORALES M.--JOSE,PRJ Mayoria,,verif diario debates calificación cdip,Jalisco,García--Juan C.   
+1894,,CUELLAR--JOSE MARIA,jal,4-CUQUIO,33,1928-1930,ALVAREZ DEL CASTILLO--LUIS,PRJ Mayoria,3190,verif diario debates calificación cdip,Jalisco,Cuellar--José María     
+1895,,GERMAN--JOSE,jal,5-TEOCALTICHE,33,1928-1930,ENCISO--XAVIER,PRJ Mayoria,,verif diario debates calificación cdip,Jalisco,GermÑn--JosÑ
+1896,,OROZCO--DAVID,jal,6-COLOTLAN,33,1928-1930,RIVERA--J. GUADALUPE,PRJ Mayoria,,verif diario debates calificación cdip,Jalisco,Orozco--David  
+1897,,GOMEZ CANO--JOSE V.,jal,7-LAGOS DE MORENO,33,1928-1930,GONZALEZ VERDIA--MANUEL,PRJ Mayoria,,verif diario debates calificación cdip,Jalisco,Gómez Cano--José V.   
+1898,,DE ANDA--JOSE GUADALUPE,jal,8-ENCARNACION DE DIAZ,33,1928-1930,MORENO--FRANCISCO J.,PRJ Mayoria,,verif diario debates calificación cdip,Jalisco,De Anda--José Guadalupe
+1899,,TORRES H.--MARIANO,jal,9-ARANDAS,33,1928-1930,CUELLAR--INOCENCIO,PRJ Mayoria,,jose? verif diario debates calificación cdip,Jalisco,Torres H.--Mariano    
+1900,,PADILLA--ARCADIO E.,jal,11-BARCA--LA,33,1928-1930,IBARRA GONZALEZ--REGINO,PRJ Mayoria,,verif diario debates calificación cdip,Jalisco,Padilla--Arcadio E.     
+1901,,MADRIGAL--RAMON,jal,12-CHAPALA,33,1928-1930,NOVOA--ELISEO,Mayoria,,verif diario debates calificación cdip,Jalisco,Madrigal--Ramón    
+1902,,DIAZ DE LEON--ENRIQUE,jal,13-TLAQUEPAQUE,33,1928-1930,GUIJARRO CAZARES--FERNANDO,PRJ Mayoria,,verif diario debates calificación cdip,Jalisco,Díaz de León--Enrique    
+1903,,DIAZ--JULIO,jal,14-TLAJOMULCO DE ZUÑIGA,33,1928-1930,GARCIA--LUIS,PRJ Mayoria,,verif diario debates calificación cdip,Jalisco,Díaz--Julio    
+1904,,GARCIA DE ALBA--ESTEBAN,jal,15-TIZAPAN EL ALTO,33,1928-1930,RAMOS--FELIX,PRJ Mayoria,,verif diario debates calificación cdip,Jalisco,García de Alba--Esteban   
+1905,,OTERO--J. JESUS,jal,16-TUXPAN,33,1928-1930,SANTANA--IGNACIO,PRJ Mayoria,,verif diario debates calificación cdip,Jalisco,Otero--J. Jesús 
+1906,,CAMACHO--J. RODRIGO,jal,17-ZAPOTLAN EL GRANDE,33,1928-1930,LOZANO--SEVERIANO,PRJ Mayoria,,verif diario debates calificación cdip,Jalisco,Camacho--J. Rodrigo    
+1907,,PALENCIA--BENIGNO,jal,18-SAN GABRIEL,33,1928-1930,SANTANA--FEDERICO,PRJ Mayoria,,verif diario debates calificación cdip,Jalisco,Palencia--Benigno   
+1908,,RUIZ--MANUEL H.,jal,19-AUTLAN DE NAVARRO,33,1928-1930,SANTANA--J. GUADALUPE,PRJ Mayoria,,verif diario debates calificación cdip,Jalisco,Ruíz--Manuel H.   
+1909,,LABASTIDA IZQUIERDO--FRANCISCO,jal,20-COCULA,33,1928-1930,REYNOSO--IGNACIO,PRJ Mayoria,,verif diario debates calificación cdip,Jalisco,Labastida Izquierdo--Francisco  
+1910,,GONZALEZ--ALBERTO,jal,21-MASCOTA,33,1928-1930,GUZMAN--PONCIANO,PRJ Mayoria,,verif diario debates calificación cdip,Jalisco,González--Alberto    
+1911,,IZABAL--JUAN B.,jal,22-AMECA,33,1928-1930,VELAZCO--DANIEL,Mayoria,,verif diario debates calificación cdip,Jalisco,Izabal--Juan B.    
+1912,,GONZALEZ MADRID--FERNANDO,jal,23-TEQUILA,33,1928-1930,CUERVO--FLORENTINO,PRJ Mayoria,,verif diario debates calificación cdip,Jalisco,González Madrid--Fernando    
 1913,,SUAREZ--ZENON,mex,1,33,1928-1930,RAMIREZ DE ARELLANO--LUIS,PST Mayoria,,,Mexico,Suárez--Zenón   
 1914,,ALVAREZ--MANUEL,mex,2,33,1928-1930,SANCHEZ CURIEL--MARIO,PSF Mayoria,,,Mexico,Alvarez--Manuel   
 1915,,ESTRADA--FELIPE,mex,3,33,1928-1930,LOPEZ ZETINA--JESUS,PST Mayoria,,,Mexico,Estrada--Felipe    
@@ -1929,26 +1929,26 @@ ord,tmp,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 1927,,NAVARRO--SALVADOR,mex,15,33,1928-1930,MONTAÑO--ABELARDO,PST Mayoria,,,Mexico,Navarro--Salvador    
 1928,,RIVA PALACIO--MANUEL,mex,16,33,1928-1930,TRUEBA--PEDRO,PST Mayoria,,,Mexico,Riva Palacio--Manuel 
 1929,,SOLORZANO--JOSE LUIS,mex,17,33,1928-1930,ROBLES--LORENZO,PST Mayoria,,,Mexico,Solórzano--José Luis  
-1930,,ACEVES--ALBERTO,mic,1-MORELIA,33,1928-1930,RAMOS--SALVADOR,Mayoria,,,Michoacan,Aceves--Alberto    
-1931,,ACEVES--ERNESTO,mic,2-MORELIA,33,1928-1930,ARROYO DE ANDA--FRANCISCO,Mayoria,,,Michoacan,Aceves--Ernesto    
-1932,,DIAZ--LUIS,mic,3-MORELIA,33,1928-1930,RODRIGUEZ CORONA--JOSE,Mayoria,,,Michoacan,Díaz--Luis    
-1932.1,new,ZINCUNEGUI TERCERO--LEOPOLDO,mic,4-HIDALGO,33,1928-1930,VALLEJO SAMANO--JOSE,,,,,
-1933,,ROBLES--LORENZO,mic,5-MARAVATIO,33,1928-1930,LUNA--ANTONIO M.,Mayoria,4211,,Michoacan,Robles--Lorenzo     
-1934,,AVILES--MANUEL,mic,6-ZITACUARO,33,1928-1930,VAZQUEZ--ONOFRE,Mayoria,,,Michoacan,Avilés--Manuel   
-1935,,SANCHEZ PINEDA--JOSE MARIA,mic,7-HUETAMO,33,1928-1930,ARREDONDO--JENARO,Mayoria,,,Michoacan,Sánchez Pineda--José María   
+1930,,ACEVES--ALBERTO,mic,1-MORELIA,33,1928-1930,RAMOS--SALVADOR,Mayoria,,verif diario debates calificación cdip,Michoacan,Aceves--Alberto    
+1931,,ACEVES--ERNESTO,mic,2-MORELIA,33,1928-1930,ARROYO DE ANDA--FRANCISCO,Mayoria,,verif diario debates calificación cdip,Michoacan,Aceves--Ernesto    
+1932,,DIAZ--LUIS,mic,3-MORELIA,33,1928-1930,RODRIGUEZ CORONA--JOSE,Mayoria,,verif diario debates calificación cdip,Michoacan,Díaz--Luis    
+1932.1,new,ZINCUNEGUI TERCERO--LEOPOLDO,mic,4-HIDALGO,33,1928-1930,VALLEJO SAMANO--JOSE,,,verif diario debates calificación cdip,,
+1933,,ROBLES--LORENZO,mic,5-MARAVATIO,33,1928-1930,LUNA--ANTONIO M.,Mayoria,4211,verif diario debates calificación cdip,Michoacan,Robles--Lorenzo     
+1934,,AVILES--MANUEL,mic,6-ZITACUARO,33,1928-1930,VAZQUEZ--ONOFRE,Mayoria,,verif diario debates calificación cdip,Michoacan,Avilés--Manuel   
+1935,,SANCHEZ PINEDA--JOSE MARIA,mic,7-HUETAMO,33,1928-1930,ARREDONDO--JENARO,Mayoria,,verif diario debates calificación cdip,Michoacan,Sánchez Pineda--José María   
 1936,,MENDEZ--LUIS,mic,8-TACAMBARO,33,1928-1930,HERNANDEZ--SANTIAGO,Mayoria,,"CAMARA ANULO ELECCION 1 DE JULIO, EXTRA 16 DIC 1928",Michoacan,Méndez--Luis   
-1937,,GAITAN--JOSE,mic,9-ARIO,33,1928-1930,MONTAÑO--FEDERICO,Mayoria,,,Michoacan,Gaitán--José     
-1938,,PINEDA--EFRAIN,mic,10-ZACAPU,33,1928-1930,RIZO--ALEJANDRO,Union de Partidos Socialistas de Michoacan Mayoria,,,Michoacan,Pineda--Efraín  
-1939,,ORTEGA--MELCHOR,mic,11-URUAPAN,33,1928-1930,PAZ--LEOBARDO,Mayoria,,,Michoacan,Ortega--Melchor  
-1940,,HURTADO--SILVIANO,mic,12-PARACUARO,33,1928-1930,HURTADO Z.--JESUS,Mayoria,,sin info,Michoacan,Hurtado--Silviano    
+1937,,GAITAN--JOSE,mic,9-ARIO,33,1928-1930,MONTAÑO--FEDERICO,Mayoria,,verif diario debates calificación cdip,Michoacan,Gaitán--José     
+1938,,PINEDA--EFRAIN,mic,10-ZACAPU,33,1928-1930,RIZO--ALEJANDRO,Union de Partidos Socialistas de Michoacan Mayoria,,verif diario debates calificación cdip,Michoacan,Pineda--Efraín  
+1939,,ORTEGA--MELCHOR,mic,11-URUAPAN,33,1928-1930,PAZ--LEOBARDO,Mayoria,,verif diario debates calificación cdip,Michoacan,Ortega--Melchor  
+1940,,HURTADO--SILVIANO,mic,12-PARACUARO,33,1928-1930,HURTADO Z.--JESUS,Mayoria,,verif diario debates calificación cdip,Michoacan,Hurtado--Silviano    
 1941,,CARRANZA--GABINO,mic,13-AGUILILLA,33,1928-1930,RUIZ F.--ANTONIO,UPSM Mayoria,1255,"CAMARA ANULO ELECCION 1 DE JULIO, EXTRA 16 DIC 1928",Michoacan,Carranza--Gabino   
 1942,drop,MURATALLA TORRES--AUSTREBERTO,mic,13,33,1928-1930,ALCALA PULIDO--IGNACIO,Mayoria,,declarado ganador junto con otros y eleccion anulada,Michoacan,Muratalla Torres--Austreberto  
-1943,,PICAZO--RAFAEL,mic,14-SAHUAYO,33,1928-1930,ANAYA--ALFREDO,Mayoria,,,Michoacan,Picazo--Rafael   
-1944,,MAGAÑA--OCTAVIO,mic,15-TINGÜINDIN,33,1928-1930,TORRES--LUIS G.,Mayoria,,,Michoacan,Magaña--Octavio    
-1945,,MELGOZA--FLORENTINO,mic,16-TANHUATO,33,1928-1930,MAGAÑA--MANUEL,Mayoria,,,Michoacan,Melgoza--Florentino   
-1946,,MORENO R.--MELESIO,mic,17-PUREPERO,33,1928-1930,CHAVOLLA--JOSE,Mayoria,,,Michoacan,Moreno R.--Melesio   
-1947,,RAMIREZ--RODOLFO,mic,18-PIEDAD--LA,33,1928-1930,VILLEGAS--JOSE,Mayoria,,,Michoacan,Ramírez--Rodolfo   
-1948,,ABARCA PEREZ--JUAN,mic,19-PURUANDIRO,33,1928-1930,ZARAGOZA--FLORENTINO,Union de Partidos Socialistas de Michoacan Mayoria,,,Michoacan,Abarca Pérez--Juan    
+1943,,PICAZO--RAFAEL,mic,14-SAHUAYO,33,1928-1930,ANAYA--ALFREDO,Mayoria,,verif diario debates calificación cdip,Michoacan,Picazo--Rafael   
+1944,,MAGAÑA--OCTAVIO,mic,15-TINGÜINDIN,33,1928-1930,TORRES--LUIS G.,Mayoria,,verif diario debates calificación cdip,Michoacan,Magaña--Octavio    
+1945,,MELGOZA--FLORENTINO,mic,16-TANHUATO,33,1928-1930,MAGAÑA--MANUEL,Mayoria,,verif diario debates calificación cdip,Michoacan,Melgoza--Florentino   
+1946,,MORENO R.--MELESIO,mic,17-PUREPERO,33,1928-1930,CHAVOLLA--JOSE,Mayoria,,verif diario debates calificación cdip,Michoacan,Moreno R.--Melesio   
+1947,,RAMIREZ--RODOLFO,mic,18-PIEDAD--LA,33,1928-1930,VILLEGAS--JOSE,Mayoria,,verif diario debates calificación cdip,Michoacan,Ramírez--Rodolfo   
+1948,,ABARCA PEREZ--JUAN,mic,19-PURUANDIRO,33,1928-1930,ZARAGOZA--FLORENTINO,Union de Partidos Socialistas de Michoacan Mayoria,,verif diario debates calificación cdip,Michoacan,Abarca Pérez--Juan    
 1949,,SOTELO--SILVANO,mor,1,33,1928-1930,SALAZAR--JUAN C.,PNA Mayoria,,,Morelos,Sotelo--Silvano   
 1950,,MAGAÑA--MANUEL,mor,2,33,1928-1930,PALACIOS--PORFIRIO,Mayoria,,,Morelos,Magaña--Manuel     
 1951,,TORRES--PEDRO,mor,3,33,1928-1930,JIMENEZ--JUAN,Mayoria,,,Morelos,Torres--Pedro    
@@ -2003,18 +2003,18 @@ ord,tmp,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 2000,,MENDOZA--DANIEL,que,3,33,1928-1930,NIETO CAMACHO--ALFREDO,Mayoria,,,Queretaro,Mendoza--Daniel    
 2001,,GUERRERO--AMBROSIO,que,4,33,1928-1930,TREJO--OTILIO,Mayoria,5141,,Queretaro,Guerrero--Ambrosio     
 2002,,ABITIA--LIBRADO,qui,0,33,1928-1930,OROZCO--ALFONSO,Mayoria,,,Quintana Roo,Abitia--Librado    
-2003,,SANTOS ALONSO--JOSE,san,1,33,1928-1930,ORTIZ--LEOPOLDINO J.,Mayoria,,alonso es apellido o nombre?,San Luis Potosi,Santos Alonso--José  
-2004,,DIAZ SOTO Y GAMA--ANTONIO,san,2,33,1928-1930,AGUILAR--VALENTIN,Mayoria,,confirmado en Ai Camp,San Luis Potosi,Díaz Soto y Gama--Antonio     
-2005,,TAPIA--TOMAS,san,3,33,1928-1930,MARTINEZ MACIAS--ERNESTO,Mayoria,,,San Luis Potosi,Tapia--Tomás   
-2006,,CASTILLO--EPIFANIO,san,4,33,1928-1930,GUERRERO--ROMULO,Mayoria,,,San Luis Potosi,Castillo--Epifanio    
-2007,,GARCIA PEDRAZA--ANTONIO,san,5,33,1928-1930,SALAZAR--TEODORO,Mayoria,,,San Luis Potosi,García Pedraza--Antonio    
-2008,,GALVAN--FLORENCIO,san,6,33,1928-1930,GARCIA--ANTONINO,Mayoria,,,San Luis Potosi,Galván--Florencio   
-2009,,ORTA--MANUEL,san,7,33,1928-1930,TORRE--DAGOBERTO DE LA,Mayoria,,,San Luis Potosi,Orta--Manuel  
-2010,,MOCTEZUMA--FERNANDO,san,8,33,1928-1930,SEGURA--ESTEBAN,Mayoria,,,San Luis Potosi,Moctezuma--Fernando  
-2011,,PLANCARTE--ALFONSO E.,san,9,33,1928-1930,VELAZQUEZ--JORGE,Mayoria,,,San Luis Potosi,Plancarte--Alfonso E.   
-2012,,SANTOS--GONZALO N.,san,10,33,1928-1930,ROMERO--BRAULIO M.,Mayoria,,,San Luis Potosi,Santos--Gonzalo N.  
-2013,,AZUARA--JUAN ENRIQUE,san,11,33,1928-1930,ZARATE--ANDRES,Mayoria,,,San Luis Potosi,Azuara--Juan Enrique   
-2014,,SALAZAR--MARCIANO C.,san,12,33,1928-1930,REYES--ELFEGO,Mayoria,,,San Luis Potosi,Salazar--Marciano C.   
+2003,,SANTOS ALONSO--JOSE,san,1-SAN LUIS POTOSI,33,1928-1930,ORTIZ--LEOPOLDINO J.,Mayoria,,alonso es apellido o nombre?,San Luis Potosi,Santos Alonso--José  
+2004,,DIAZ SOTO Y GAMA--ANTONIO,san,2-SAN LUIS POTOSI,33,1928-1930,AGUILAR--VALENTIN,Mayoria,,confirmado en Ai Camp verif diario debates calificación cdip,San Luis Potosi,Díaz Soto y Gama--Antonio     
+2005,,TAPIA--TOMAS,san,3-SANTA MARIA DEL RIO,33,1928-1930,MARTINEZ MACIAS--ERNESTO,Mayoria,,verif diario debates calificación cdip,San Luis Potosi,Tapia--Tomás   
+2006,,CASTILLO--EPIFANIO,san,4-CERRITOS,33,1928-1930,GUERRERO--ROMULO,Mayoria,,verif diario debates calificación cdip,San Luis Potosi,Castillo--Epifanio    
+2007,,GARCIA PEDRAZA--ANTONIO,san,5-MATEHUALA,33,1928-1930,SALAZAR--TEODORO,Mayoria,,verif diario debates calificación cdip,San Luis Potosi,García Pedraza--Antonio    
+2008,,GALVAN--FLORENCIO,san,6-VENADO,33,1928-1930,GARCIA--ANTONINO,Mayoria,,verif diario debates calificación cdip,San Luis Potosi,Galván--Florencio   
+2009,,ORTA--MANUEL,san,7-RIOVERDE,33,1928-1930,TORRE--DAGOBERTO DE LA,Mayoria,,verif diario debates calificación cdip,San Luis Potosi,Orta--Manuel  
+2010,,MOCTEZUMA--FERNANDO,san,8-CIUDAD DEL MAIZ,33,1928-1930,SEGURA--ESTEBAN,Mayoria,,verif diario debates calificación cdip,San Luis Potosi,Moctezuma--Fernando  
+2011,,PLANCARTE--ALFONSO E.,san,9-CARDENAS,33,1928-1930,VELAZQUEZ--JORGE,Mayoria,,verif diario debates calificación cdip,San Luis Potosi,Plancarte--Alfonso E.   
+2012,,SANTOS--GONZALO N.,san,10-CIUDAD VALLES,33,1928-1930,ROMERO--BRAULIO M.,Mayoria,,verif diario debates calificación cdip,San Luis Potosi,Santos--Gonzalo N.  
+2013,,AZUARA--JUAN ENRIQUE,san,11-TANCANHUITZ DE SANTOS,33,1928-1930,ZARATE--ANDRES,Mayoria,,verif diario debates calificación cdip,San Luis Potosi,Azuara--Juan Enrique   
+2014,,SALAZAR--MARCIANO C.,san,12-TAMAZUNCHALE,33,1928-1930,REYES--ELFEGO,Mayoria,,verif diario debates calificación cdip,San Luis Potosi,Salazar--Marciano C.   
 2015,,RIVERA--FRANCISCO A.,sin,1,33,1928-1930,TERRAZAS JR.--IGNACIO,Mayoria,,,Sinaloa,Rivera--Francisco A.  
 2016,,LOPEZ BELTRAN--ALEJANDRO,sin,2,33,1928-1930,ZARATE ESCALANTE--ROMULO,Mayoria,,,Sinaloa,López Beltrán--Alejandro    
 2017,,MORA Y OCHOA--FILIBERTO,sin,3,33,1928-1930,AMEZQUITA--ANTONIO,Mayoria,,,Sinaloa,Mora y Ochoa--Filiberto     
@@ -2127,17 +2127,18 @@ ord,tmp,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 2124,,VIVEROS--ERNESTO,hgo,4,34,1930-1932,OSORIO--WILFRIDO,Mayoria,,,Hidalgo,Viveros--Ernesto 
 2125,,CRUZ OROPEZA--JUAN,hgo,5,34,1930-1932,LOPEZ--JUAN,PNR Mayoria,,,Hidalgo,Cruz Oropeza--Juan 
 2126,,VILLEGAS--OTILIO,hgo,6,34,1930-1932,BELTRAN HERNANDEZ--HOMERO,PNR Mayoria,,,Hidalgo,Villegas--Otilio 
-2127,,HERNANDEZ Y HERNANDEZ--MANUEL,jal,1,34,1930-1932,GARCIA--RUPERTO,Mayoria,,,Jalisco,Hernández y Hernández--Manuel 
-2128,,OROZCO--DAVID,jal,2,34,1930-1932,MORENO--FRANCISCO Z.,PNR Mayoria,,,Jalisco,Orozco--David 
-2129,,GONZALEZ GALLO--J. JESUS,jal,3,34,1930-1932,MUÑOZ--TIBURCIO,PNR Mayoria,,,Jalisco,González Gallo--J. Jesús 
-2130,,GOMEZ CANO--JOSE V.,jal,4,34,1930-1932,CUELLAR--INOCENCIO S.,Mayoria,,,Jalisco,Gómez Cano--José V. 
-2131,,RUIZ--MANUEL H.,jal,5,34,1930-1932,DURAN--ALFONSO,Mayoria,,,Jalisco,Ruíz--Manuel H.
-2132,,GARCIA DE ALBA--ESTEBAN,jal,6,34,1930-1932,RAMOS--J. FELIX,PNR Mayoria,,,Jalisco,García de Alba--Esteban 
-2133,,MORA--HELIODORO DE LA,jal,7,34,1930-1932,CEBALLOS--JOSE F.,Mayoria,,,Jalisco,Mora--Heliodoro de la 
-2134,,BASULTO LIMON--FERNANDO,jal,8,34,1930-1932,SANTANA--AURELIO,Mayoria,,,Jalisco,Basulto Limón--Fernando 
-2135,,CUELLAR J.--LEOPOLDO,jal,9,34,1930-1932,NIZ--ISIDRO,Mayoria,,,Jalisco,Cuellar J.--Leopoldo 
-2136,,CHAVEZ--JOSE MANUEL,jal,10,34,1930-1932,GONZALEZ--ALBERTO Z.,Mayoria,,,Jalisco,Chávez--José Manuel 
-2137,,ALLENDE--SEBASTIAN,jal,12,34,1930-1932,TOPETE--EVERARDO,PNR Mayoria,,,Jalisco,Allende--Sebastián 
+2127,,HERNANDEZ Y HERNANDEZ--MANUEL,jal,1-GUADALAJARA,34,1930-1932,GARCIA--RUPERTO,Mayoria,,verif diario debates calificación cdip,Jalisco,Hernández y Hernández--Manuel 
+2128,,OROZCO--DAVID,jal,2-ENCARNACION DE DIAZ,34,1930-1932,MORENO--FRANCISCO Z.,PNR Mayoria,,verif diario debates calificación cdip,Jalisco,Orozco--David 
+2129,,GONZALEZ GALLO--J. JESUS,jal,3-TEOCALTICHE,34,1930-1932,MUÑOZ--TIBURCIO,PNR Mayoria,,verif diario debates calificación cdip,Jalisco,González Gallo--J. Jesús 
+2130,,GOMEZ CANO--JOSE V.,jal,4-ARANDAS,34,1930-1932,CUELLAR--INOCENCIO S.,Mayoria,,verif diario debates calificación cdip,Jalisco,Gómez Cano--José V. 
+2131,,RUIZ--MANUEL H.,jal,5-OCOTLAN,34,1930-1932,DURAN--ALFONSO,Mayoria,,verif diario debates calificación cdip,Jalisco,Ruíz--Manuel H.
+2132,,GARCIA DE ALBA--ESTEBAN,jal,6-SAYULA,34,1930-1932,RAMOS--J. FELIX,PNR Mayoria,,verif diario debates calificación cdip,Jalisco,García de Alba--Esteban 
+2133,,DE LA MORA--HELIODORO,jal,7-ZAPOTLAN EL GRANDE,34,1930-1932,CEBALLOS--JOSE F.,Mayoria,,verif diario debates calificación cdip,Jalisco,Mora--Heliodoro de la 
+2134,,BASULTO LIMON--FERNANDO,jal,8-AUTLAN DE NAVARRO,34,1930-1932,SANTANA--AURELIO,Mayoria,,verif diario debates calificación cdip,Jalisco,Basulto Limón--Fernando 
+2135,,CUELLAR--J. LEOPOLDO,jal,9-MASCOTA,34,1930-1932,NIZ--ISIDRO,Mayoria,,verif diario debates calificación cdip,Jalisco,Cuellar J.--Leopoldo 
+2136,,CHAVEZ--JOSE MANUEL,jal,10-AMECA,34,1930-1932,GONZALEZ--ALBERTO Z.,Mayoria,,verif diario debates calificación cdip,Jalisco,Chávez--José Manuel 
+2136.1,new,ZATARAY--JOSE,jal,11-COLOTLAN,34,1930-1932,GUIZAR--FRANCISCO JOSE,,,verif diario debates calificación cdip,,
+2137,,ALLENDE--SEBASTIAN,jal,12-ZAPOPAN,34,1930-1932,TOPETE--EVERARDO,PNR Mayoria,,verif diario debates calificación cdip,Jalisco,Allende--Sebastián 
 2138,,RIVA PALACIO--MANUEL,mex,1,34,1930-1932,ESQUINCA AGUILAR--OLIVERIO,PNR Mayoria,,,Mexico,Riva Palacio--Manuel 
 2139,,ESTRADA--FELIPE,mex,2,34,1930-1932,SANCHEZ CURIEL--MARIO,Mayoria,,,Mexico,Estrada--Felipe 
 2140,,LABRA--WENCESLAO,mex,2,34,1930-1932,JIMENEZ--JOSE,PNR Mayoria,,,Mexico,Labra--Wenceslao 
@@ -2147,15 +2148,15 @@ ord,tmp,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 2144,,LOPEZ GOMEZ--ADRIAN,mex,6,34,1930-1932,RAMIREZ DE ARELLANO--LUIS,Mayoria,,,Mexico,López Gómez--Adrián 
 2145,,LEGORRETA--RAFAEL M.,mex,7,34,1930-1932,GOMEZ--BERNARDO,Mayoria,,,Mexico,Legorreta--Rafael M. 
 2146,,SUAREZ--ZENON,mex,9,34,1930-1932,LEGASPI--ADRIAN,PNR Mayoria,,,Mexico,Suárez--Zenón 
-2147,,MORELOS--ENRIQUE,mic,1,34,1930-1932,CORONA N.--FRANCISCO,PNR Mayoria,,,Michoacan,Morelos--Enrique 
-2148,,MEDINA CHAVEZ--MANUEL,mic,2,34,1930-1932,CORIA--ALBERTO,Mayoria,,,Michoacan,Medina Chávez--Manuel 
-2149,,SOTO REYES--ERNESTO,mic,3,34,1930-1932,PAUL--JOSE,PNR Mayoria,,,Michoacan,Soto Reyes--Ernesto 
-2150,,LEÑERO RUIZ--ALFONSO,mic,4,34,1930-1932,PRADO--ERNESTO,PNR Mayoria,,agustin y alfonso?,Michoacan,Leñero Ruíz--Alfonso 
-2151,,PICAZO--RAFAEL,mic,5,34,1930-1932,MORALES--LUIS,Mayoria,,,Michoacan,Picazo--Rafael 
-2152,,HURTADO--SILVIANO,mic,6,34,1930-1932,SUMAYA--LUIS G.,Mayoria,,sin info,Michoacan,Hurtado--Silviano
-2153,,PINEDA--EFRAIN,mic,7,34,1930-1932,CORNEJO V.--J. JESUS,PNR Mayoria,,,Michoacan,Pineda--Efraín 
-2154,,AVILES--MANUEL,mic,8,34,1930-1932,LANDA Y PIÑA--ANDRES,Mayoria,,,Michoacan,Avilés--Manuel 
-2155,,CARREON--DONACIANO,mic,9,34,1930-1932,CARRILLO--JUAN MANUEL,PNR Mayoria,,mismo que el de df?,Michoacan,Carreón--Donaciano 
+2147,,MORELOS--ENRIQUE,mic,1-MORELIA,34,1930-1932,CORONA N.--FRANCISCO,PNR Mayoria,,verif diario debates calificación cdip,Michoacan,Morelos--Enrique 
+2148,,MEDINA CHAVEZ--MANUEL,mic,2-PATZCUARO,34,1930-1932,CORIA--ALBERTO,Mayoria,,verif diario debates calificación cdip,Michoacan,Medina Chávez--Manuel 
+2149,,SOTO REYES--ERNESTO,mic,3-PIEDAD--LA,34,1930-1932,PAUL--JOSE,PNR Mayoria,,verif diario debates calificación cdip,Michoacan,Soto Reyes--Ernesto 
+2150,,LEÑERO RUIZ--ALFONSO,mic,4-ZAMORA,34,1930-1932,PRADO--ERNESTO,PNR Mayoria,,agustin y alfonso? verif diario debates calificación cdip,Michoacan,Leñero Ruíz--Alfonso 
+2151,,PICAZO--RAFAEL,mic,5-TINGÜINDIN,34,1930-1932,MORALES--LUIS,Mayoria,,verif diario debates calificación cdip,Michoacan,Picazo--Rafael 
+2152,,HURTADO--SILVIANO,mic,6-URUAPAN,34,1930-1932,SUMAYA--LUIS G.,Mayoria,,verif diario debates calificación cdip,Michoacan,Hurtado--Silviano
+2153,,PINEDA--EFRAIN,mic,7-TACAMBARO,34,1930-1932,CORNEJO V.--J. JESUS,PNR Mayoria,,verif diario debates calificación cdip,Michoacan,Pineda--Efraín 
+2154,,AVILES--MANUEL,mic,8-ZITACUARO,34,1930-1932,LANDA Y PIÑA--ANDRES,Mayoria,,verif diario debates calificación cdip,Michoacan,Avilés--Manuel 
+2155,,CARREON--DONACIANO,mic,9-MARAVATIO,34,1930-1932,CARRILLO--JUAN MANUEL,PNR Mayoria,,mismo que el de df? verif diario debates calificación cdip,Michoacan,Carreón--Donaciano 
 2156,,PINEDA--J. GUADALUPE,mor,1,34,1930-1932,ALARCON--FRANCISCO,PNR Mayoria,,,Morelos,Pineda--J. Guadalupe 
 2157,,HEREDIA--LEOPOLDO,mor,2,34,1930-1932,PINEDA E.--JUVENTINO,Mayoria,,,Morelos,Heredia--Leopoldo
 2158,,TREJO--FRANCISCO,nay,1,34,1930-1932,HERNANDEZ--LUIS G.,PNR Mayoria,,,Nayarit,Trejo--Francisco 
@@ -2288,18 +2289,19 @@ ord,tmp,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 2285,,LUGO GUERRERO--JOSE,hgo,5,35,1932-1934,RAMIREZ--LEONARDO,PNR Mayoria,,,Hidalgo,Lugo Guerrero--José
 2286,,VILLEGAS--OTILIO,hgo,6,35,1932-1934,MORALES--PASCUAL,PNR Mayoria,,,Hidalgo,Villegas--Otilio
 2287,,BELTRAN HERNANDEZ--HOMERO,hgo,7,35,1932-1934,GONZALEZ--FORTINO,PNR Mayoria,9646,,Hidalgo,Beltrán Hernández--Homero
-2288,,CUELLAR J.--LEOPOLDO,jal,1,35,1932-1934,GARCIA--LUIS V.,PNR Mayoria,14140,,Jalisco,Cuellar J.--Leopoldo 
-2289,,BOUQUET--ARTURO,jal,2,35,1932-1934,PEDROZA GUERRERO--SALVADOR,Mayoria,,,Jalisco,Bouquet--Arturo
-2290,,GUTIERREZ CASILLAS--J. JESUS,jal,3,35,1932-1934,ACERO--LEON,PNR Mayoria,,,Jalisco,Gutiérrez Casillas--J. Jesús
-2291,,BARRERA--MACEDONIO S.,jal,4,35,1932-1934,CAMARENA--CECILIO,PNR Mayoria,,,Jalisco,Barrera--Macedonio S.
-2292,,AVIÑA LOPEZ--JUAN,jal,5,35,1932-1934,SAHAGUN--JERONIMO,PNR Mayoria,15455,,Jalisco,Aviña López--Juan
-2293,,SEPULVEDA--CLEMENTE,jal,6,35,1932-1934,ROMO--MATIAS,PNR Mayoria,,,Jalisco,Sepúlveda--Clemente
-2294,,OCHOA--MANUEL F.,jal,7,35,1932-1934,VALENCIA--J. FELIX,PNR Mayoria,,,Jalisco,Ochoa--Manuel F.
-2295,,GUZMAN--PONCIANO,jal,9,35,1932-1934,PALOMERA CALLEJA--MANUEL,PNR Mayoria,,,Jalisco,Guzmán--Ponciano
-2296,,CHAVEZ--JOSE MANUEL,jal,10,35,1932-1934,CEBALLOS--ALFONSO G.,PNR Mayoria,12724,,Jalisco,Chávez--José Manuel
-2297,,ZATARAY--JOSE,jal,11,35,1932-1934,RIVERA--AGUSTIN,PNR Mayoria,8840,,Jalisco,Zataray--José
-2298,,TOPETE--EVERARDO,jal,12,35,1932-1934,GUTIERREZ--JESUS R.,PNR Mayoria,,Topete Arcega,Jalisco,Topete--Everardo
-2299,,MORENO PADILLA--MIGUEL,jal,13,35,1932-1934,GONZALEZ VARGAS--MANUEL,PNR Mayoria,,,Jalisco,Moreno Padilla--Miguel
+2288,,CUELLAR J.--LEOPOLDO,jal,1-GUADALAJARA,35,1932-1934,GARCIA--LUIS V.,PNR Mayoria,14140,verif diario debates calificación cdip,Jalisco,Cuellar J.--Leopoldo 
+2289,,BOUQUET--ARTURO,jal,2-ENCARNACION DE DIAZ,35,1932-1934,PEDROZA GUERRERO--SALVADOR,Mayoria,,verif diario debates calificación cdip,Jalisco,Bouquet--Arturo
+2290,,GUTIERREZ CASILLAS--J. JESUS,jal,3-YAHUALICA DE GONZALEZ GALLO,35,1932-1934,ACERO--LEON,PNR Mayoria,,verif diario debates calificación cdip,Jalisco,Gutiérrez Casillas--J. Jesús
+2291,,BARRERA--MACEDONIO S.,jal,4-ARANDAS,35,1932-1934,CAMARENA--CECILIO,PNR Mayoria,,verif diario debates calificación cdip,Jalisco,Barrera--Macedonio S.
+2292,,AVIÑA LOPEZ--JUAN,jal,5-OCOTLAN,35,1932-1934,SAHAGUN--JERONIMO,PNR Mayoria,15455,verif diario debates calificación cdip,Jalisco,Aviña López--Juan
+2293,,SEPULVEDA--CLEMENTE,jal,6-IXTLAHUACAN DE LOS MEMBRILLOS,35,1932-1934,ROMO--MATIAS,PNR Mayoria,,verif diario debates calificación cdip,Jalisco,Sepúlveda--Clemente
+2294,,OCHOA--MANUEL F.,jal,7-ZAPOTLAN EL GRANDE,35,1932-1934,VALENCIA--J. FELIX,PNR Mayoria,,verif diario debates calificación cdip,Jalisco,Ochoa--Manuel F.
+2294.1,new,TOPETE--FLORENCIO,jal,8-AUTLAN DE NAVARRO,35,1932-1934,RODRIGUEZ--SALVADOR,,,verif diario debates calificación cdip,,
+2295,,GUZMAN--PONCIANO,jal,9-MASCOTA,35,1932-1934,PALOMERA CALLEJA--MANUEL,PNR Mayoria,,verif diario debates calificación cdip,Jalisco,Guzmán--Ponciano
+2296,,CHAVEZ--JOSE MANUEL,jal,10-AMECA,35,1932-1934,CEBALLOS--ALFONSO G.,PNR Mayoria,12724,verif diario debates calificación cdip,Jalisco,Chávez--José Manuel
+2297,,ZATARAY--JOSE,jal,11-COLOTLAN,35,1932-1934,RIVERA--AGUSTIN,PNR,8840,verif diario debates calificación cdip,Jalisco,Zataray--José
+2298,,TOPETE--EVERARDO,jal,12-TEQUILA,35,1932-1934,GUTIERREZ--JESUS R.,PNR Mayoria,,Topete Arcega verif diario debates calificación cdip,Jalisco,Topete--Everardo
+2299,,MORENO PADILLA--MIGUEL,jal,13-SAN MIGUEL EL ALTO,35,1932-1934,GONZALEZ VARGAS--MANUEL,PNR Mayoria,,verif diario debates calificación cdip,Jalisco,Moreno Padilla--Miguel
 2300,,RIVA PALACIO--MANUEL,mex,1,35,1932-1934,ROCHA--AGUSTIN,PNR Mayoria,,,Mexico,Riva Palacio--Manuel
 2301,,ARROYO--ARMANDO P.,mex,2,35,1932-1934,ESQUINCA AGUILAR--OLIVERIO,PNR Mayoria,,,Mexico,Arroyo--Armando P.
 2302,,FABILA--GILBERTO,mex,3,35,1932-1934,HERNANDEZ--MARGARITO,Mayoria,,,Mexico,Fabila--Gilberto
@@ -2311,17 +2313,17 @@ ord,tmp,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 2308,,GOMEZ--BERNARDO,mex,9,35,1932-1934,LOPEZ ZETINA--JESUS,PNR Mayoria,16368,,Mexico,Gómez--Bernardo
 2309,,LEGASPI--ADRIAN,mex,10,35,1932-1934,PATIÑO--JUAN MANUEL,PNR Mayoria,,,Mexico,Legaspi--Adrián
 2310,,MOZO--JOSE,mex,14,35,1932-1934,GONZALEZ--DAVID,PNR Mayoria,14013,,Mexico,Mozo--José
-2311,,VAZQUEZ--GABINO O.,mic,1,35,1932-1934,RUIZ SOLIS--ERNESTO,PNR Mayoria,,,Michoacan,Vázquez--Gabino O.
-2312,,GONZALEZ HERREJON--CARLOS,mic,2,35,1932-1934,TOLEDO SOSA--EMILIO,PNR Mayoria,,,Michoacan,González Herrejón--Carlos
-2313,,BREMAUNTZ MARTINEZ--ALBERTO,mic,3,35,1932-1934,CASTILLO--FEDERICO,PNR Mayoria,,,Michoacan,Bremauntz--Alberto
-2314,,RAMIREZ--ENRIQUE,mic,4,35,1932-1934,ANGEL--RAMON,PNR Mayoria,7582,,Michoacan,Ramírez--Enrique
-2315,,GARCIA AMEZCUA--LUIS,mic,5,35,1932-1934,QUIROZ S.--SOCORRO,PNR Mayoria,,,Michoacan,García Amezcua--Luis
-2316,,LEÑERO RUIZ--AGUSTIN,mic,6,35,1932-1934,HERNANDEZ--FRANCISCO,PNR Mayoria,,agustin y alfonso?,Michoacan,Leñero Ruiz--Agustín
-2317,,CORIA--ALBERTO,mic,7,35,1932-1934,ZAMORA--GABRIEL,PNR Mayoria,,,Michoacan,Coria--Alberto
-2318,,ORDORICA--JESUS J.,mic,8,35,1932-1934,GONZALEZ--FORTINO,PNR Mayoria,,,Michoacan,Ordorica--Jesús J.
-2319,,MARTINEZ--FRANCISCO A.,mic,9,35,1932-1934,SOTELO--VICTOR,PNR Mayoria,,,Michoacan,Martínez--Francisco A.
-2320,,CARRILLO DURAN--RICARDO,mic,10,35,1932-1934,PATIÑO--SACROVIR,Mayoria,12000,,Michoacan,Carrillo Durán--Ricardo
-2321,,JUAREZ--PRIMITIVO,mic,11,35,1932-1934,JIMENEZ--VIDAL,PNR Mayoria,,,Michoacan,Juárez--Primitivo
+2311,,VAZQUEZ--GABINO O.,mic,1-MORELIA,35,1932-1934,RUIZ SOLIS--ERNESTO,PNR Mayoria,,verif diario debates calificación cdip,Michoacan,Vázquez--Gabino O.
+2312,,GONZALEZ HERREJON--CARLOS,mic,2-PATZCUARO,35,1932-1934,TOLEDO SOSA--EMILIO,PNR Mayoria,,verif diario debates calificación cdip,Michoacan,González Herrejón--Carlos
+2313,,BREMAUNTZ MARTINEZ--ALBERTO,mic,3-PURUANDIRO,35,1932-1934,CASTILLO--FEDERICO,PNR Mayoria,,verif diario debates calificación cdip,Michoacan,Bremauntz--Alberto
+2314,,RAMIREZ--ENRIQUE,mic,4-PIEDAD--LA,35,1932-1934,ANGEL--RAMON,PNR Mayoria,7582,verif diario debates calificación cdip,Michoacan,Ramírez--Enrique
+2315,,GARCIA AMEZCUA--LUIS,mic,5-ZAMORA,35,1932-1934,QUIROZ S.--SOCORRO,PNR Mayoria,,verif diario debates calificación cdip,Michoacan,García Amezcua--Luis
+2316,,LEÑERO RUIZ--AGUSTIN,mic,6-JIQUILPAN,35,1932-1934,HERNANDEZ--FRANCISCO,PNR Mayoria,,agustin y alfonso? verif diario debates calificación cdip,Michoacan,Leñero Ruiz--Agustín
+2317,,CORIA--ALBERTO,mic,7-URUAPAN,35,1932-1934,ZAMORA--GABRIEL,PNR Mayoria,,verif diario debates calificación cdip,Michoacan,Coria--Alberto
+2318,,ORDORICA--JESUS J.,mic,8-APATZINGAN,35,1932-1934,GONZALEZ--FORTINO,PNR Mayoria,,verif diario debates calificación cdip,Michoacan,Ordorica--Jesús J.
+2319,,MARTINEZ--FRANCISCO A.,mic,9-TACAMBARO,35,1932-1934,SOTELO--VICTOR,PNR Mayoria,,verif diario debates calificación cdip,Michoacan,Martínez--Francisco A.
+2320,,CARRILLO DURAN--RICARDO,mic,10-ZITACUARO,35,1932-1934,PATIÑO--SACROVIR,Mayoria,12000,verif diario debates calificación cdip,Michoacan,Carrillo Durán--Ricardo
+2321,,JUAREZ--PRIMITIVO,mic,11-falta en pepe,35,1932-1934,JIMENEZ--VIDAL,PNR Mayoria,,verif diario debates calificación cdip,Michoacan,Juárez--Primitivo
 2322,,ALBARRAN--AGAPITO M.,mor,1,35,1932-1934,LEYVA--JACINTO,PNR Mayoria,,,Morelos,Albarrán--Agapito M.
 2323,,BUSTAMANTE--JOSE REFUGIO,mor,2,35,1932-1934,GUTIERREZ--JESUS,PNR Mayoria,,,Morelos,Bustamante--José Refugio
 2324,,FLORES MUÑOZ--GUILLERMO,nay,1,35,1932-1934,ROJAS CARDIEL--TOMAS,PNR Mayoria,,,Nayarit,Flores Muñoz--Guillermo
@@ -2355,13 +2357,13 @@ ord,tmp,nom,edo,disn,leg,yrs,suplente,tipo,votos,nota,edo.godoy,nom.godoy
 2352,,FAZ RISA--PAZ,pue,11,35,1932-1934,TREJO--SILVERIO,PNR Mayoria,,,Puebla,Faz Risa--Paz
 2353,,OSORNIO--FIDENCIO,que,1,35,1932-1934,REYES DEL CAMPILLO--JUAN,PNR Mayoria,18186,,Queretaro,Osornio--Fidencio
 2354,,MONTES JR.--SEVERIANO,que,2,35,1932-1934,RUBIO--NORADINO,PNR Mayoria,,,Queretaro,Montes Jr.--Severiano
-2355,,SANTOS ALONSO--JOSE,san,1,35,1932-1934,ACEVEDO JR.--JOSE MARIA,PNR Mayoria,,,San Luis Potosi,Santos Alonso--José
-2356,,CASTILLO--EPIFANIO,san,2,35,1932-1934,FLORES--BRUNO,PNR Mayoria,,,San Luis Potosi,Castillo--Epifanio
-2357,,GARCIA PEDRAZA--ANTONIO,san,3,35,1932-1934,BERRONES--EPIFANIO,PNR Mayoria,11173,,San Luis Potosi,García Pedraza--Antonio
-2358,,TAPIA--TOMAS,san,4,35,1932-1934,GARCIA--PILAR,PNR Mayoria,,,San Luis Potosi,Tapia--Tomás
-2359,,MOCTEZUMA--FERNANDO,san,5,35,1932-1934,HERNANDEZ--JOSE L.,PNR Mayoria,,,San Luis Potosi,Moctezuma--Fernando
-2360,,SANTOS--GONZALO N.,san,6,35,1932-1934,AZUARA--JUAN ENRIQUE,PNR Mayoria,,,San Luis Potosi,Santos--Gonzalo N.
-2361,,ZARATE SANCHEZ--ANDRES,san,7,35,1932-1934,SANCHEZ--GRACIANO,PNR Mayoria,,,San Luis Potosi,Zárate Sánchez--Andrés
+2355,,SANTOS ALONSO--JOSE,san,1-SAN LUIS POTOSI,35,1932-1934,ACEVEDO JR.--JOSE MARIA,PNR Mayoria,,verif diario debates calificación cdip,San Luis Potosi,Santos Alonso--José
+2356,,CASTILLO--EPIFANIO,san,2-CERRITOS,35,1932-1934,FLORES--BRUNO,PNR Mayoria,,verif diario debates calificación cdip,San Luis Potosi,Castillo--Epifanio
+2357,,GARCIA PEDRAZA--ANTONIO,san,3-MATEHUALA,35,1932-1934,BERRONES--EPIFANIO,PNR Mayoria,11173,verif diario debates calificación cdip,San Luis Potosi,García Pedraza--Antonio
+2358,,TAPIA--TOMAS,san,4-SALINAS,35,1932-1934,GARCIA--PILAR,PNR Mayoria,,verif diario debates calificación cdip,San Luis Potosi,Tapia--Tomás
+2359,,MOCTEZUMA--FERNANDO,san,5-RIOVERDE,35,1932-1934,HERNANDEZ--JOSE L.,PNR Mayoria,,verif diario debates calificación cdip,San Luis Potosi,Moctezuma--Fernando
+2360,,SANTOS--GONZALO N.,san,6-CIUDAD VALLES,35,1932-1934,AZUARA--JUAN ENRIQUE,PNR Mayoria,,verif diario debates calificación cdip,San Luis Potosi,Santos--Gonzalo N.
+2361,,ZARATE SANCHEZ--ANDRES,san,7-TANCANHUITZ DE SANTOS,35,1932-1934,SANCHEZ--GRACIANO,PNR Mayoria,,verif diario debates calificación cdip,San Luis Potosi,Zárate Sánchez--Andrés
 2362,,DE SARACHO--JOSE R.,sin,1,35,1932-1934,RIVERA--CECILIO,PNR Mayoria,,,Sinaloa,Saracho--José R. de
 2363,,AMEZQUITA--ANTONIO,sin,2,35,1932-1934,ABITIA--ELIGIO,PNR Mayoria,5058,,Sinaloa,Amézquita--Antonio
 2364,,BON BUSTAMANTE--CRISTOBAL,sin,3,35,1932-1934,BRINGAS--LUIS G.,PNR Mayoria,,,Sinaloa,Bon Bustamante--Cristóbal
